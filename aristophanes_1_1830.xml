@@ -46,7 +46,7 @@
                                     <name xml:lang="fr">Nicolas Louis Marie Artaud</name>
                                 </persName>
                             </editor> 
-                            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0019">Aristophanes</author>  
+                            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0019">Aristophane</author>  
                             <title>Comédies</title>
                             <imprint>
                                 <publisher>Brissot-Thivars</publisher>
