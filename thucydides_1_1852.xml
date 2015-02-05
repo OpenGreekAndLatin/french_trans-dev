@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Histoire de la Guerre du Péloponnése</title>
+<title>Histoire de la Guerre du Péloponnèse</title>
 <sponsor>University of Leipzig</sponsor>
 <funder>European Social Fund Saxony</funder>
 <principal>Gregory Crane</principal>
@@ -44,11 +44,11 @@ Attribution-ShareAlike 4.0 International License</licence>
 <monogr>
 <editor>
 <persName>
-<name xml:lang="fr">Ch. Zevort</name>
+<name xml:lang="fr">Marie Charles Zévort</name>
 </persName>
 </editor>
 <author ref="http://data.perseus.org/catalog/urn:cite:perseus:cattg.3.1">Thucydides</author>
-<title>Histoire de la Guerre du Péloponnése</title>
+<title>Histoire de la Guerre du Péloponnèse</title>
 <imprint>
 <publisher>Charpentier</publisher>
 <pubPlace>Paris</pubPlace>
