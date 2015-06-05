@@ -58,12 +58,13 @@ Traduction nouvelle</title>
 									<name xml:lang="fr">ALPHONSE LEMERRE</name>
 								</persName>
 							</editor>
-							<author ref="urn:cts:greekLit:tlg0085.tlg003">Aeschylus</author>
+							<author ref="urn:cts:greekLit:tlg0085">Aeschylus</author>
 							<imprint>
 								<pubPlace>PARIS</pubPlace>
 								<publisher>ALPHONSE LEMERRE, ÉDITEUR 23-33, PASSAGE CHOISEUL, 23-33</publisher>
 							</imprint>
 						</monogr>
+						<ref target="http://hdl.handle.net/2027/mdp.39015030384096">HathiTrust</ref>
 					</biblStruct>
 				</listBibl>
 			</sourceDesc>
