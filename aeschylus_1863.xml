@@ -2394,10 +2394,10 @@ sonnages du drame se font comme un malin plaisir d’accuser
 l’immoralité de l’oracle. Il y a des passages où, si je ne me
 trompe, la satire philosophique ne se dissimule pas. « C’est
 Phébus, dit Oreste à Ménélas, qui m’a ordonné d’être le
-meurtrier de ma mère.— M<hi rend="smallcap">énélas</hi>. Il a ignoré le devoir et
-la justice.— O<hi rend="smallcap">reste</hi>. Nous sommes les esclaves des dieux
-quels qu’ils soient.— M<hi rend="smallcap">énélas</hi>. Et après cela, Loxias te re-
-fuse son secours dans tes souffrances! —O<hi rend="smallcap">reste</hi>. Il ne se
+meurtrier de ma mère.— Ménélas. Il a ignoré le devoir et
+la justice.— Oreste. Nous sommes les esclaves des dieux
+quels qu’ils soient.— Ménélas. Et après cela, Loxias te re-
+fuse son secours dans tes souffrances! —Oreste. Il ne se
 hâte pas; c’est dans la nature de la divinité.<hi rend="superscript">1</hi> »Il est bien
 difficile, après cela, de prendre Apollon au sérieux, lorsqu’il
 paraît à la fin de la pièce pour se charger du dénoûment. Le
@@ -4356,7 +4356,7 @@ satyrique. Xénoclès, du dême d’Aphidnes, fut le chorége.</note>
 							<p>Auxquels l’homme obéit, quand il nomme au hasard.</p>
 							<p>Des vaisseaux détruits, du carnage</p>
 							<p>Ce nom portait le sinistre présage.</p>
-							<note type="footnote">1. <hi rend="italic">Hélène</hi>, celle qui détruit les vaisseaux (de <foreign xml:lang="grc">έλεϊν</foreign> et de <foreign xml:lang="grc">ναϋς</foreign>).</note>
+							<note type="footnote">1. <hi rend="italic">Hélène</hi>, celle qui détruit les vaisseaux (de <foreign xml:lang="grc">ἑλεῖν</foreign> et de <foreign xml:lang="grc">ναῦς</foreign>).</note>
 							<pb n="133"/>
 							<p>Chargé des secrets du destin,</p>
 							<p>Il convenait à l’épouse fatale.</p>
@@ -5676,7 +5676,7 @@ lui, Myrtile, instrument de sa perfidie.</note>
 tième du texte :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Άντε'ρας, δταν φΟίνωσιν, άντολάς τε των</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἀντέρας, ὅταν φθίνωσιν, ἀντολάς τε τῶν</foreign>.</seg>
 						</ab>
 						<p>PAGE 108.</p>
 						<p>Sur trois pieds lente à se mouvoir.</p>
@@ -5687,8 +5687,8 @@ aussi ces vers d’Hécube, dans les <hi rend="italic">Troyennes</hi> d’Euripi
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Έγώ oè.....τριτοβάριονος χέρι
-Δευορ,ένα βάκτρου</foreign>.......</seg>
+<foreign xml:lang="grc">Ἐγὼ δὲ.....τριτοβάριονος χερὶ
+Δευομένα βάκτρου</foreign>.......</seg>
 						</ab>
 						<p>PAGE 109.</p>
 						<p>Je puis chanter l’heureux présage....</p>
@@ -5697,8 +5697,8 @@ Boissonade. Au lieu de<hi rend="superscript">1</hi> :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">ΔίΟρονον κράτος, Ελλάδος ήβαν,
-Ξύριφρονα τάν γαν</foreign>....</seg>
+<foreign xml:lang="grc">Δίθρονον κράτος, Ἑλλάδος ἥβαν,
+Ξύμφρονα τὰν γᾶν</foreign>....</seg>
 						</ab>
 						<p>1. Le texte de Boissonade étant celui que j’ai généralement suivi, la
 leçon que je cite, dans mes notes, après ces mots : <hi rend="italic">au lieu de</hi>, est tou-
@@ -5707,15 +5707,15 @@ je lis, avec Schùtz, Ahrens et Weil :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">ΔίΟρονον κράτος, Ελλάδος ήβας
-Ξύ(χφρονα ταγόν</foreign>....</seg>
+<foreign xml:lang="grc">Δίθρονον κράτος, Ἑλλάδος ἥβας
+Ξύμφρονα ταγὰν</foreign>....</seg>
 						</ab>
 						<p>et au lieu de :</p>
-						<p><foreign xml:lang="grc">Βοσκόμενοι λαγίναν, Ιρικύρ,ατα φέρριατα, γένναν</foreign>...
+						<p><foreign xml:lang="grc">Βοσκόμενοι λαγίναν, ἐρικύματα φέρματα, γένναν</foreign>...
 je lis, avec Schütz et Ahrens :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Booxôjievot λαγίναν έρικύρ,ονα φέρματι γένναν</foreign>....</seg>
+							<seg><foreign xml:lang="grc">Βοσκόμενοι λαγίναν ἐρικύμονα φέρματι γένναν</foreign>....</seg>
 						</ab>
 						<p>page 111.</p>
 						<p>Qui trahirait l’époux, aux discords mena çants
@@ -5733,11 +5733,11 @@ matiques de son langage :</p>
 						<p>PAGE 111.</p>
 						<p>Soulage de son poids notre esprit soucieux.</p>
 						<p>Au lieu de :</p>
-						<p><foreign xml:lang="grc">Πλήν Δώς, γε (χαταν άπο φροντίδος άχθος</foreign>....
+						<p><foreign xml:lang="grc">Πλὴν Διὸς, ᾗ γε ματᾶν ἀπὸ φροντίδος ἄχθος</foreign>....
 je lis, avec Weil :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Πλήν Δι'ος, il τό ριάταν άπ'ο φροντίδας ά/Οος</foreign>...</seg>
+							<seg><foreign xml:lang="grc">Πλήν Διὸς, εἰ τὸ μάταν ἀπὸ φροντίδος ἄχθος</foreign>...</seg>
 						</ab>
 						<p>PAGE 118.</p>
 						<p>Comme, la nuit entière, ils vont dormir en paix!</p>
@@ -5745,8 +5745,8 @@ je lis, avec Weil :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Λρόσων δ’ άπαλλαγέντες (ώς δυσδαίμονες! )
-Αφύλακτον εόδήσουσι πάσαν εύφρόνην</foreign>.</seg>
+<foreign xml:lang="grc">Δρόσων δ’ ἀπαλλαγέντες (ὡς δυσδαίμονες! )
+Ἀφύλακτον εὑδήσουσι πᾶσαν εὐφρόνην</foreign>.</seg>
 						</ab>
 						<p>jours celle de Boissonade. J’en avertis le lecteur une fois pour toutes.
 Je ne signale, dans ces notes, que les changements de quelque impor-
@@ -5757,15 +5757,15 @@ le sens.</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Λρόοων δ’άτιαλλαγέντες · ώς δ’ εύδαίμονες
-Αφύλακτον, κ, τ. λ</foreign>.</seg>
+<foreign xml:lang="grc">Δρόοων δ’ἀπαλλαγέντες · ὡς δ’ εὐδαίμονες
+Ἀφύλακτον, κ. τ. λ</foreign>.</seg>
 						</ab>
 						<p>J’avais d’abord lu avec Schütz :</p>
 						
 						<ab>
 							<seg>
-........<foreign xml:lang="grc">ώς δοοδαίμονες
-Αφύλακτον, κ. τ. λ</foreign>.</seg>
+........<foreign xml:lang="grc">ὡς δυσδαίμονες
+Ἀφύλακτον, κ. τ. λ</foreign>.</seg>
 						</ab>
 						<p>et traduit :</p>
 						<p>Et du sommeil du pauvre ils s’endorment en paix.</p>
@@ -5775,24 +5775,24 @@ le sens.</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">θεοίς δ’, ίναμπλάχητος tl μόλοι ορατός</foreign>,...</seg>
+							<seg><foreign xml:lang="grc">θεοῖς δ’, ἀναμπλάκητος εἰ μόλοι σρατὸς</foreign>,...</seg>
 						</ab>
 						<p>je lis, avec Schütz :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">θεοίσι δ’ ίμπλάκητος εί μόλοι ορατός</foreign>....</seg>
+							<seg><foreign xml:lang="grc">θεοῖσι δ’ ἀμπλάκητος εἰ μόλοι σρατὸς</foreign>....</seg>
 						</ab>
 						<p>PAGE 119.</p>
 						<p>Vieillards, j’ai dit. Peut-être en femme ai-je parlé.</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Τοιαδτά τοι γοναιχός ΐξ έμο3 χλύοις</foreign>...</seg>
+							<seg><foreign xml:lang="grc">Τοιαῦτά τοι γυναικὸς ἐξ ἐμοῦ κλύοις</foreign>...</seg>
 						</ab>
 						<p>je lis :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Τοιαΰτά τοι γοναικός έξ ίμοΟ κλύεις</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Τοιαῦτά τοι γυναικός ἐξ ἐμοῦ κλύεις</foreign>.</seg>
 						</ab>
 						<p>PAGE 120.</p>
 						<p>Ils peuvent, à ses coups, nommer la main divine.</p>
@@ -5801,17 +5801,17 @@ le sens.</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Λ ιός  ϊχοοοιν · είπείν
-ϋάρεοτι, τουτό τ’ έξιχνεΰοαι.
-Ώς ίπραξαν, ώς ίχρανεν</foreign>.</seg>
+<foreign xml:lang="grc">Διὸς  πλαγὰν ἔχουσιν · εἰπεῖν
+Πάρεστι, τοῦτό τ’ ἐξιχνεῦσαι.
+Ὡς ἔπραξαν, ὡς ἔκρανεν</foreign>.</seg>
 						</ab>
 						<p>je lis :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Δ,ιος πλαγάν εχουσιν είπείν·
-Πάρεοτιν τοδτο γ* έξιχνεδσβι,
-Ός ϊπραξεν, ώς ίχρανεν</foreign>.</seg>
+<foreign xml:lang="grc">Διὸς πλαγὰν ἔχουσιν εἰπεῖν·
+Πάρεστιν τοῦτο γ᾽ ἐξιχνεῦσαι,
+Ὡς ἔπραξεν, ὡς ἔκρανεν</foreign>.</seg>
 						</ab>
 						<pb n="180"/>
 						<p>PAGE 120.</p>
@@ -5819,24 +5819,24 @@ le sens.</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Πέφανται δ’ έκ γένους</foreign></seg>
+							<seg><foreign xml:lang="grc">Πέφανται δ’ ἐκ γένους</foreign></seg>
 						</ab>
 						<p>je lis, avec Schütz et Ahrens :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Πέφανται δ’ Ιγγόνοις</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Πέφανται δ’ ἐγγόνοις</foreign>.</seg>
 						</ab>
 						<p>PAGE 124.</p>
 						<p>Peut-être un dieu nous veut-il décevoir.</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Τ(ς οΤδεν; ήτοι Θειον έστι [χή ψύΟος</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Τίς οἶδεν; ἤτοι θεῖον ἐστι μὴ ψύθος</foreign>.</seg>
 						</ab>
 						<p>je lis, avec Weil :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Τις οιδεν, ή τι ΟεΓόν έστι μή ψύΟος</foreign>;</seg>
+							<seg><foreign xml:lang="grc">Τίς οἶδεν, ἤ τι θεῖόν ἐστι μὴ ψύθος</foreign>;</seg>
 						</ab>
 						<p>PAGE 124.</p>
 						<p>Nous apprendrons bientôt si ces clartés lointaines....</p>
@@ -5845,7 +5845,7 @@ non à Clytemnestre. Elle ne doit pas encore avoir reparu sur la
 scène. C’est seulement sans doute lorsqu’elle prononce ce vers :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Άνωλολύξαμεν πάλαι χαράς δπο</foreign>,...</seg>
+							<seg><foreign xml:lang="grc">Ἀνωλολύξαμεν πάλαι χαρᾶς ὕπο</foreign>,...</seg>
 						</ab>
 						<p>qu’elle survient au milieu de l’entretien entre le chœur et le
 héraut.</p>
@@ -5868,24 +5868,24 @@ Les dieux seuls ont permis qu’enfin je vous revoie.
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">'Ως πόλλ1 άμαυρίς Ικ βρενός σ’ άναστένειν</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ὡς πόλλ' ἀμαυρᾶς ἐκ φρενός σ’ ἀναστένειν</foreign>.</seg>
 						</ab>
 						<p>je lis, avec la plupart des critiques :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Ώς πύλλ’ άμαυρίς Ικ φρενός μ’ άναστένειν</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ὡς πόλλ’ ἀμαυρᾶς ἐκ φρενός μ’ ἀναστένειν</foreign>.</seg>
 						</ab>
 						<p>PAGE 127.</p>
 						<p>Quel était ce secret de cruelle souffrance?</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">ΠόΟεν το δύσβρον τοΰτ1 Ιπην στύγος στρατω</foreign>;</seg>
+							<seg><foreign xml:lang="grc">Πόθεν τὸ δύσφρον τοῦτ' ἐπῆν στύγος στρατῷ</foreign>;</seg>
 						</ab>
 						<p>je lis, avec Weil :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Πόθεν το δύσφρον τοΰτ’ Ιπην στύγος; βράσον</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Πόθεν τὸ δύσφρον τοῦτ’ ἐπῆν στύγος; φράσον</foreign>.</seg>
 						</ab>
 						<p>PAGE 131.</p>
 						<p>Consacrée aux dieux bons, qu’une heureuse journée,....</p>
@@ -5904,12 +5904,12 @@ Soit....</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">*Ητοι τις Ιξέκλεψεν, ή’ ξητήσατο</foreign>,</seg>
+							<seg><foreign xml:lang="grc">Ἤτοι τις ἐξέκλεψεν, ἤ’ ξῃτήσατο</foreign>,</seg>
 						</ab>
 						<p>je lis, avec Schütz et Weil :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">’Ήτοι τις Ιξέ/.λεψεν, ή’ξηγ^αατο</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἤτοι τις ἐξέκλεψεν, ἤ’ξηγήσατο</foreign>.</seg>
 						</ab>
 						<pb n="182"/>
 						<p>PAGE 132.</p>
@@ -5919,8 +5919,8 @@ marque superstitieuse sur le nom de <hi rend="italic">Polynice</hi></p>
 						
 						<ab>
 							<seg>
-.... <foreign xml:lang="grc">άληΟώς δ’ δνομα Πολυνείκην πατήρ
-χΕoετ&lt;s σοι θεία προνοία νεικέων Ιπώνυρον</foreign>.</seg>
+.... <foreign xml:lang="grc">ἀληθῶς δ’ ὄνομα Πολυνείκην πατὴρ
+Ἔθετό σοι θείᾳ προνοίᾳ νεικέων ἐπώνυμον</foreign>.</seg>
 						</ab>
 						<p>Voy. aussi les <hi rend="italic">Sept devant Thèbes</hi>, vers 645, et vers 815 et
 suiv. (édit. Boissonade).</p>
@@ -5939,12 +5939,12 @@ Rossillon</hi> :</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">θάρσος Ικούσιον</foreign></seg>
+							<seg><foreign xml:lang="grc">Θάρσος ἑκούσιον</foreign></seg>
 						</ab>
 						<p>je lis, avec Schütz et Ahrens :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">θάροος ir.oôiiov</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Θάρσος ἀκούσιον</foreign>.</seg>
 						</ab>
 						<p>PAGE 139.</p>
 						<p>Les sinistres récits l’un sur l’autre enchérissent...</p>
@@ -5964,12 +5964,12 @@ Que le bonheur est lent à passer dans mon cœur.
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Εντός δ’ άν Ουσα μορσίμων άγρευμάτων</foreign>,</seg>
+							<seg><foreign xml:lang="grc">Ἐντὸς δ’ ἂν οὖσα μορσίμων ἀγρευμάτων</foreign>,</seg>
 						</ab>
 						<p>je lis, avec Ahrens :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">’Extbç δ’ ίν Ουσα μορσίμων άγρευμάτων</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἐκτὸς δ’ ἄν οὖσα μορσίμων ἀγρευμάτων</foreign>.</seg>
 						</ab>
 						<p>PAGE 147,</p>
 						<p>Apollon! ô douleur! ô terre!</p>
@@ -6161,24 +6161,24 @@ d’Eschyle :</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">βαύματ’ Ιμο\ κλύειν</foreign>,</seg>
+							<seg><foreign xml:lang="grc">Θαύματ’ ἐμοὶ κλύειν</foreign>,</seg>
 						</ab>
 						<p>je lis, suivant la leçon le plus généralement adoptée :</p>
 						
 						<ab>
-							<seg>θραύματ’ έμο\ κλύειν.</seg>
+							<seg>Θραύματ’ ἐμοὶ κλύειν.</seg>
 						</ab>
 						<p>PAGE 153.</p>
 						<p>Et moi qu’échauffe encore une fureur divine....</p>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Έγώ δέ θερμόν ους xdty’ Ιμπέδω βάλω</foreign>,</seg>
+							<seg><foreign xml:lang="grc">Ἐγὼ δὲ θερμὸν οὗς τάχ' ἐμπέδῳ βάλῶ</foreign>,</seg>
 						</ab>
 						<p>je lis, en me tenant plus près des manuscrits :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Έγώ δ£ Οερριόνους τάχ’ èv πέδω βαλώ</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἐγὸ δὲ θερμόνους τάχ’ ἐν πέδῳ βαλῶ</foreign>.</seg>
 						</ab>
 						<p>PAGE 154.</p>
 						<p>Que pourrait un serment et ses plus forts liens?...</p>
@@ -6186,14 +6186,14 @@ d’Eschyle :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Κα\ πως Sv δρκος, πημα γενναίως παγέν,
+<foreign xml:lang="grc">Καὶ πῶς ἃν ὅρκος, πῆμα γενναίως παγὲν,
 Παιώνιος</foreign>....</seg>
 						</ab>
 						<p>je lis, avec Schütz et Weil :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Καί πώς Sv δρκου πήγμα γενναίως παγέν,
+<foreign xml:lang="grc">Καὶ πώς ἃν ὅρκου πῆγμα γενναίως παγὲν,
 Παιώνιον</foreign>....</seg>
 						</ab>
 						<p>PAGE 154.</p>
@@ -6201,12 +6201,12 @@ d’Eschyle :</p>
 						<p>Comme Ahrens et Weil, j’ai placé le vers :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Μών κα\ θεός περ</foreign>......</seg>
+							<seg><foreign xml:lang="grc">Μῶν καὶ θεός περ</foreign>......</seg>
 						</ab>
 						<p>avant le vers.</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Προτού [Jièv αιδώς</foreign>......</seg>
+							<seg><foreign xml:lang="grc">Προτοῦ μὲν αἰδὼς</foreign>......</seg>
 						</ab>
 						<pb n="189"/>
 						<p>PAGE 157.</p>
@@ -6227,12 +6227,12 @@ Morsus cruentos passus audacis leæ.</seg>
 						<p>Au lieu de :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">’Ίτ’ Ις οΟόρον πεσδντα γ’· ώδ’ άμείψομαι</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἴτ’ ἐς φθόρον πεσόντα γ’· ὡδ’ ἀμείψομαι</foreign>.</seg>
 						</ab>
 						<p>je lis, d’après la correction d’Hermann :</p>
 						
 						<ab>
-							<seg><foreign xml:lang="grc">Ίτ’ ες φΟόρον πεσόντ’· Ιγώ δ’ Su.’?ψο(ααι</foreign>.</seg>
+							<seg><foreign xml:lang="grc">Ἴτ’ ἐς φθόρον πεσόντ’· ἐγὼ δ’ ἅμ' ἕψομαι</foreign>.</seg>
 						</ab>
 						<p>Euripide s’est souvenu de ce beau passage. Dans ses <hi rend="italic">Troyennes</hi>,
 lorsque Talthybius est venu annoncer que Cassandre doit suivre
@@ -6240,9 +6240,9 @@ Agamemnon, Hécube dit à sa fille :</p>
 						
 						<ab>
 							<seg>
-<foreign xml:lang="grc">Τίπτε, τέκνον, ζαΟέους
-Κλάδας, και άκο χρο'ος έν-
-δυτων ατεαίων Ιερούς άτολμους</foreign>.
+<foreign xml:lang="grc">Ῥίπτε, τέκνον, ζαθέους
+Κλῇδας, καὶ ἀπὸ χροὸς ἐν-
+δυτῶν στεφέων ἱεροὺς στολμούς</foreign>.
 (V. 256-258.)</seg>
 						</ab>
 						<p>Voy. aussi, dans la même pièce, les vers 441-443, où le sou-
@@ -8336,7 +8336,7 @@ TROISIÈME PARTIE DE LA TRILOGIE.</title>
 							<p>Nul ne les souffrirait sous le toit des mortels.</p>
 							<p>Quel peut être le peuple où cette race est née?</p>
 							<note type="footnote">1. La scène reste vide un moment; car le chœur n’a pas encore
-paru (S<hi rend="smallcap">coliaste</hi>).</note>
+paru (Scoliaste).</note>
 							<pb n="256"/>
 							<p>Toute terre bientôt doit être empoisonnée,</p>
 							<p>Qui nourrit ces fléaux de malédiction.</p>
@@ -9873,9 +9873,9 @@ Parques, pour soustraire Admète à leur puissance.</p>
 				<p>L'ORESTIE.</p>
 				<p>Agamemnon 105</p>
 				<p>Notes sur Agamemnon 177</p>
-				<p>L<hi rend="smallcap">es</hi> C<hi rend="smallcap">hoéphores</hi> 195</p>
+				<p>Les Choéphores 195</p>
 				<p>Notes sur les Choéphores 245</p>
-				<p>L<hi rend="smallcap">es</hi> E<hi rend="smallcap">uménides</hi> 253</p>
+				<p>Les Euménides 253</p>
 				<p>Notes sur les Euménides 301</p>
 				<p>FIN DE LA TABLE</p>
 			</div>
