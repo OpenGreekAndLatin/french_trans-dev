@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>L'ORESTIE TRILOGIE TRAGIQUE D’ESCHYLE</title>
+				<title>L'orestie trilogie tragique d’Eschyle</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,16 +48,16 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>L'ORESTIE TRILOGIE TRAGIQUE D’ESCHYLE</title>
+							<title>L'orestie trilogie tragique d’Eschyle</title>
 							<editor>
 								<persName>
-									<name xml:lang="fr">PAUL MESNARD</name>
+									<name xml:lang="fr">Paul Mesnard</name>
 								</persName>
 							</editor>
-							<author ref="urn:cts:greekLit:tlg0085">AESCHYLUS</author>
+							<author ref="urn:cts:greekLit:tlg0085">Aeschylus</author>
 							<imprint>
-								<pubPlace>PARIS</pubPlace>
-								<publisher>LIBRAIRIE DE L. HACHETTE ET CIE BOULEVARD SAINT-GERMAIN, N° 77</publisher>
+								<pubPlace>Paris</pubPlace>
+								<publisher>Librairie de L. Hachette et Cie Boulevard Saint-Germain, No 77</publisher>
 								<date>1863</date>
 							</imprint>
 						</monogr>
