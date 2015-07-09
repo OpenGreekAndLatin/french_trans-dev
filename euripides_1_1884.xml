@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>EURIPIDE</title>
+				<title>Euripide</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,7 +48,7 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>EURIPIDE</title>
+							<title>Euripide</title>
 							<editor>
 								<persName>
 									<name xml:lang="fr">Leconte de Lisle</name>
@@ -59,8 +59,8 @@
 							</editor>
 							<author ref="urn:cite:perseus:author.601">Euripides</author>
 							<imprint>
-								<pubPlace>PARIS</pubPlace>
-								<publisher>ALPHONSE LEMERRE, ÉDITEUR 27-31, PASSAGE CHOISEUL, 27-31</publisher>
+								<pubPlace>Paris</pubPlace>
+								<publisher>Alphonse Lemérre, Éditeur 27-31, PASSAGE CHOISEUL, 27-31</publisher>
 								<date>M DCCC LXXXIV</date>
 							</imprint>
 						</monogr>
@@ -96,23 +96,23 @@
 						<title>I
 HÉKABÈ</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="3"/>
 						<head>
 							<title>I
 HÉKABÈ</title>
 						</head>
-						<p>L<hi rend="smallcap">e</hi> S<hi rend="smallcap">pectre de</hi> P<hi rend="smallcap">olydôros.</hi></p>
-						<p>H<hi rend="smallcap">ÉKABÈ.</hi></p>
-						<p>C<hi rend="smallcap">hoeur des</hi> F<hi rend="smallcap">emmes captives.</hi></p>
-						<p>P<hi rend="smallcap">OLYXÉNÈ.</hi></p>
-						<p>O<hi rend="smallcap">DYSSEUS.</hi></p>
-						<p>T<hi rend="smallcap">althybios.</hi></p>
-						<p>U<hi rend="smallcap">ne</hi> S<hi rend="smallcap">ervante.</hi></p>
-						<p>A<hi rend="smallcap">camemnôn.</hi></p>
-						<p>P<hi rend="smallcap">olymèstôr.</hi></p>
+						<p>Le Spectre de Polydôros.</p>
+						<p>HÉKABÈ.</p>
+						<p>Choeur des Femmes captives.</p>
+						<p>POLYXÉNÈ.</p>
+						<p>ODYSSEUS.</p>
+						<p>Talthybios.</p>
+						<p>Une Servante.</p>
+						<p>Acamemnôn.</p>
+						<p>Polymèstôr.</p>
 						<p>LE SPECTRE DE POLYDÔROS.</p>
-						<p>J<hi rend="smallcap">E</hi> viens, quittant la caverne des monts et les
+						<p>JE viens, quittant la caverne des monts et les
 portes de l’obscurité où habite Aidès, loin des
 Dieux, moi, Polydôros, né de Hékabè la Kis-
 séenne et de Priames mon père. Et celui-ci,
@@ -1580,7 +1580,7 @@ pères!</p>
 						<p>Amies, allez aux ports et aux tentes, essayer les tra-
 vaux de la servitude, car c’est une dure nécessité.</p>
 						<p>FIN DE HÉKABÈ.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="2">
 					<pb n="59"/>
@@ -1588,25 +1588,25 @@ vaux de la servitude, car c’est une dure nécessité.</p>
 						<title>II
 ORESTÈS</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="61"/>
 						<head>
 							<title>II
 ORESTÈS</title>
 						</head>
-						<p>E<hi rend="smallcap">lektra.</hi></p>
-						<p>H<hi rend="smallcap">ÉLÉNÈ.</hi></p>
-						<p>H<hi rend="smallcap">ERMIONÈ.</hi></p>
-						<p>C<hi rend="smallcap">hoeur des</hi> F<hi rend="smallcap">emmes arciennes.</hi></p>
-						<p>O<hi rend="smallcap">RESTÈS.</hi></p>
-						<p>M<hi rend="smallcap">ÉNÉLAOS.</hi></p>
-						<p>T<hi rend="smallcap">yndaréôs.</hi></p>
-						<p>P<hi rend="smallcap">yladès.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>A<hi rend="smallcap">pollôn.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> P<hi rend="smallcap">hryge.</hi></p>
+						<p>Elektra.</p>
+						<p>HÉLÉNÈ.</p>
+						<p>HERMIONÈ.</p>
+						<p>Choeur des Femmes arciennes.</p>
+						<p>ORESTÈS.</p>
+						<p>MÉNÉLAOS.</p>
+						<p>Tyndaréôs.</p>
+						<p>Pyladès.</p>
+						<p>Un Messager.</p>
+						<p>Apollôn.</p>
+						<p>Un Phryge.</p>
 						<p>ÉLEKTRA.</p>
-						<p>I<hi rend="smallcap">L</hi> n’est aucune chose si terrible à dire, aucun
+						<p>IL n’est aucune chose si terrible à dire, aucun
 mal, aucune calamité envoyée divinement,
 dont la nature de l’homme ne supporte le
 poids. Car l’heureux Tantalos, né de Zeus,
@@ -3941,7 +3941,7 @@ salut des marins.</p>
 						<p>O très vénérable Victoire, accompagne toujours ma
 vie, et ne cesse pas de me couronner!</p>
 						<p>FIN D’ORESTÈS</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="3">
 					<pb n="153"/>
@@ -3949,25 +3949,25 @@ vie, et ne cesse pas de me couronner!</p>
 						<title>III
 LES PHOINISSIENNES</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="155"/>
 						<head>
 							<title>III
 LES PHOINISSIENNES</title>
 						</head>
-						<p>I<hi rend="smallcap">ΟKASTÈ.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> P<hi rend="smallcap">aidagôgue.</hi></p>
-						<p>A<hi rend="smallcap">NTIGONÈ.</hi></p>
-						<p>P<hi rend="smallcap">OLYNEIKÈS.</hi></p>
-						<p>E<hi rend="smallcap">téoklès.</hi></p>
-						<p>K<hi rend="smallcap">RÉÔN.</hi></p>
-						<p>M<hi rend="smallcap">ÉNΟIKEUS.</hi></p>
-						<p>T<hi rend="smallcap">eirésias.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> C<hi rend="smallcap">hoeur.</hi></p>
-						<p>O<hi rend="smallcap">IDIPOUS.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>U<hi rend="smallcap">n autre</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>IOKASTÉ.</p>
+						<p>IΟKASTÈ.</p>
+						<p>Le Paidagôgue.</p>
+						<p>ANTIGONÈ.</p>
+						<p>POLYNEIKÈS.</p>
+						<p>Etéoklès.</p>
+						<p>KRÉÔN.</p>
+						<p>MÉNΟIKEUS.</p>
+						<p>Teirésias.</p>
+						<p>Le Choeur.</p>
+						<p>OIDIPOUS.</p>
+						<p>Un Messager.</p>
+						<p>Un autre Messager.</p>
+						<p>IOKASTÈ.</p>
 						<p>O toi, qui traces la route parmi les astres de
 l’Ouranos et qui sièges sur un char d’or,
 Hèlios! Toi, qui roules la flamme avec tes
@@ -6102,7 +6102,7 @@ par les Dieux.</p>
 						<p>O très vénérable Victoire, puisses-tu posséder toute ma
 vie et ne pas cesser de la couronner!</p>
 						<p>FIN DES PHOINISSIENNES.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="4">
 				 <pb n="235"/>
@@ -6110,23 +6110,23 @@ vie et ne pas cesser de la couronner!</p>
 							<title>IV
 MÈDÉIA</title>
 						</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="237"/>
 						<head>
 							<title>IV
 MÈDÉIA</title>
 						</head>
-						<p>L<hi rend="smallcap">a</hi> N<hi rend="smallcap">ourrice de</hi> M<hi rend="smallcap">èdéia.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> P<hi rend="smallcap">aidagôgue.</hi></p>
-						<p>M<hi rend="smallcap">èdéia.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> C<hi rend="smallcap">hoeur.</hi></p>
-						<p>K<hi rend="smallcap">réôn.</hi></p>
-						<p>I<hi rend="smallcap">asôn.</hi></p>
-						<p>A<hi rend="smallcap">igeus.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>L<hi rend="smallcap">es</hi> F<hi rend="smallcap">ils.</hi></p>
+						<p>La Nourrice de Mèdéia.</p>
+						<p>Le Paidagôgue.</p>
+						<p>Mèdéia.</p>
+						<p>Le Choeur.</p>
+						<p>Kréôn.</p>
+						<p>Iasôn.</p>
+						<p>Aigeus.</p>
+						<p>Un Messager.</p>
+						<p>Les Fils.</p>
 						<p>LA NOURRICE.</p>
-						<p>P<hi rend="smallcap">LUT</hi> aux Dieux que la nef Argô n’eût point
+						<p>PLUT aux Dieux que la nef Argô n’eût point
 volé vers la terre de Kolkhôs, à travers les
 Symplégades bleues, que le pin coupé ne fût
 jamais tombé dans les bois du Pèlios et que la
@@ -7719,7 +7719,7 @@ plissent beaucoup de choses, et ne font point arriver
 celles que nous attendions. Un Dieu amène toujours des
 événements imprévus. Tel est celui-ci.</p>
 						<p>FIN DE MÈDÉIA.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="5">
 					<pb n="295"/>
@@ -7727,24 +7727,24 @@ celles que nous attendions. Un Dieu amène toujours des
 						<title>V
 HIPPOLYTOS</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="297"/>
 						<head>
 							<title>V
 HIPPOLYTOS</title>
 						</head>
-						<p>A<hi rend="smallcap">phroditè.</hi></p>
-						<p>H<hi rend="smallcap">IPPOLYTOS.</hi></p>
-						<p>S<hi rend="smallcap">erviteurs.</hi></p>
-						<p>C<hi rend="smallcap">hoeur des femmes troizèniennés.</hi></p>
-						<p>L<hi rend="smallcap">a nourrice.</hi></p>
-						<p>P<hi rend="smallcap">haidra.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>T<hi rend="smallcap">hèseus.</hi></p>
-						<p>U<hi rend="smallcap">n autre</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>A<hi rend="smallcap">rtémis.</hi></p>
+						<p>Aphroditè.</p>
+						<p>HIPPOLYTOS.</p>
+						<p>Serviteurs.</p>
+						<p>Choeur des femmes troizèniennés.</p>
+						<p>La nourrice.</p>
+						<p>Phaidra.</p>
+						<p>Un Messager.</p>
+						<p>Thèseus.</p>
+						<p>Un autre Messager.</p>
+						<p>Artémis.</p>
 						<p>APHRODITÈ.</p>
-						<p>J<hi rend="smallcap">E</hi> suis la Déesse Kypris, bien connue et non
+						<p>JE suis la Déesse Kypris, bien connue et non
 sans gloire parmi les hommes et dans l’Oura-
 nos. Entre tous les vivants qui habitent de la
 mer aux bornes atlantiques et voient la lumière
@@ -9418,7 +9418,7 @@ contre toute prévision. Ce sera une source d’abondantes
 larmes, car la mémoire des grands hommes a droit à
 d’éternels regrets.</p>
 						<p>FIN DE HIPPOLYTOS.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="6">
 					<pb n="359"/>
@@ -9426,24 +9426,24 @@ d’éternels regrets.</p>
 						<title>VI
 ALKÈSTIS</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="361"/>
 						<head>
 							<title>VI
 ALKÈSTIS</title>
 						</head>
-						<p>A<hi rend="smallcap">pollôn.</hi></p>
-						<p>T<hi rend="smallcap">hanatos.</hi></p>
-						<p>A<hi rend="smallcap">lkèstis.</hi></p>
-						<p>A<hi rend="smallcap">dmètos.</hi></p>
-						<p>E<hi rend="smallcap">umèlos.</hi></p>
-						<p>H<hi rend="smallcap">èraklès.</hi></p>
-						<p>P<hi rend="smallcap">hérès.</hi></p>
-						<p>C<hi rend="smallcap">hoeur des</hi> V<hi rend="smallcap">ieillards</hi> P<hi rend="smallcap">hèraiens.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> S<hi rend="smallcap">erviteur.</hi></p>
-						<p>U<hi rend="smallcap">ne</hi> S<hi rend="smallcap">ervante.</hi></p>
+						<p>Apollôn.</p>
+						<p>Thanatos.</p>
+						<p>Alkèstis.</p>
+						<p>Admètos.</p>
+						<p>Eumèlos.</p>
+						<p>Hèraklès.</p>
+						<p>Phérès.</p>
+						<p>Choeur des Vieillards Phèraiens.</p>
+						<p>Un Serviteur.</p>
+						<p>Une Servante.</p>
 						<p>APOLLÔN.</p>
-						<p>O <hi rend="smallcap">DEMEURE</hi> d’Admètos, où j’ai subi la table ser-
+						<p>O DEMEURE d’Admètos, où j’ai subi la table ser-
 vile, bien qu’étant Dieu! Zeus, en effet, fut
 cause de ceci, ayant tué mon fils Asklèpios
 d’un coup de foudre dans la poitrine. Et j’en
@@ -10958,7 +10958,7 @@ plissent contre notre espérance. Ce qui semblait devoir
 arriver n’arrive pas, et un Dieu amène les choses inespé-
 rées. Ceci le prouve.</p>
 						<p>FIN D’ALKÉSTIS.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="7">
 					<pb n="419"/>
@@ -10966,25 +10966,25 @@ rées. Ceci le prouve.</p>
 						<title>VII
 ANDROMAKHÈ</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="421"/>
 						<head>
 							<title>VII
 ANDROMAKHÈ</title>
 						</head>
-						<p>A<hi rend="smallcap">ndromakhè.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> C<hi rend="smallcap">hoeur de</hi> F<hi rend="smallcap">emmes.</hi></p>
-						<p>H<hi rend="smallcap">ermionè.</hi></p>
-						<p>M<hi rend="smallcap">énélaos.</hi></p>
-						<p>M<hi rend="smallcap">olossos.</hi></p>
-						<p>P<hi rend="smallcap">èleus.</hi></p>
-						<p>L<hi rend="smallcap">a</hi> N<hi rend="smallcap">ourrice.</hi></p>
-						<p>O<hi rend="smallcap">RESTÈS.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>T<hi rend="smallcap">hétis.</hi></p>
-						<p>U<hi rend="smallcap">ne</hi> S<hi rend="smallcap">uivante.</hi></p>
+						<p>Andromakhè.</p>
+						<p>Le Choeur de Femmes.</p>
+						<p>Hermionè.</p>
+						<p>Ménélaos.</p>
+						<p>Molossos.</p>
+						<p>Pèleus.</p>
+						<p>La Nourrice.</p>
+						<p>ORESTÈS.</p>
+						<p>Un Messager.</p>
+						<p>Thétis.</p>
+						<p>Une Suivante.</p>
 						<p>ANDROMAKHÈ.</p>
-						<p>H<hi rend="smallcap">ONNEUR</hi> de la terre asiatique, Ville Thè-
+						<p>HONNEUR de la terre asiatique, Ville Thè-
 baienne, d’où, autrefois, avec les délices
 d’une riche dot, je partis pour la royale
 demeure de Priamos, donnée en mariage à
@@ -12443,7 +12443,7 @@ rance, et celles que nous attendons n’arrivent pas, et un
 Dieu fait survenir les choses inattendues, et c’est ainsi
 que celle-ci s’est produite.</p>
 						<p>FIN D’ANDKOMAKHÉ.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="8">
 					<pb n="475"/>
@@ -12451,24 +12451,24 @@ que celle-ci s’est produite.</p>
 						<title>VIII
 LES SUPPLIANTES</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="477"/>
 						<head>
 							<title>VIII
 LES SUPPLIANTES</title>
 						</head>
-						<p>A<hi rend="smallcap">ithra.</hi></p>
-						<p>C<hi rend="smallcap">hoeur des</hi> M<hi rend="smallcap">ères argiennes.</hi></p>
-						<p>T<hi rend="smallcap">hèseus.</hi></p>
-						<p>A<hi rend="smallcap">drastos.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> H<hi rend="smallcap">éraut.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
-						<p>E<hi rend="smallcap">UADNÉ.</hi></p>
-						<p>I<hi rend="smallcap">phis.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> E<hi rend="smallcap">nfant.</hi></p>
-						<p>A<hi rend="smallcap">thèna.</hi></p>
+						<p>Aithra.</p>
+						<p>Choeur des Mères argiennes.</p>
+						<p>Thèseus.</p>
+						<p>Adrastos.</p>
+						<p>Un Héraut.</p>
+						<p>Un Messager.</p>
+						<p>EUADNÉ.</p>
+						<p>Iphis.</p>
+						<p>Un Enfant.</p>
+						<p>Athèna.</p>
 						<p>AITHRA.</p>
-						<p>D<hi rend="smallcap">ÉMÉTÉR</hi>, Protectrice de cette terre d’Eleusis!
+						<p>DÉMÉTÉR, Protectrice de cette terre d’Eleusis!
 et vous, sacrificateurs, qui habitez le temple
 de la Déesse, faites que nous soyons
 heureux, moi, et Thèseus mon fils, et la
@@ -13986,7 +13986,7 @@ sûreté dans l’avenir.</p>
 cette Ville,Ils ont pris pour nous des peines dignes d’être
 honorées.</p>
 						<p>FIN DES SUPPLIANTES.</p>
-					</div>
+					
 				</div>
 				<div type="textpart" subtype="book" n="9">
 					<pb n="533"/>
@@ -13994,22 +13994,22 @@ honorées.</p>
 						<title>IX
 IPHIGÉNÉIA A AULIS</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					
 						<pb n="535"/>
 						<head>
 							<title>IX
 IPHIGÉNÉIA A AULIS</title>
 						</head>
-						<p>A<hi rend="smallcap">gamemnôn.</hi></p>
-						<p>U<hi rend="smallcap">N</hi> V<hi rend="smallcap">IEILLARD.</hi></p>
-						<p>L<hi rend="smallcap">e</hi> C<hi rend="smallcap">hoeur.</hi></p>
-						<p>M<hi rend="smallcap">ÉNÉLAOS.</hi></p>
-						<p>K<hi rend="smallcap">IYTAIMNESTRA.</hi></p>
-						<p>I<hi rend="smallcap">phigénéia.</hi></p>
-						<p>A<hi rend="smallcap">khilleus.</hi></p>
-						<p>U<hi rend="smallcap">n</hi> M<hi rend="smallcap">essager.</hi></p>
+						<p>Agamemnôn.</p>
+						<p>UN VIEILLARD.</p>
+						<p>Le Choeur.</p>
+						<p>MÉNÉLAOS.</p>
+						<p>KIYTAIMNESTRA.</p>
+						<p>Iphigénéia.</p>
+						<p>Akhilleus.</p>
+						<p>Un Messager.</p>
 						<p>AGAMEMNÔN.</p>
-						<p>O <hi rend="smallcap">VIEILLARD</hi>, avance devant cette demeure.</p>
+						<p>O VIEILLARD, avance devant cette demeure.</p>
 						<p>LE VIEILLARD.</p>
 						<p>J’avance. Mais que médites-tu de nouveau,
 Roi Agamemnôn?</p>
@@ -16030,7 +16030,7 @@ retour de Troia. Sois heureuse!</p>
 Phrygienne, et revenir de même, ayant enlevé les très
 belles dépouilles de Troia!</p>
 						<p>FIN DU TOME PREMIER.</p>
-					</div>
+					
 				</div>
 			</div>
 			<div type="textpart" subtype="back">
