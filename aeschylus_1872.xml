@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>ESCHYLE</title>
+				<title>Eschyle</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,20 +48,20 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>ESCHYLE
+							<title>Eschyle
 Traduction nouvelle</title>
 							<editor>
 								<persName>
 									<name xml:lang="fr">Charles Marie René Leconte de Lisle</name>
 								</persName>
 								<persName>
-									<name xml:lang="fr">ALPHONSE LEMERRE</name>
+									<name xml:lang="fr">Alphonse Lemerre</name>
 								</persName>
 							</editor>
 							<author ref="urn:cts:greekLit:tlg0085">Aeschylus</author>
 							<imprint>
-								<pubPlace>PARIS</pubPlace>
-								<publisher>ALPHONSE LEMERRE, ÉDITEUR 23-33, PASSAGE CHOISEUL, 23-33</publisher>
+								<pubPlace>Paris</pubPlace>
+								<publisher>Alphonse Lemerre, Éditeur 23-33, PASSAGE CHOISEUL, 23-33</publisher>
 								<date>1872</date> <!-- presumed date, no actual date given -->
 							</imprint>
 						</monogr>
@@ -97,7 +97,7 @@ Traduction nouvelle</title>
 						<title>I
 PROMÈTHEUS ENCHAINÉ</title>
 					</head>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="book" n="1">
 						<pb n="3"/>
 						<head>
 							<title>I
@@ -112,7 +112,7 @@ PROMÈTHEUS ENCHAINÉ</title>
 						<p><hi rend="italic">Bia.</hi></p>
 						<p><hi rend="italic">Le Chœur des Nymphes Okéanides.</hi></p>
 						<p>KRATOS.</p>
-						<p>N<hi rend="smallcap">ous</hi> sommes arrivés au dernier sentier de la
+						<p>Nous sommes arrivés au dernier sentier de la
 terre, dans le pays Skythique, dans la soli-
 tude non foulée.</p>
 						<p>Hèphaistos! fais ce que le Père t’a ordonné
@@ -1305,7 +1305,7 @@ roules! Commune lumière de tous! voyez de quelles ini-
 quités je souffre!</p>
 						<p><hi rend="italic">Fin de Promètheus enchaîné</hi>.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="book" n="2">
 						<pb n="51"/>
 						<head>
 							<title>II
@@ -1316,7 +1316,7 @@ LES SUPPLIANTES</title>
 						<p><hi rend="italic">Pélasgos, roi des Argiens.</hi></p>
 						<p><hi rend="italic">Un Héraut.</hi></p>
 						<p>LE CHŒUR DES DANAÏDES.</p>
-						<p>Q<hi rend="smallcap">ue</hi> Zeus, Dieu des suppliants, nous regarde
+						<p>Que Zeus, Dieu des suppliants, nous regarde
 avec bienveillance, apportées ici, sur nos
 nefs, des embouchures sablonneuses du Néi-
 los! Ayant laissé la terre divine qui confine
@@ -2498,7 +2498,7 @@ Justice obtienne sa récompense légitime de la volonté
 lutelaire des Dieux!</p>
 						<p><hi rend="italic">Fin des Suppliantes</hi>.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="book" n="3">
 						<pb n="101"/>
 						<head>
 							<title>III
@@ -2512,7 +2512,7 @@ LES SEPT CONTRE THÈBA</title>
 						<p><hi rend="italic">Antigonè.</hi></p>
 						<p><hi rend="italic">Le Chœur des Vierges.</hi></p>
 						<p>ÉTÉOKLÈS.</p>
-						<p>H<hi rend="smallcap">ommes</hi> de Kadmos, il doit parler selon le
+						<p>Hommes de Kadmos, il doit parler selon le
 temps, celui qui veille sur la chose publi-
 que, à la poupe de la Ville, tenant la barre
 et défendant ses paupières contre le som-
@@ -3708,7 +3708,7 @@ la Ville des Kadméiones d’être renversée et envahie par
 les flots d’hommes étrangers.</p>
 						<p><hi rend="italic">Fin des Sept contre Thèba.</hi></p>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="book" n="4">
 						<pb n="151"/>
 						<head>
 							<title>IV
@@ -3722,7 +3722,7 @@ AGAMEMNÔN</title>
 						<p><hi rend="italic">Kasandra.</hi></p>
 						<p><hi rend="italic">Le Chœur des Vieillards.</hi></p>
 						<p>LE VEILLEUR.</p>
-						<p>J<hi rend="smallcap">e</hi> prie les Dieux de m’affranchir de ces fati-
+						<p>Je prie les Dieux de m’affranchir de ces fati-
 gues, de cette veille sans fin que je prolonge
 toute l’année, comme un chien, au plus haut
 faîte du toit des Atréides, regardant l’assemblée
@@ -5461,7 +5461,7 @@ derons dans ces demeures, et nous mettrons l’ordre
 partout.</p>
 						<p><hi rend="italic">Fin d’Agamemnôn</hi>.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="book" n="5">
 						<pb n="221"/>
 						<head>
 							<title>V
@@ -5476,7 +5476,7 @@ LES KHOÈPHORES</title>
 						<p><hi rend="italic">Le Portier.</hi></p>
 						<p><hi rend="italic">Le Chœur des Khoèphores.</hi></p>
 						<p>ORESTÈS.</p>
-						<p>H<hi rend="smallcap">ermès</hi> souterrain, qui tiens de ton père cette
+						<p>Hermès souterrain, qui tiens de ton père cette
 puissance, sois mon sauveur, aide-moi, je
 t’en supplie! Voici que je reviens dans ce
 pays, après un long exil, et je parle à mon
@@ -6709,7 +6709,7 @@ fois, est-ce un sauveur qui nous est venu, ou notre perte?
 Quand donc la violence d’Atè s’endormira-t-elle enfin?</p>
 						<p><hi rend="italic">Fin des Khoèphores.</hi></p>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="book" n="6">
 						<pb n="275"/>
 						<head>
 							<title>VI
@@ -6722,7 +6722,7 @@ LES EUMÉNIDES</title>
 						<p><hi rend="italic">Le Spectre de Klytaimnestra.</hi></p>
 						<p><hi rend="italic">Le Chœur des Euménides.</hi></p>
 						<p>LA PYTHIA.</p>
-						<p>J<hi rend="smallcap">’invoque,</hi> avant tous les Dieux, Gaia, la
+						<p>J’invoque, avant tous les Dieux, Gaia, la
 première Divinatrice, et, après elle, Thé-
 mis, qui tint de sa mère le don prophéti-
 que, comme on le rapporte. La troisième qui
@@ -7834,7 +7834,7 @@ Moires seront toujours favorables au peuple de Pallas.
 Maintenant, chantons!</p>
 						<p><hi rend="italic">Fin des Euménides.</hi></p>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="book" n="7">
 						<pb n="321"/>
 						<head>
 							<title>VII
@@ -7846,7 +7846,7 @@ LES PERSES</title>
 						<p><hi rend="italic">Xerxès.</hi></p>
 						<p><hi rend="italic">Le Messager.</hi></p>
 						<p>LE CHŒUR DES VIEILLARDS.</p>
-						<p>V<hi rend="smallcap">oici</hi> ce qu’on nomme les Fidèles, gardiens de
+						<p>Voici ce qu’on nomme les Fidèles, gardiens de
 ces riches demeures abondantes en or, les
 autres Perses étant partis pour la terre de
 Hellas. Le Roi Xerxès, né de Daréios, les a
