@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>ARISTOPHANE</title>
+				<title>Aristophane</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,17 +48,17 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>ARISTOPHANE</title>
+							<title>Aristophane</title>
 							<editor>
 								<persName>
-									<name xml:lang="fr">C. POYARD</name>
+									<name xml:lang="fr">C. Poyard</name>
 								</persName>
 							</editor>
 							<author ref="urn:cite:perseus:author.202">Aristophanes</author>
 							<edition>Quatrième édition</edition>
 							<imprint>
-								<pubPlace>PARIS</pubPlace>
-							    <publisher>LIBRAIRIE HACHETTE ET C<hi rend="superscript">ie</hi> 79, BOULEVARD SAINT-GERMAIN, 79</publisher>
+								<pubPlace>Paris</pubPlace>
+							    <publisher>Librairie Hachette et C<hi rend="superscript">ie</hi> 79, BOULEVARD SAINT-GERMAIN, 79</publisher>
 								<date>1873</date>
 							</imprint>
 						</monogr>
@@ -618,47 +618,48 @@ avant Jésus-Christ, la sixième année de la guerre du Péloponèse</p>
 						</head>
 						<p><hi rend="italic">La scène se passe d'abord sur la place publique</hi>, <hi rend="italic">puis devant
 la maison de Dicéopolis.</hi></p>
-						<p>DICÉOPOLIS <hi rend="superscript">1</hi>. Que de soucis m'ont rongé le cœur! et si
+						<p>DICÉOPOLIS<note type="footnote" n="1">Nom propre forgé par Aristophane, et qui signifie <hi rend="italic">citoyen juste</hi>.</note>. Que de soucis m'ont rongé le cœur! et si
 peu, si peu de plaisirs dans ma vie! Quatre, tout au juste,
 tandis que mes peines sont innombrables comme les grains
 de sable de la mer! Voyons! qu'est-ce qui m'a valu ces
 quelques joies? Ah! je me rappelle que j'eus l'âme ravie
-quand Cléon dut.recracher les cinq talents<hi rend="superscript">2</hi> : j'étais tout trans-
-porté, et j'aime les chevaliers pour ce fait : il honore la Grèce<hi rend="superscript">3</hi>.
+quand Cléon dut.recracher les cinq talents<note type="footnote" n="2">Cléon avait reçu cinq talents des insulaires sujets d’Athènes, à con-
+dition qu’il ferait alléger le tribut payé par eux·, les chevaliers, informés do
+celle concession, le contraignirent à rendre celle somme.</note> : j'étais tout trans-
+porté, et j'aime les chevaliers pour ce fait : il honore la Grèce<note type="footnote" n="3">Hémistiche emprunté au <hi rend="italic">Télèphe</hi>, d’Euripide.</note>.
 Mais le jour où j'attendais avec impatience une pièce d’Es-
-chyle<hi rend="superscript">4</hi>, quel désespoir tragique, quand le héraut cria : « Théo-
-gnis<hi rend="superscript">5</hi>, introduis ton chœur. » Jugez si ce coup me frappa au
+chyle<note type="footnote" n="4">On continua de jouer les tragédies d’Eschyle, même après la mort de
+ce poêle, arrivée en 436, dix ans avant la représentation des Acharniens.</note>, quel désespoir tragique, quand le héraut cria : « Théo-
+gnis<note type="footnote">5. PoCte tragique dont les pièces étaient si dépourvues de chaleur et
+d'action qu’il fut surnommé <foreign xml:lang="grc">Χιών</foreign>, c’est-à-dire la neige.</note>, introduis ton chœur. » Jugez si ce coup me frappa au
 cœur! Quel plaisir encore me procura Dexithéus, dans ce con-
 cours de musique, où il exécuta sur la lyre une mélodie béo-
 tienne! Cette année-ci au contraire, ô le mortel supplice d'en-
-tendre Chéris <hi rend="superscript">6</hi> préluder sur le mode orthien<hi rend="superscript">7</hi>! ̶ Mais jamais,
+tendre Chéris<note type="footnote" n="6">Mauvais musicien, souvent raillé par Aristophane; il jouait de la lyre
+et de la flûte.</note> préluder sur le mode orthien<note type="footnote" n="7">Mode vif et soutenu.</note>! ̶ Mais jamais,
 depuis que je prends des bains, la poussière ne m'a piqué les
 yeux comme aujourd'hui. C'est pourtant jour d'assemblée; on
-doit se réunir dès le matin, et le Pnyx<hi rend="superscript">8</hi> est encore désert. On
+doit se réunir dès le matin, et le Pnyx<note type="footnote" n="8"> Place, voisine de la citadelle, où se tenaient les assemblées.</note> est encore désert. On
 bavarde sur le marché, on se sauve de ci, de là, pour éviter la
-<note type="footnote">1. Nom propre forgé par Aristophane, et qui signifie citoyen juste.</note>
-<note type="footnote">2. Cléon avait reçu cinq talents des insulaires sujets d’Athènes, à con-
-dition qu’il ferait alléger le tribut payé par eux·, les chevaliers, informés do
-celle concession, le contraignirent à rendre celle somme.</note>
-<note type="footnote">3. Hémistiche emprunté au Télèp/ie, d’Euripide.</note>
-<note type="footnote">4. On continua de jouer les tragédies d’Eschyle, même après la mort de
-ce poêle, arrivée en 436, dix ans avant la représentation des Acharniens.</note>
-<note type="footnote">5. PoCte tragique dont les pièces étaient si dépourvues de chaleur et
-d'action qu’il fut surnommé Χιών, c’est-à-dire la neige.</note>
-<note type="footnote">(i. Mauvais musicien, souvent raillé par Aristophane; il jouait de la lyre
-et de la flûte.</note>
-<note type="footnote">7. Mode vif et soutenu.</note>
-<note type="footnote">8, Place, voisine de la citadelle, où se tenaient les assemblées.</note>
+
 <pb n="6"/>
-corde rouge<hi rend="superscript">1</hi>; les Prytanes<hi rend="superscript">2</hi> mêmes n'arrivent pas; ils vien-
+corde rouge<note type="footnote" n="1">On employait divers moyens pour contraindre les citoyens à venir aux
+assemblées: on faisait fermer les boutiques; la circulation n’était permise
+que dans les rues qui conduisaient au Pnyx; enfin on tendait une corde
+teinte de vermillon autour de ceux qui s’attardaient sur l’Agora (le marché),
+et les retardataires, désignée par l’empreinte rouge de la corde, payaient
+l’amende.</note>; les Prytanes<note type="footnote" n="2">Magistrats qui partageaient avec les Présides et les Épislales le soin
+de conduire et de diriger les assemblées du peuple; ils étaient au nombre
+de cinquante.</note> mêmes n'arrivent pas; ils vien-
 dront tard; mais alors ils se pousseront, se bousculeront pour
 siéger au premier banc. De la paix, ils ne s'occupent guère.
 0 Athènes, Athènes! Moi, je ne manque pas de venir ici avant
 tous les autres, et là, me voyant seul, je geins, je bâille, je
 m'étire, je pète, je ne sais que faire, je dessine sur la poussière,
 je m'épile, je réfléchis, je songe à mes champs, je fais des vœux
-pour la paix, je maudis la ville, et je regrette mon cher bourg <hi rend="superscript">3
-</hi>qui ne me disait jamais : «Achète du charbon, du vinaigre, de
+pour la paix, je maudis la ville, et je regrette mon cher bourg <note type="footnote" n="3">La guerre du Péloponêse durait depuis cinq ans, 431-426; chassés
+par les invasions des Lacedémoniens, les habitants de la campagne avaient
+dû se réfugier dans les murs d’Athènes.</note>qui ne me disait jamais : «Achète du charbon, du vinaigre, de
 l'huile; » là on ne connaissait pas le mot qui me scie en quatre :
 <hi rend="italic">acheter;</hi> j'y récoltais tout gratis. Aussi suis-je venu à l'assem-
 blée bien préparé à huer, à interrompre, à injurier les ora-
@@ -667,37 +668,29 @@ Mais voici les Prytanes qui arrivent : il est bien temps, à midi!
 Quand je le disais, hein? n'est-ce pas cela? Ils se poussent et
 se disputent les premières places.</p>
 						<p>LE HÉRAUT. Allez plus loin, avancez, avancez pour être dans
-l'encemte consacrée <hi rend="superscript">4</hi>.</p>
+l'encemte consacrée<note type="footnote" n="4">Un peu avant que l’assemblée se réunit, on immolait de jeunes porcs,
+et on répandait quelques gouttes de leur sang sur les bancs des Prytanes;
+ce sacrifice était offert à Cérès.</note>.</p>
 						<p>AMPHITHÉUS. A-t-on parlé déjà?</p>
 						<p>LE HÉRAUT. Qui demande la parole</p>
 						<p>AMPHITHÉUS. Moi.</p>
 						<p>LE HÉRAUT. Ton nom?</p>
 						<p>AMPHITHÉUS. Amphithéus.</p>
-						<p>LE HÉRAUT. Tu n'es pas un homme "</p>
+						<p>LE HÉRAUT. Tu n'es pas un homme<note type="footnote" n="5">Le mot <foreign xml:lang="grc">θεός</foreign>, dieu, entre dans la composition du nom d'Ampnithéus.</note></p>
 						<p>AMPHITHÉUS. Non: je suis un immortel : Amphithéus était
 fils de Gérés et de Triptolème : de celui-ci naquit Géléus. Céléus
-<note type="footnote">4. On employait divers moyens pour contraindre les citoyens à venir aux
-assemblées: on faisait fermer les boutiques; la circulation n’était permise
-que dans les rues qui conduisaient au Pnyx; enfin on tendait une corde
-teinte de vermillon autour de ceux qui s’attardaient sur l’Agora (le marché),
-et les retardataires, désignée par l’empreinte rouge de la corde, payaient
-l’amende.</note>
-<note type="footnote">2. Magistrats qui partageaient avec les Présides et les Épislales le soin
-de conduire et de diriger les assemblées du peuple; ils étaient au nombre
-de cinquante.</note>
-<note type="footnote">3. La guerre du Péloponêse durait depuis cinq ans, 431-426; chassés
-par les invasions des Lacedémoniens, les habitants de la campagne avaient
-dû se réfugier dans les murs d’Athènes.</note>
-<note type="footnote">4. UN peu avant que l’assemblée se réunit, on immolait de jeunes porcs,
-et on répandait quelques gouttes de leur sang sur les bancs des Prytanes;
-ce sacrifice était offert à Cérès.</note>
-<note type="footnote">5. Le mot Seôff dieu, entre dans la composition du nom d'Ampnithéus.</note>
+
+
+
+
+
 <pb n="7"/>
 épousa Phënarète, mon aïeule, qui eut pour fils Lucinus; né de
 lui, je suis un immortel; c’est à moi seul que les dieux ont
 confié le soin de traiter avec les Lacédémoniens; mais quoique
 immortel, citoyens, je meurs de faim; les Prytanes ne me
-donnent rien<hi rend="superscript">1</hi>.</p>
+donnent rien<note type="footnote" n="1">Entre antres attributions, les Prytanes étalent chargés de veiller ans
+besoins des citoyens pauvres.</note>.</p>
 						<p>UN PRYTANE. Archers!</p>
 						<p>AMPHITHÉUS. O Triptolème et Céléus, abandonnez-vous votre
 sang?</p>
@@ -709,32 +702,31 @@ l'épée au fourreau.</p>
 la paix en délibération.</p>
 						<p>LE HÉRAUT. Les ambassadeurs revenus de la cour du roi!</p>
 						<p>DICÉOPOLIS. De quel roi? Je suis dégoûté de tous ces beaux
-oiseaux-là, des ambassadeurs comme des paons·, et de leurs
+oiseaux-là, des ambassadeurs comme des paons<note type="footnote" n="2">Oiseaux alors très-rares; on ne les exposait aux regarde du public
+qu’à chaque nouvelle lune.</note>, et de leurs
 fanfaronnades.</p>
 						<p>LE HÉRAUT. Silence!</p>
-						<p>DICÉOPOLIS. Oh! oh! par Ecbatane<hi rend="superscript">3</hi>, quels grands airs!</p>
-						<p>UN AMBASSADEUR. Sous l'archontat d’Euthyménès <hi rend="superscript">4</hi>, vous nous
+						<p>DICÉOPOLIS. Oh! oh! par Ecbatane<note type="footnote" n="3">Séjour d’été du grand rot.</note>, quels grands airs!</p>
+						<p>UN AMBASSADEUR. Sous l'archontat d’Euthyménès<note type="footnote" n="4">En 423. L’ambassade avait ainsi duré treize ans.</note>, vous nous
 avez envoyés auprès du grand roi, avec une solde de deux
 drachmes par jour.</p>
 						<p>DICÉOPOLIS. Ah! nos pauvres drachmes!</p>
 						<p>L'AMBAŚADEUR. Nous avons bien souffert dans les plaines du
-Caystre<hi rend="superscript">5</hi>, couchant sous la tente, mollement étendus dans de
+Caystre<note type="footnote" n="5">Rivière de la Lydie, qui se jette dans la mer Égée, près d’Éphèse.</note>, couchant sous la tente, mollement étendus dans de
 bonnes voitures, à demi morts de fatigue.</p>
 						<p>DICÉOPOLIS. Et moi, j’étais bien à l’aise, quand je couchais
 sur la paille, le long du rempart?</p>
 						<p>l’ambassadeur. Partout on nous faisait bon accueil, et on
-nous obligeait &amp; boire un vin délicieux dans des coupes d’or ou
+nous obligeait à boire un vin délicieux dans des coupes d’or ou
 de cristal....</p>
-						<p>DICÉOPOLIS. O cité de Cranaüs<hi rend="superscript">6</hi>. tes ambassadeurs se mo
+						<p>DICÉOPOLIS. O cité de Cranaüs<note type="footnote" n="6">Cranaüs, second roi d'Athènes, succéda à Cécrops en 1506.</note>. tes ambassadeurs se mo
 quent-ils assez de toi!</p>
-						<note type="footnote">1. Entre antres attributions, les Prytanes étalent chargés de veiller ans
-besoins des citoyens pauvres.</note>
-						<note type="footnote">2. Oiseaux alors très-rares; on ne les exposait aux regarde du public
-qu’à chaque nouvelle lune.</note>
-						<note type="footnote">3. Séjour d’été du grand rot.</note>
-						<note type="footnote">4. En 423. L’ambassade avait ainsi duré treize ans.</note>
-						<note type="footnote">5. Rivière de la Lydie, qui se jette dans la mer Égée, près d’Éphèse.</note>
-						<note type="footnote">6. Cranaüs, second roi d'Athènes, succéda à Cécrops en 1506.</note>
+						
+						
+						
+						
+						
+						
 						<pb n="8"/>
 						<p>L'AMBAŚADEUR... Car les grands mangeurs, et les grands
 buveurs sont les seuls que les barbares regardent comme des
@@ -744,7 +736,8 @@ plus crapuleux débauchés.</p>
 						<p>L'AMBAŚADEUR. Au bout de quatre ans, nous arrivâmes à la
 cour du roi; mais il était parti avec toute son armée pour aller
 à la selle, et il se soulagea huit mois durant, au milieu des
-montagnes d’or <hi rend="superscript">1</hi>.</p>
+montagnes d’or<note type="footnote" n="1">Lucien, dans <hi rend="italic">Hermotime</hi>, parle de ces montagnes d’or comme du
+pays des chimères.</note>.</p>
 						<p>DICÉOPOLIS. Et combien de temps mit-il à fermer son derrière?</p>
 						<p>L'AMBAŚADEUR. Tout le temps de la pleine Ipne : puis il re-
 vint dans son palais; alors il nous traita et nous fit servir des
@@ -752,12 +745,14 @@ bœufs entiers cuits au four.</p>
 						<p>DICÉOPOLIS. Et qui a jamais vu des bœufs cuits au four?
 Quelle bourde!</p>
 						<p>L'AMBAŚADEUR. Sur ma foi, il nous fit servir encore un oi-
-seau trois fois plus grand que Cléonyme <hi rend="superscript">2</hi>, et qui s’appelait le
+seau trois fois plus grand que Cléonyme<note type="footnote" n="2">Cléonyme, général athénien; il était de haute taille; Aristophane le
+raille sans cesse de sa lâcheté; il avait jeté son bouclier dans un combat.</note>, et qui s’appelait le
 Hâbleur.</p>
 						<p>DICÉOPOLIS. Est-ce pour nous débiter toutes ces hâbleries que
 nous te donnons deux drachmes?</p>
-						<p>L'AMBAŚADEUR. Nous vous ramenons Pseudartabas<hi rend="superscript">3</hi>, l’œil du
-roi <hi rend="superscript">4</hi>.</p>
+						<p>L'AMBAŚADEUR. Nous vous ramenons Pseudartabas<note type="footnote" n="3">Le mol <foreign xml:lang="grc">ψεῦδος</foreign>, <hi rend="italic">mensonge</hi>, entre dans la composition de ce nom.</note>, l’œil du
+roi<note type="footnote" n="4">Nom que portaient certains officiers du roi de Perse. L’acteur chargé
+de ce rôle portail un masque percé d’un æeil unique et énorme.</note>.</p>
 						<p>DICÉOPOLIS. Puisse un corbeau te crever le tien d’un coup de
 bec', ambassadeur maudit!</p>
 						<p>LE HÉRAUT. L’œil du roi!</p>
@@ -766,21 +761,19 @@ comme l’ouverture par où passe la rame, tu as l’air d’un vais-
 seau qui double un cap pour entrer en rade.</p>
 						<p>L'AMBAŚADEUR. Allons, Pseudartabas, expose le message dont
 le grand roi t’a chargé pour les Athéniens.</p>
-						<p>PSEUDARTABAS. Jartaman exarx’ anapissonnai satra <hi rend="superscript">5</hi>.</p>
+						<p>PSEUDARTABAS. Jartaman exarx’ anapissonnai satra<note type="footnote" n="5">Mots forgés, qui n’ont sans doute de sens dans aucune langues.</note>.</p>
 						<p>L'AMBAŚADEUR. Comprenez-vous ce qu’il dit?</p>
 						<p>DICÉOPOLIS. Non, pas moi, par Apollon.</p>
 						<p>L'AMBAŚADEUR. Il dit que le grand roi vous enverra de l’or.
 Allons, prononce plus haut et plus clairement le mot or.</p>
-						<note type="footnote">1. Lucien, dans Herniotime, parle de ces montagnes d’or comme du
-pays des chimères.</note>
-						<note type="footnote">2. Cléonyme, général athénien; il était de haute taille; Aristophane le
-raille sans cesse de sa lâcheté; il avait jeté son bouclier dans un combat.</note>
-						<note type="footnote">3. Le mol ψεύδος, mensonge, entre dans la composition de ce nom.</note>
-						<note type="footnote">4. Nom que portaient certains officiers du roi de Perse. L’acteur chargé
-de ce rôle portail un masque percé d’un æeil unique et énorme.</note>
-						<note type="footnote">Mots forgés, qui n’ont sans doute de sens dans aucune langues.</note>
+						
+						
+						
+						
+						
 						<pb n="9"/>
-						<p>PSEUDARTABAS. Tu n’auras pas d'or, lonien <hi rend="superscript">1</hi> débauché <hi rend="superscript">2</hi>.</p>
+						<p>PSEUDARTABAS. Tu n’auras pas d'or, lonien<note type="footnote" n="1">Les barbares donnaient à tous les Grecs indistinctement le nom
+d’ioniens; ici il s’applique aux Athéniens.</note> débauché<note type="footnote" n="2"><hi rend="italic">Hianti podice</hi>. (Brunck.)</note>.</p>
 						<p>DICÉOPOLIS. Ah! les dieux me pardonnent, voilà qui est clair.</p>
 						<p>L'AMBAŚADEUR. Que dit-il?</p>
 						<p>DICÉOPOLIS. Il dit que les loniens sont des débauchés et des
@@ -794,12 +787,13 @@ l'or? <hi rend="italic">(Pseudartabas fait signe que non.)</hi> Alors ce sont no
 sadeurs qui veulent nous duper? <hi rend="italic">(Pseudartabas fait signe que oui.)
 </hi>Ces hommes-là font des signes tout à fait à la grecque; je suis
 sûr qu'ils sont tout bonnement d’Athènes. Oh! oh! je reconnais
-bien un de ces eunuques; c’est Clisthène, le fils de Sibyrtius<hi rend="superscript">3</hi>.
+bien un de ces eunuques; c’est Clisthène, le fils de Sibyrtius<note type="footnote" n="3">Sa laideur était extrême et scs mœurs obscènes. Aristophane le raille
+fréquemment dans ses comédies.</note>.
 Ah! quel effronté que ce derrière épilé! Comment, grand singe,
 avec une telle barbe, veux-tu nous jouer le rôle d'un eunuque?
 Et cet autre, n’est-ce pas Straton?</p>
 						<p>LE HÉRAUT. Silence, qu'on s’asseye. Le sénat invite l'œil du
-roi à se rendre au Prytanée <hi rend="superscript">4</hi>></p>
+roi à se rendre au Prytanée<note type="footnote" n="4">Les ambassadeurs y étaient traités aux frais de l’État.</note></p>
 						<p>DICÉOPOLIS. N'y a-t-il pas de quoi se pendre? Je suis ici à me
 morfondre, tandis que les portes du Prytanée s'ouvrent à deux
 battants pour héberger de pareils coquins. Mais je vais faire
@@ -811,26 +805,24 @@ trêve avec les Lacédémoniens pour moi, ma femme et mes en-
 fants; libre à vous, mes chers concitoyens, d'envoyer des ambas-
 sades et de bayer aux corneilles.</p>
 						<p>LE HÉRAUT. Qu'on introduise Théorus revenu de la cour de
-Sitalcès<hi rend="superscript">5</hi>.</p>
+Sitalcès<note type="footnote" n="5">Uoi du Thracc.</note>.</p>
 						<p>THÉORUS. Me voici.</p>
 						<p>DICÉOPOLIS. Un autre hâbleur!</p>
 						<p>THÉORUS. Nous ne serions pas restés longtemps en Thrace....</p>
-						<note type="footnote">1. Les barbares donnaient à tous les Grecs indistinctement le nom
-d’ioniens; ici il s’applique aux Athéniens.</note>
-						<note type="footnote">2. Jlianti podice. (Brunck.)</note>
-						<note type="footnote">3. Sa laideur était extrême et scs mœurs obscènes. Aristophane le raille
-fréquemment dans ses comédies.</note>
-						<note type="footnote">4. Les ambassadeurs y étaient traités aux frais de l’État.</note>
-						<note type="footnote">5. Uoi du Thracc.</note>
+						
+						
+						
+						
+						
 						<pb n="1"/>
 						<p>DICÉOPOLIS. Non, certes, si tu n'avais pas été bien payé.</p>
 						<p>THÉOPOLIS.... Si la contrée tout entière n’avait été couverte
-de neige; la glace enchaînait les fleuves, à l’époque où Théognis <hi rend="superscript">1
-</hi>faisait jouer ici sa tragédie; pendant ce temps, je tenais tête à
+de neige; la glace enchaînait les fleuves, à l’époque où Théognis<note type="footnote" n="1">Voy. page 5, note 5.</note> faisait jouer ici sa tragédie; pendant ce temps, je tenais tête à
 Sitalcès, la coupe en main; et vraiment il vous adorait au point
 d’écrire sur les murs : « Que les Athéniens sont jolis!» Son fils,
 à qui nous avons accordé le droit de cité, brûlait de venir man-
-ger ici des andouilles à la fête des Apaturies <hi rend="superscript">2</hi>; il suppliait
+ger ici des andouilles à la fête des Apaturies<note type="footnote" n="2">Fêle qui durait trois jours, et qui se célébrait au mois Pyanepsion
+(novembre). Le mot grec renferme l’idée de tromperie (<foreign xml:lang="grc">απάτη</foreign>).</note>; il suppliait
 son père de secourir sa nouvelle patrie, et Sitalcès jura sur
 sa coupe qu’il viendrait à notre aide avec une si nombreuse
 armée que les Athéniens s’écrieraient : « Quelle nuée de saute-
@@ -842,33 +834,26 @@ de la Thrace.</p>
 						<p>DICÉOPOLIS. Voilà qui commence a être clair.</p>
 						<p>LE HÉRAUT. Venez, Thraces que Théorus a amenés.</p>
 						<p>DICÉOPOLIS. Quelle est cette peste?</p>
-						<p>THÉORUS. C’est l’armée des Odomantes<hi rend="superscript">3</hi>.</p>
+						<p>THÉORUS. C’est l’armée des Odomantes<note type="footnote" n="3">Peuple de Thrace qui babitait la rive orientale du Strymon.</note>.</p>
 						<p>DICÉOPOLIS. Des Odomantes? Dites-moi, qu’est-ce que cela si-
-gnifie? qui les a arrangés de la sorte <hi rend="superscript">4</hi>?</p>
+gnifie? qui les a arrangés de la sorte<note type="footnote" n="4"><foreign xml:lang="la">Quisnam eis mutilavit penem?</foreign> (Br.)</note>?</p>
 						<p>THÉORUS. Si on leur donne une solde de deux drachmes, ils
-mettront à feu et à sang toute la Béotie <hi rend="superscript">5</hi>.</p>
+mettront à feu et à sang toute la Béotie<note type="footnote" n="5">Les Béotiens étaient alliés des Spartiates.</note>.</p>
 						<p>DICÉOPOLIS. Deux drachmes à ces circoncis-là! Gémissez, peu-
 ple de rameurs, rempart d’Athènes! ̶ Ah! grands dieux! je
-suis perdu; ces Odomantes saccagent mes gousses d’ail<hi rend="superscript">6</hi>; allez-
+suis perdu; ces Odomantes saccagent mes gousses d’ail<note type="footnote" n="6">Dicéopolis avait apporté de l’ail, pour en manger pendant l’assem-
+blée.</note>; allez-
 vous me rendre mon ail?</p>
 						<p>THÉORUS. Ah! malheureux! n’approche pas d’eux : ils ont
-mangé de l’ail <hi rend="superscript">7</hi>.</p>
+mangé de l’ail<note type="footnote" n="7">On fait.mander de l’ail aux coqs, avant de les mettre aux prises
+pour leur donner plus d’ardeur au combat.</note>.</p>
 						<p>DICÉOPOLIS. Prytanes, me laisserez-vous traiter de la sorte,
 dans ma patrie et par des barbares? Mais je m’oppose à ce qu’on
 discute la question de donner une solde aux Thraces; je dé-
-<note type="footnote">1. Voy. page 5, note 5.</note>
-<note type="footnote">2. Fêle qui durait trois jours, et qui se célébrait au mois Pyanepsion
-(novembre). Le mot grec renferme l’idée de tromperie (απά-rij).</note>
-<note type="footnote">3. Peuple de Thrace qui babitait la rive orientale du Strymon.</note>
-<note type="footnote">4. Quisnnm eis mutilavit pene.m? (Br.)</note>
-<note type="footnote">6. Les Béotiens étaient alliés des Spartiates.</note>
-<note type="footnote">6, Dicéopolis avait apporté de l’ail, pour en manger pendant l’assem-
-blée.</note>
-<note type="footnote">7. On fait.mander de l’ail aux coqs, avant de les mettre aux prises
-pour leur donner plus d’ardeur au combat.</note>
+
 <pb n="11"/>
 clare qu’il se manifeste un signe céleste; j’ai senti une goutte
-d’eau <hi rend="superscript">1</hi>.</p>
+d’eau<note type="footnote" n="1">L’assemblée était levée, dès qu’il se produisait quelque présage défavorable.</note>.</p>
 						<p>LE HÉRAUT. Que les Thraces se retirent et qu’ils se repré-
 sentent après-demain; les Prytanes déclarent l’assemblée dis-
 soute.</p>
@@ -878,7 +863,7 @@ Amphithéus qui revient de Lacédémone. Salut, Amphithéus.</p>
 sauve au plus vite; les Acharnions me poursuivent.</p>
 						<p>DICÉOPOLIS. Que s’est-il donc passé?</p>
 						<p>AMPHITHEUS, Je me hâtais de t’apporter ta trêve; mais quel-
-ques vieillards d’Acharne <hi rend="superscript">2</hi> ont flairé la chose; ce sont d’anciens
+ques vieillards d’Acharne<note type="footnote" n="2">Le bourg d’Acbarne était peuplé surtout de charbonniers.</note> ont flairé la chose; ce sont d’anciens
 soldats de Marathon, durs comme l’yeuse et l’érable dont ils sont
 faits à coup sûr, rudes, impitoyables. Ils se sont tous mis à
 crier: « Ah! misérable,tu es porteur d'une trêve, et l’ennemi
@@ -888,30 +873,32 @@ poursuivi en vociférant.</p>
 						<p>DICÉOPOLIS. Qu’ils crient à leur aise 1 Mais m’apportes-tu la
 trêve?</p>
 						<p>AMPHITHÉUS. Oui, sans doute, en voici même trois échantil-
-lons à ton choix <hi rend="superscript">5</hi>. Celle-ci est de cinq ans. Prends et goûte.</p>
+lons à ton choix<note type="footnote" n="3">Il les présente sous forme de liqueurs contenues dans trois fioles différentes.</note>. Celle-ci est de cinq ans. Prends et goûte.</p>
 						<p>DICÉOPOLIS. Pouah!</p>
 						<p>AMPHITHÉUS. Eh bien?</p>
 						<p>DICÉOPOLIS. Elle ne me plaît pas : cela sent le goudron et les
-navires qu’on équipe<hi rend="superscript">4</hi>.</p>
+navires qu’on équipe<note type="footnote" n="4">C’est-à-dire les préparatifs de guerre.</note>.</p>
 						<p>AMPHITHÉUS. En voici une autre de dix ans : goûte.</p>
 						<p>DICÉOPOLIS. Elle sent encore bien fort les députés qui s’en
-vont par les villes gourmander la lenteur des alliés<hi rend="superscript">5</hi>.</p>
+vont par les villes gourmander la lenteur des alliés<note type="footnote" n="5">C’est-à-dire s’assurer des alliés , pour renouveler la guerre.</note>.</p>
 						<p>AMPHITHÉUS. Celle-ci enfin est une trêve de trente ans sur
 terre et sur mer.</p>
 						<p>DICÉOPOLIS. Oh! quel bouquet, par Bacchus! C’est une odeur
 de nectar et d’ambroisie; elle ne nous dit pas, celle-là : « Mu-
-nissez-vous de vivres pour trois jours <hi rend="superscript">6</hi>, a Mais elle a à la bou-
-<note type="footnote">1. L’assemblée était levée, dès qu’il se produisait quelque présage défavorable.</note>
-<note type="footnote">2. Le bourg d’Acbarne était peuplé surtout de charbonniers.</note>
-<note type="footnote">3. Il les présente sous forme de liqueurs contenues dans trois fioles différentes.</note>
-<note type="footnote">4. C’est-à-dire les préparatifs de guerre.</note>
-<note type="footnote">5. C’est-à-dire s’assurer des alliés , pour renouveler la guerre.</note>
-<note type="footnote">6. Comme on le faisait, .quand on entrait en campagne.</note>
+nissez-vous de vivres pour trois jours<note type="footnote" n="6">Comme on le faisait, .quand on entrait en campagne.</note>, a Mais elle a à la bou-
+
+
+
+
+
+
 <pb n="12"/>
 che ce mot si doux : a Allez où bon vous semble. » Je l’accepte,
 je la ratifie, je la bois d’un seul trait, et j’envoie promener les
 Acharniens. Délivré de la guerre et de ses maux, je vais célé-
-brer au champs les Dionysiaques <hi rend="superscript">1</hi>.</p>
+brer au champs les Dionysiaques<note type="footnote" n="1">Fêles appelées aussi Anthesléries ou Lénécnnes; Lénée était le nom
+d'un temple de Bacchus, élevé dans la campagne. Elles se célébraient au
+mois Anthestérion (février).</note>.</p>
 						<p>AMPHITHÉUS. Et moi je me sauve; j'ai peur des Acharniens.</p>
 						<p>LE CHOEUR. Par ici, tous, poursuivons notre homme; deman-
 dons-le à tous les passants; l'intérêt public exige qu'on se sai-
@@ -919,9 +906,10 @@ sisse de lui.</p>
 						<p>Hé, indiquez-moi quel chemin a suivi le porteur de la
 trêve; il nous a échappé, il a disparu. Ah! maudite vieillesse!
 Quand j’étais jeune, au temps où, un sac de charbon sur le dos,
-je suivais Phaÿllus<hi rend="superscript">2</hi> en courant, ce misérable ne se serait pas
+je suivais Phaÿllus<note type="footnote" n="2">Célèbre athlète de Crotone, vainqueur à Olympie, également habile à
+la course et au pentathle.</note> en courant, ce misérable ne se serait pas
 soustrait à ma poursuite, si léger qu’il soit à la course; mais
-maintenant mes jarrets sont roidis; le vieux Lacratidès <hi rend="superscript">3</hi> sent
+maintenant mes jarrets sont roidis; le vieux Lacratidès<note type="footnote" n="3">Il avait été archonte du temps de la bataille de Marathon.</note> sent
 ses jambes appesanties, et le traître m’échappe. Non, non, pour-
 suivons-le; de vieux Acharniens comme nous ne se laisseront
 jamais narguer par un infâme qui a osé, grands dieux! con-
@@ -933,22 +921,20 @@ vager mes vignobles. Mais cherchons ce coquin; regardons
 partout, nos pierres à la main; poursuivons-le de lieu en lieu
 jusqu’à ce que nous le trouvions; je ne pourrai me rassasier du
 plaisir de le lapider.</p>
-						<p>DICÉOPOLIS. Profanes, faites silence<hi rend="superscript">4</hi>!</p>
+						<p>DICÉOPOLIS. Profanes, faites silence<note type="footnote">4, Formule sacrée que prononçait le prêtre avant d’offrir le sacrifice.</note>!</p>
 						<p>LE CHOEUR. Que chacun se taise! Écoutez, mes amis, cette
 formule religieuse. Voilà celui que nous cherchons. Par ici,
 tous! Écartez-vous, il vient sans doute offrir un sacrifice.</p>
-						<p>DICÉOPLIS. Profanes, faites silence. Que la canéphore <hi rend="superscript">5</hi>. s’a-
-vance; et toi, Xanthias, tiens bien droit le phallus<hi rend="superscript">6</hi>.</p>
-						<note type="footnote">1. Fêles appelées aussi Anthesléries ou Lénécnnes; Lénée était le nom
-d'un temple de Bacchus, élevé dans la campagne. Elles se célébraient au
-mois Anthestérion (février).</note>
-						<note type="footnote">2. Célèbre athlète de Crotone, vainqueur à Olympie, également habile à
-la course et au pentathle.</note>
-						<note type="footnote">3. Il avait été archonte du temps de la bataille de Marathon.</note>
-						<note type="footnote">4, Formule sacrée que prononçait le prêtre avant d’offrir le sacrifice.</note>
-						<note type="footnote">6 La jeune fille qui portait la corbeille remplie de fruits (*«-&gt;7?) dans
-les Dionysiaques.</note>
-						<note type="footnote">6. L’emblème de la fécondité de la nature; les Phallophores, couronnée</note>
+						<p>DICÉOPLIS. Profanes, faites silence. Que la canéphore<note type="footnote" n="5">La jeune fille qui portait la corbeille remplie de fruits (<foreign xml:lang="grc">κάης</foreign>) dans
+les Dionysiaques.</note>. s’a-
+vance; et toi, Xanthias, tiens bien droit le phallus<note type="footnote" n="6">L’emblème de la fécondité de la nature; les Phallophores, couronnée de vioiettes et de lierre, et le visage ombragé de branches vertes, chantaient
+des airs libres appelés <hi rend="italic">phalliques</hi>.</note>.</p>
+						
+						
+						
+						
+						
+						
 						<pb n="13"/>
 						<p>LA FEMME DE DICÉOPOLIS. Dépose la corbeille; ma fille, et
 commençons le sacrifice.</p>
@@ -961,38 +947,35 @@ puisse célébrer sans encombre les Dionysiaques champêtres et
 que cette trêve de trente ans me soit propice.</p>
 						<p>LA FEMME DE DICÉOPOLIS. Allons, ma fille, porte bien la cor-
 beille d’un air sérieux et avec grâce. Heureux celui qui te pos-
-sédera et te serrera si fort, au lever du soleil<hi rend="superscript">1</hi>, que tu lâcheras
+sédera et te serrera si fort, au lever du soleil<note type="footnote" n="1">Moment le plus propice aux ébats amoureux, observe le Scoliaste.</note>, que tu lâcheras
 des vents comme une belette. Avance, et prends garde que,
 dans la foule, on ne te vole tes bijoux.</p>
 						<p>DICÉOPOLIS. Xanthias, marche derrière la canéphore, et tiens
 bien droit le phallus; je vous suivrai en chantant l’hymne phal-
-lique;et toi, ma femme regarde du haut de la terrasse<hi rend="superscript">2</hi>. En
+lique;et toi, ma femme regarde du haut de la terrasse<note type="footnote" n="2">Les femmes ne suivaient pas les processions.</note>. En
 avant.</p>
-						<p>0 Phalès<hi rend="superscript">3</hi>, compagnon des orgies de Bacchus, coureur de
-nuit, dieu de l’adultère, amant des jeunes garçons, voilà six ans<hi rend="superscript">4
-</hi>que je n’ai pu t’invoquer. Avec quelle joie je reviens dans mon
+						<p>O Phalès<note type="footnote" n="3">Dieu de la génération, adoré sous la forme du phallus.</note>, compagnon des orgies de Bacchus, coureur de
+nuit, dieu de l’adultère, amant des jeunes garçons, voilà six ans<note type="footnote" n="4">Délail qui marque la date de la représentation des <hi rend="italic">Acharmens</hi>:
+sixième année de la guerre du Péloponcse, 426.</note>que je n’ai pu t’invoquer. Avec quelle joie je reviens dans mon
 bourg, grâce à la trêve que j’ai conclue, délivré des soucis, des
-combats et des Lamachus<hi rend="superscript">5</hi>! Combien il est plus doux, ô Phalès
+combats et des Lamachus<note type="footnote" n="5">5. Lamachus, général athénien, qui jouera un rôle dans celle comédie.</note>! Combien il est plus doux, ô Phalès
 Phalès, de surprendre la jolie bûcheronne, Thratta, l’esclave de
 Strymodore, volant du bois sur le mont Phellée, de la saisir à
-bras-le-corps, de la jeter à terre et de la posséder! 0 Phalès!
+bras-le-corps, de la jeter à terre et de la posséder! O Phalès!
 Phalès! si tu veux boire et t’enivrer avec moi, demain à l’au-
 rore nous dévorerons quelaue bon niât en l’honneur de la paix,
 et je suspendrai mon bouclier au-dessus de l'âtre fumeux.</p>
 						<p>LE CHOEUR. C’est lui, c’est lui-même. Lapide, lapide, lapide,
 frappe l’infâme. Tous, tous, lancez, lancez.</p>
 						<p>DICÈOPOLIS. Qu’est ceci? par Hercule! vous allez me casser
-ma marmite <hi rend="superscript">6</hi>.</p>
-						<note type="footnote">de vioiettes et de lierre, et le visage ombragé de branches vertes, chantaient
-des airs libres appelés phalliques.</note>
-						<note type="footnote">1. Moment le plus propice aux ébats amoureux, observe le Scoliaste.</note>
-						<note type="footnote">2. Les femmes ne suivaient pas les processions.</note>
-						<note type="footnote">3. Dieu de la génération, adoré sous la forme du phallus.</note>
-						<note type="footnote">4. Délail qui marque la date de la représentation des Acharmens:
-sixième année de la guerre du Péloponcse, 426.</note>
-						<note type="footnote">5. Lamachus, général athénien, qui jouera un rôle dans celle comédie.</note>
-						<note type="footnote">6. Dana les Dionysiaques champêtres on portait une marmite pleine de
-légumes</note>
+ma marmite<note type="footnote" n="6">Dana les Dionysiaques champêtres on portait une marmite pleine de
+légumes</note>.</p>
+						
+						
+						
+						
+						
+						
 						<pb n="14"/>
 						<p>LE CHOEUR. C'est toi que nous lapiderons, misérable coquin.</p>
 						<p>DICÉOPOLIS. Et pour quelle faute, vieillards achariens?</p>
@@ -1005,7 +988,7 @@ garder en face!</p>
 serons sous nos pierres.</p>
 						<p>DICÉOPOLIS. Mais d’abord écoutez-moi; arrêtez, mes amis.</p>
 						<p>LE CHOEUR. Je ne veux rien entendre; ne me parle pas; je te
-hais encore plus que Cléon <hi rend="superscript">1</hi>, dont quelque jour je taillerai la
+hais encore plus que Cléon<note type="footnote" n="1">Cléon avait été corroyeur; les chevaliers étaient ses ennems.</note>, dont quelque jour je taillerai la
 peau pour en faire des sandales aux chevaliers. Écouter tes
 longs discours, toi qui as traité avec les Laconiens : non! je vais
 te châtier.</p>
@@ -1020,8 +1003,8 @@ pareil langage, et je t'épargnerais!</p>
 						<p>DICÉOPOLIS. Non, non! ils ne sont pas la cause de tous nos
 maux, et, moi qui vous parle, je prétends prouver qu’ils ont
 beaucoup à se plaindre de nous.</p>
-						<p>LE CHOEUR. C'est trop fort; mon cœur bondit de rage. <hi rend="underline">Ainsi
-</hi>tu oses défendre nos ennemis!</p>
+						<p>LE CHOEUR. C'est trop fort; mon cœur bondit de rage. Ainsi
+tu oses défendre nos ennemis!</p>
 						<p>DICÉOPLOIS. La tête sur le billot, je soutiendrais ce que j'a-
 vance, et je m'en rapporte au jugement du peuple.</p>
 						<p>LE CHOEUR. Camarades, lançons nos pierres et teignons-le en
@@ -1034,10 +1017,10 @@ nions?</p>
 						<p>LE CHOEUR. Que je meure, si je t'écoute.</p>
 						<p>DICÉOPLIS. Non, de grâce, Acharniens.</p>
 						<p>LE CHOEUR. Τu vas mourir!</p>
-						<note type="footnote">1. Cléon avait été corroyeur; les chevaliers étaient ses ennems.</note>
+						
 						<pb n="15"/>
 						<p>DICÉPOLIS. Eh bien, sang pour sang! je tuerai vos plus chers
-amis; j'ai là des otages d’Achame <hi rend="superscript">1</hi>; je les égorgerai.</p>
+amis; j'ai là des otages d’Achame<note type="footnote" n="1">Des paniers de charbon.</note>; je les égorgerai.</p>
 						<p>LE CHOEUR. Que signifie cette menace, Acharniens? Tiendrait-il
 enfermé dans sa maison quelqu’un de nos enfants? Qui lui donne
 tant d’audace?</p>
@@ -1060,9 +1043,9 @@ dans vos manteaux.</p>
 						<p>LE CHOEUR. Elles sont toutes à terre; regarde comme nous se-
 couons nos manteaux; allons, pas de subterfuge, dépose ton
 épée; nous avons tout jeté en passant d’un côté de la scène à
-l’autre <hi rend="superscript">2</hi>.</p>
+l’autre<note type="footnote" n="2">Une des évolutions ordinaires du chœur.</note>.</p>
 						<p>DICÉPOLIS. Quels cris de douleur vous auriez tous poussés, si
-ces charbons de Parnès <hi rend="superscript">3</hi> avaient été égorgés! et peu s’en est
+ces charbons de Parnès<note type="footnote" n="3">Montagne de l’Attique, voisine d’Acharne.</note> avaient été égorgés! et peu s’en est
 fallu; s’ils eussent péri, la folie de leurs concitoyens eût été la
 cause de leur trépas. Le pauvre panier a eu si peur qu’il a lâ-
 ché sur moi un épais poussier noir, comme fait la seiche.... Quel
@@ -1074,20 +1057,21 @@ pourtant je tiens à la vie.</p>
 voyons, scélérat, les belles raisons que tu peux nous donner·
 je suis curieux de les connaître; mais, comme tu l’as proposa
 toi-même, pose la tête sur le billot et parle.</p>
-						<note type="footnote">1. Des paniers de charbon.</note>
-						<note type="footnote">2. Une des évolutions ordinaires du chœur.</note>
-						<note type="footnote">V Montagne de l’Attique, voisine d’Acharne.</note>
+						
+						
+						
 						<pb n="16"/>
 						<p>DICÉOPOLIS. Le voilà, ce billot; et je n;.suis, moi, qu’un bien
 chétif orateur; je n'en veux pas moins parler librement de La-
 cédémone, et sans m'armer du bouclier. J’ai cependant bien des
 sujets de crainte; je connais nos campagnards; ils sont ravis
 quand un hâbleur vient à tort et à travers les combler d'éloges,
-eux et la ville; et ile ne s'aperçoivent pas que ces flagorneurs <hi rend="superscript">1
-</hi>sont des traîtres qui les vendent; quant aux vieillards, je sais
+eux et la ville; et ile ne s'aperçoivent pas que ces flagorneurs<note type="footnote" n="1">Les orateurs qui recevaient de l’argent dos ennemis de la patrie,</note> sont des traîtres qui les vendent; quant aux vieillards, je sais
 quelle est leur humeur; ils ne songent qu'à accabler l'accusé de
-leur suffrage<hi rend="superscript">2</hi>. Je n'ai pas oublié non plus comment Cléon m'a
-traité, à cause de ma comédie de l'an passé<hi rend="superscript">3</hi>; il m'a traîné de-
+leur suffrage<note type="footnote" n="2">Allusion satirique à la passion dps Athéniens pour les procès.</note>. Je n'ai pas oublié non plus comment Cléon m'a
+traité, à cause de ma comédie de l'an passé<note type="footnote" n="3"><hi rend="italic">Les Babyloniens.</hi> Cléon avait accusé Aristophane devant le sénat
+d’avoir bafoué Athènes en présence des étrangers qui assistaient en grand
+nombre à celle représentation.</note>; il m'a traîné de-
 vant le sénat, et là il a déblatéré force calomnies contre moi;
 c’était une tempête de cris, un déluge de mensonges; dans quel
 bourbier m’a-t-il traîné 1 J'ai failli y périr. Permettez-moi donc,
@@ -1095,30 +1079,28 @@ avant que je parle, de revêtir le costume le plus propre à inspi-
 rer la pitié.</p>
 						<p>LE CHOEUR. Que de détours, de subterfuges et de retards I
 Tiens, voici le sombre casque de Pluton, à l'épaisse aigrette hé-
-rissée; Hiéronyme <hi rend="superscript">4</hi> te le prête; puis ouvre le sac aux artifices
-de Sisyphe<hi rend="superscript">8</hi>; mais hâte-toi, notre débat n'admet pas de délai.
+rissée; Hiéronyme<note type="footnote" n="4">Poêle tragique peu connu.</note> te le prête; puis ouvre le sac aux artifices
+de Sisyphe<note type="footnote" n="5">Fils d’Éole, célèbre par ses brigandages, el par le supplice que Plulon
+lui infligea. 11 avait eu l’adresse de quillcr les enfers, mais Mercure l’y
+ramena.</note>; mais hâte-toi, notre débat n'admet pas de délai.
 DICÉOPOLIS. Voilà le moment où il faut que je montre du cœur.
 Aussi je vais trouver Euripide. Esclave, esclave!</p>
 						<p>UN ESCLAVE. Qui est là?</p>
 						<p>DICÉOPOLIS. Euripide est-il chez lui?</p>
 						<p>LÉSCLAVE. Il y est, et il n’y est pas; comprends si tu es fin.</p>
-						<p>DICÉOPOLIS. Comment? Il y est et il n’y est pas<hi rend="superscript">6</hi>1</p>
+						<p>DICÉOPOLIS. Comment? Il y est et il n’y est pas<note type="footnote" n="6">Toute celte scène est une critique dirigée contre Euripide; Aristo-
+phane raille les subtilités do son langage poétique et le charlatanisme de
+mise on scène auquel il avait recours pour intéresser la partie la moins
+délicate du public.</note>!</p>
 						<p>L'ESCLAVE. Mais oui, vieillard; occupé à recueillir de ci de là
 des pensées subtiles, son esprit n’est pas au logis; mais lui-
 même y est; percbé en l’air, il compose une tragédie.</p>
-						<note type="footnote">1. Les orateurs qui recevaient de l’argent dos ennemis de la patrie,</note>
-						<note type="footnote">2. Allusion satirique à la passion dps Athéniens pour les procès.</note>
-						<note type="footnote">3. Les Babyloniens. Cléon avait accusé Aristophane devant le sénat
-d’avoir bafoué Athènes en présence des étrangers qui assistaient en grand
-nombre à celle représentation.</note>
-						<note type="footnote">4. Poêle tragique peu connu.'</note>
-						<note type="footnote">5. Fils d’Éole, célèbre par ses brigandages, el par le supplice que Plulon
-lui infligea. 11 avait eu l’adresse de quillcr les enfers, mais Mercure l’y
-ramena.</note>
-						<note type="footnote">6. Toute celte scène est une critique dirigée contre Euripide; Aristo-
-phane raille les subtilités do son langage poétique et le charlatanisme de
-mise on scène auquel il avait recours pour intéresser la partie la moins
-délicate du public.</note>
+						
+						
+						
+						
+						
+						
 						<pb n="17"/>
 						<p>DICÉOPOLIS. O Euripide, que tu es heureux d'avoir un esclave
 si habile à la réplique! Mais toi, appelle ton maître.</p>
@@ -1137,14 +1119,18 @@ n’en ai pas le temps.</p>
 						<p>EURIPIDE. Quelle parole a irappé mon oreille?</p>
 						<p>DICÉOPOLIS. Tu te perches pour faire des tragédies, quand tu
 pourrais les composer à terre. Je ne m'étonne pas que tu mettes
-en scène des boiteux <hi rend="superscript">1</hi>. Et pourquoi te revêtir de ces miséra-
+en scène des boiteux<note type="footnote" n="1">Qui sont devenus infirmes en tombant du haut de la machine ou
+Euripide se perche pour composer.</note>. Et pourquoi te revêtir de ces miséra-
 bles haillons tragiques? Je ne m’étonne pas que tes héros soient
 des mendiants. Mais, Euripide, je t'en conjure à genoux, donne-
 moi les haillons de quelque vieille pièce; car j'ai à débiter au
 chœur un long discours, et si je m’en tire mal, c’en est fait de
 moi.</p>
 						<p>EURIPIDE. Quelles guenilles veux-tu? Celles dont j'ai revêtu
-sur la scène OEnée, ce vieillard infortuné <hi rend="superscript">2</hi>?</p>
+sur la scène OEnée, ce vieillard infortuné<note type="footnote" n="2">Euripide Se plaisait à représenter la misère ou la souffrance sous les
+couleurs les plus sombres et quelquefois les plus forcées. <hi rend="italic">OEnée, Phénix,
+Philoctète, Bellérophon, Télèphe, Ino</hi>, sont les litres de six tragédies dont
+il ne nous reste que des fragments.</note>?</p>
 						<p>DICÉOPOLIS. Non; je veux celles d'un plus malheureux en-
 core.</p>
 						<p>EURIPIDE. De Phénix l'aveugle?</p>
@@ -1156,12 +1142,8 @@ celles du mendiant Philoctète?</p>
 						<p>EURIPIDE. Sont-ce les vêtements crasseux qu'avait ce boiteux
 de Bellérophon?</p>
 						<p>DICÉOPOLIS. Non, ce n'est pas Bellérophon; celui que je veux
-<note type="footnote">1. Qui sont devenus infirmes en tombant du haut de la machine ou
-Euripide se perche pour composer.</note>
-<note type="footnote">2. Euripide Se plaisait à représenter la misère ou la souffrance sous les
-couleurs les plus sombres et quelquefois les plus forcées. OEnée, Phénix,
-Philoctète, Bellérophon, Télèphe, Ino, sont les litres de six tragédies dont
-il ne nous reste que des fragments.</note>
+
+
 <pb n="18"/>
 dire était à la fois boiteux mendiant, bavard et beau par-
 leur.</p>
@@ -1176,7 +1158,8 @@ brasse tout, permets-moi de m’arranger le costume le plus mi-
 sérable du monde. Euripide, complète ton bienfait en me don-
 nant le petit bonnet mysien qui sied si bien à ces baillons. Il
 me faut aujourd'hui avoir l'air d’un mendiant; être ce que je
-suis, mais ne le pas paraître <hi rend="superscript">1</hi>; les spectateurs sauront bien qui
+suis, mais ne le pas paraître<note type="footnote" n="1">Vers emprunté â Euripide; il y a dans celle scène un grand pomhro
+de vers parodiés de la même façon.</note>; les spectateurs sauront bien qui
 je suis, mais le chœur sera assez stupide pour l’ignorer, et e le
 duperai avec mes subtiles sentences.</p>
 						<p>EURIPIDE. Je te donnerai le bonnet : j’aime les ruses habiles
@@ -1195,19 +1178,19 @@ donne-moi un petit panier avec une lampe allumée dedans.</p>
 même.</p>
 						<p>EURIPIDE. Tu m’importunes, va-t’en.</p>
 						<p>DICÉOPOLIS. Hélas! que les dieux te donnent un aussi bril-
-lant destin qu'à ta mère <hi rend="superscript">2.</hi></p>
+lant destin qu'à ta mère<note type="footnote" n="2">La mère d'Euripide avail, dit-on, vepdu des légumes sur le marché·</note></p>
 						<p>EURIPIDE. Laisse-moi tranquille.</p>
 						<p>DICÉOPOLIS. Ah! seulement une petite écuelle ébréchée?</p>
 						<p>EURIPIDE. Prends, et va te pendre; quel être assommant!</p>
 						<p>DICÉOPOLIS. Ah! tu ne sais pas tout le mal que tu me fais.
 Mon bon Euripide chéri, plus rien qu’une petite cruche bou-
 chée avec une éponge.</p>
-						<note type="footnote">i. Vers emprunté â Euripide; il y a dans celle scène un grand pomhro
-de vers parodiés de la même façon.</note>
-						<note type="footnote">â. La mère d'Euripide avail, dit-on, vepdu des légumes sur le marc}^·</note>
+						
+						
 						<pb n="19"/>
 						<p>EURIPIDE. Malheureux! c’est toute une tragédie que tu me
-dérobes là Allons, tiens et va-t’en.</p>
+dérobes là<note type="footnote" n="1">Aristophane veut faire entendre qne ces détails mesqnins de costnrne
+et de mise en scène sont tout le talent d’Euripide.</note>. Allons, tiens et va-t’en.</p>
 						<p>DICÉOPOLIS. Je m’en vais; mais, grands dieux! il me faut en-
 core une chose; si je ne l’ai pas, je suis un homme mort.
 Écoute-moi, mon petit Euripide, donne-moi encore cela, et je
@@ -1240,19 +1223,18 @@ diant que je suis, j’ose, dans une comédie, parler des intérêts
 publics devant le peuple d’Athènes; la comédie aussi discerne
 ce qui est juste. Je ne plairai pas, mais je dirai ce qui est vrai.
 D’ailleurs Cléon ne pourra pas m’accuser d’attaquer Athènes en
-présence des étrangers<hi rend="superscript">2</hi>; aux fêtes lénéennes, nous sommes
-<note type="footnote">1. Aristophane veut faire entendre qne ces détails mesqnins de costnrne
-et de mise en scène sont tout le talent d’Euripide.</note>
-<note type="footnote">.2 Les Babyloniens avaient été représentés dans une saison où il y avait à
-Athènes une foule d’étrangers; les Acharniens, au contraire, furent doun’s
-au mois de décembre.</note>
+présence des étrangers<note type="footnote" n="2">Les <hi rend="italic">Babyloniens</hi> avaient été représentés dans une saison où il y avait à
+Athènes une foule d’étrangers; les <hi rend="italic">Acharniens</hi>, au contraire, furent doun’s
+au mois de décembre.</note>; aux fêtes lénéennes, nous sommes
+
+
 <pb n="20"/>
 entre nous; ce n'est pas encore l'époque où nos alliés nous en-
 voient leurs tributs et leurs soldats Il n'y a ici que le froment
 pur, sans mélange; quant aux étrangers domiciliés, ils ne font
 qu’un avec les citoyens, comme la paille avec l’épi.</p>
 						<p>Je déteste de tout cœur les Lacédémoniens, et puisse Neptune,
-le dieu du Ténare <hi rend="superscript">1</hi>, faire trembler la terre et renverser leurs
+le dieu du Ténare<note type="footnote" n="1">Un tremblement de terre avait menacé Sparte en 427.</note>, faire trembler la terre et renverser leurs
 demeures! Moi aussi, on m'a coupé mes vignes. Mais voyons
 (il n’y a ici que des amis qui m'entendront), pourquoi accuser
 les Laconiens de nos maux? Quelques hommes (je ne dis pas la
@@ -1271,24 +1253,24 @@ filles de joie que la Grèce est en feu. Alors, embrasé de colère,
 Périclès, du haut de son Olympe, lance l'éclair, fait gronder le
 tonnerre, bouleverse la Grèce et fait passer un décret qui disait
 comme la chanson : « Que les Mégariens soient bannis et de
-notre sol, et de nos marchés, et de la mer, et du continent <hi rend="superscript">2</hi>. »
+notre sol, et de nos marchés, et de la mer, et du continent<note type="footnote" n="2">Chanson de Timocréon de Rhodes, dont les termes sont les mômes
+que ceux du décret de Périclès.</note>. »
 Cependant les Mégariens, qui commençaient à mourir de faim,
 prièrent les Lacédémoniens de provoquer l’abrogation du dé-
 cret dont les filles de joie étaient cause; nous repoussâmes
 plusieurs fois leur demande; dès lors, ce fut partout un affreux
 cliquetis d'armes. Sparte avait tort, dira-t-on : et que devait-
 elle faire? répondez. Supposez qu'un Lacédémonien eût enlevé,
-sous un prétexte quelconque, un petit chien de Sériphe <hi rend="superscript">3</hi>, et
+sous un prétexte quelconque, un petit chien de Sériphe<note type="footnote" n="3">Une des Cyclades, alliée d’Athènes.</note>, et
 l’eût vendu, l’auriez-vous souffert en silence? Loin de là, vous
 auriez aussitôt mis trois cents vaisseaux à la mer, et quel tu-
 multe par toute la ville! là c'est une troupe de soldats tapageurs;
 ici on se dispute pour l’élection des Triérarques; ailleurs on
-distribue la solde, on redore les statues de Pallas <hi rend="superscript">4</hi>, la foule
-<note type="footnote">4. Un tremblement de terre avait menacé Sparte en 427.</note>
-<note type="footnote">2. Chanson de Timocréon de Rhodes, dont les termes sont les mômes
-que ceux du décret de Périclès.</note>
-<note type="footnote">3. Une des t;yclades, alliée d’Athènes.</note>
-<note type="footnote">4. Qui étaient placées à la proue des galères.</note>
+distribue la solde, on redore les statues de Pallas<note type="footnote" n="4">Qui étaient placées à la proue des galères.</note>, la foule
+
+
+
+
 <pb n="21"/>
 mugit sous les portiques du marché, encombrés de froment
 qu’on mesure, d’outres, de courroies pour les rames, de ton-
@@ -1298,7 +1280,8 @@ dans l’arsenal,-on enfonce à grand bruit des chevilles, on fa-
 brique des rames, on les attache avec la courroie; on n’entend
 que les sifflets, et le son des flûtes et des fifres qui animent les
 travailleurs. Voilà ce que vous auriez fait à coup sûr, et Té-
-lèphe n’eût-il pas agi de même<hi rend="superscript">1</hi>? J’en conclus que nous n’avons
+lèphe n’eût-il pas agi de même<note type="footnote" n="1">Vers parodiès du <hi rend="italic">Telèphe d'Euripide</hi>.</note>
+<pb n="22"/>? J’en conclus que nous n’avons
 pas le sens commun.</p>
 						<p>PREMIER DEMI-CHOEUR. Ah! misérable! ah I infâme! Tu n’es
 qu’un mendiant, et tu oses nous parler de la sorte! et tu insultes
@@ -1327,10 +1310,10 @@ langage?</p>
 parle au hasard.</p>
 						<p>LAMACHUS. Mais qu’as-tu dit de nous? voyons.</p>
 						<p>DICÉOPOLIS. Je n’en sais rien; la vue des armes me donne le
-<note type="footnote">1 Vers i»aroLÜé3 du Telcphc d'Euripide.</note>
-<pb n="22"/>
+
 vertige. Ah! je t'en conjure, éloigne un peu cette épouvantable
-gorgone <hi rend="superscript">1</hi>.</p>
+gorgone<note type="footnote" n="1">C’élail une léle de Méduse qui formait u· centre du bouclier de La-
+machus.</note>.</p>
 						<p>LAMACHUS. Voîlà.</p>
 						<p>DICÉOPOLIS. Pose-la maintenant la face contre terre.</p>
 						<p>LAMACHUS. C'est fait.</p>
@@ -1352,32 +1335,31 @@ as là tout ce qu'il faut.</p>
 tieux; un soldat qui se bat bien depuis le début de la guerre,
 tandis que toi, tu n'es qu’un vil mercenaire.</p>
 						<p>LAMACHUS. On m'a é1u....</p>
-						<p>DICÉOPOLIS. Oui, trois coucous<hi rend="superscript">2</hi>, si j’ai fait la paix, c'est par
+						<p>DICÉOPOLIS. Oui, trois coucous<note type="footnote" n="2">C’était sans doute une élection escamotée par quelques partisans de
+Lamachus.</note>, si j’ai fait la paix, c'est par
 dégoût. Ainsi, dans les rangs des soldats, je vois des vieillards à
 cheveux blancs; et des jeunes gens de ton âge se dérobent au
 service. Les uns sont en Thrace, où ils reçoivent une solde de
 trois drachmes : c'est Tisamène, Phénippe, et ce coquin d’Hip-
 parchide. Les autres sont avec Charès, ou en Chaonie comme
 Gérés, Théodore et ce vantard de Diomée; il y en a aussi à
-Camarina et à Géla<hi rend="superscript">5</hi>, qui se font moquer d'eux.</p>
+Camarina et à Géla<note type="footnote" n="3">Villes de Sicile. Les Athéniens avaient envoy des ambassades de
+tous les côtés pour étendre leurs alliances; mais on n’avait choisi comme
+députés «pie de jeunes débauchés.</note>, qui se font moquer d'eux.</p>
 						<p>lamachus. Ils ont été élus.</p>
 						<p>DICÉOPOLIS. Et pourquoi les salaires viennent-ils toujours à
-vous, tandis que ceux-ci n'ont jamais rien? Dis-moi, Mariladès <hi rend="superscript">4</hi>,
-<note type="footnote">I. C’élail une léle de Méduse qui formait u· centre du bouclier de La-
-machus.</note>
-<note type="footnote">2. C’était sans doute une élection escamotée par quelques partisans de
-Lamachus.</note>
-<note type="footnote">3. Villes de Sicile. Les Athéniens avaient envoy des ambassades de
-tous les côtés pour étendre leurs alliances; mais on n’avait choisi comme
-députés «pie de jeunes débauchés.</note>
-<note type="footnote">4. Mariladès, Priuidès, Euplioridès, noms bien choisis pour·des charbon-
-niers : μκρίλη, braise; πρίνος, yeuse; eu qui porte bien les fardeaux.</note>
+vous, tandis que ceux-ci n'ont jamais rien? Dis-moi, Mariladès<note type="footnote" n="4">Mariladès, Priuidès, Euplioridès, noms bien choisis pour·des charbon-
+niers : <foreign xml:lang="grc">μαρίλη</foreign>, braise; <foreign xml:lang="grc">πρῖνος</foreign>, yeuse; <foreign>εὗ φέρω</foreign>, qui porte bien les fardeaux.</note>,
+
+
+
+
 <pb n="23"/>
 tu as des cheveux blancs; eh bien! t'a-t-on jamais confié une
 ambassade? vois; il fait signe que non. C'est cependant un
 homme aussi actif que sage. Et vous, Dracylle, Euphoridès, Prini-
 dès, connaissez-vous Ecbatane ou la Chaonie? non, n'est-ce pas?
-C’est bon pour le fils de Coesyra <hi rend="superscript">1</hi> et pour Lamachus, écrasés
+C’est bon pour le fils de Coesyra<note type="footnote" n="1">Jeune orateur inconnu.</note> et pour Lamachus, écrasés
 hier encore sous les dettes, ne payant jamais leur écot, et dont
 tous leurs amis se garaient, comme les passants se garent de
 ceux qui le soir vident leur cuvette par la fenêtre.</p>
@@ -1392,7 +1374,9 @@ ganens et aux Béotiens, que je leur ouvre mon marché; mais
 j'en exclus Lamachus.</p>
 						<p>LE CHOEUR. Convaincu par les discours de cet homme, le
 peuple change d'avis et l'approuve d'avoir fait la paix. Mais
-préparons-nous à réciter la parabase <hi rend="superscript">2</hi>.</p>
+préparons-nous à réciter la parabase<note type="footnote" n="2">La parahase est une sorte de harangue presque toujours politique,
+adressée par le poêle aux spectateurs; le sujet de la pièce y est complète-
+ment mis eu oubli.</note>.</p>
 						<p>Depuis que notre poète fait représenter des comédies, il ne
 s'est pas encore donné d’éloges sur le théâtre; mais, calomnié
 par ses ennemis auprès des volages Athéniens, accusé de ba-
@@ -1409,10 +1393,8 @@ disait : <hi rend="italic">la riche et grasse Athènes,</hi> pour cettè graisse
 tout, parce qu'il parlait de vous comme d'anchois à l'huile. En
 vous prémunissant contre ces artifices, le poëte vous a rendu de
 grands services, ainsi qu’en vous faisant toucher au doigt ce
-<note type="footnote">1. Jeune orateur inconnu.</note>
-<note type="footnote">2. La parahase est une sorte de harangue presque toujours politique,
-adressée par le poêle aux spectateurs; le sujet de la pièce y est complète-
-ment mis eu oubli.</note>
+
+
 <pb n="24"/>
 qu’est vraiment le régime démocratique. Aussi les étrangers, ve-
 nus pour acquitter leurs tributs, désirent-ils voir ce grand poète
@@ -1425,7 +1407,7 @@ diguait ses traits mordants : " Heureuse celle-là, ajoutait le roi,
 si elle écoute ses conseils; elle croîtra en puissance, et la vic-
 toire lui est assurée. » Yoilà pourquoi les Lacédémoniens vous
 offrent la paix si vous leur cédez Égine; ce n’est pas qu’ils se
-soucient de cette île, mais ils veulent vous enlever le poète*.
+soucient de cette île, mais ils veulent vous enlever le poëte<note type="footnote">On croit qu’Arislophane possédait d’hnpoi lames propriétés à Égino.</note>.
 Et vous, n’abandonnez pas celui qui défendra toujours dans ses
 comédies la cause de la justice; ses leçons, assure-t-il, vous con-
 duiront à la félicité, sans qu’il emploie ni les compliments, ni
@@ -1454,52 +1436,52 @@ bre, tandis que l’accusateur, qui veut se concilier les jeunes
 gens, nous accable de sa dialectique rapide; il nous traîne de-
 vant le juge, nous presse de questions, nous tend des pièges;
 son attaque trouble, renverse, met en pièces le pauvre vieux
-<note type="footnote">&lt;, On cioil qu’Arislophane possédait d’hnpoi lames propriétés à Égino.</note>
+
 <pb n="25"/>
 Tithon, qui, accablé par l’âge, reste bouche close; con-
-damné à payer l'amende <hi rend="superscript">1</hi>, il pleure, il sanglote et il dit à
+damné à payer l'amende<note type="footnote" n="1">Tout était sujet de procès à Athènes; les vieux soldats, malhabiles à
+la parole, perdaient souvent leurs causes.</note>, il pleure, il sanglote et il dit à
 ses amis : « Ce qui devait payer mon cercueil, l'amende me le
 ravit.»</p>
-						<p>N'est-ce pas une infamie? Quoi! la clepsydre <hi rend="superscript">2</hi> tue le vieil-
+						<p>N'est-ce pas une infamie? Quoi! la clepsydre<note type="footnote" n="2">C’est-à-dire les débats judiciaires, dont la durée était limitée par la
+clepsydre.</note> tue le vieil-
 lard à cheveux blancs qui, dans l'ardente mêlée, s'est tant de
 fois couvert d'une glorieuse sueur, dont le courage a sauvé la
 patrie à Marathon! Nous poursuivions dans les champs de Ma-
 rathon, tandis que maintenant des misérables nous poursuivent
-à outrance et nous accablent, A cela que répondrait Marpsias<hi rend="superscript">3</hi>?
+à outrance et nous accablent, A cela que répondrait Marpsias<note type="footnote" n="3">Orateur bavard, bruyant et querelleur.</note>?
 Quelle injustice qu'un homme courbé par les ans, comme Thu-
 cydide, soit mis aux prises avec cet avocat bavard, ce Céphiso-
-dème <hi rend="superscript">4</hi>, aussi sauvage que les déserts de la Scythie où il est né!
+dème<note type="footnote" n="4">Céphisodèrae était Athénien, mais tenait à la Scyllnc pare grand -
+mère.</note>, aussi sauvage que les déserts de la Scythie où il est né!
 N'est-ce pas le condamner d'avance? J'ai pleuré de pitié quand
-j'ai vu maltraiter par un archer <hi rend="superscript">5</hi> ce vieillard qui, par Gérés!
+j'ai vu maltraiter par un archer<note type="footnote" n="5">La garde de police d'Athènes était composée d’arruers scyllics.</note> ce vieillard qui, par Gérés!
 quand il était le jeune, le vrai Thucydide, ne se serait pas laissé
-insulter par Gérés elle-même. Alors il eût terrassé dix Évathlus<hi rend="superscript">6</hi>,
+insulter par Gérés elle-même. Alors il eût terrassé dix Évathlus<note type="footnote" n="6">Mauvais orateur.</note>,
 il eût terrifié par ses cris trois mille archers; il eût percé de
 ses flèches toute la lignée de son ennemi. Ah 1 si vous ne vou-
 lez pas laisser les vieillards en repos, décidez qu'on appareillera
 les plaideurs; ainsi le vieillard n’aura en face de lui qu’un vieil-
 lard édenté, le jeune homme luttera contre les bavards et les in-
-fâmes, contre le fils de Clinias<hi rend="superscript">7</hi>; qu'à l'avenir, devant les tribu-
+fâmes, contre le fils de Clinias<note type="footnote" n="7">Alcibiade.</note>; qu'à l'avenir, devant les tribu-
 naux, le vieillard ne puisse être assigné et condamné que par le
 vieillard, et le jeune homme par le jeune homme.</p>
 						<p>DICÉOPOLIS. Voici les limites de mon marché. Tous les Pélo-
 ponésiens, les Mégariens et les Béotiens ont le droit de venir
 trafiquer ici, pourvu qu'ils vendent leurs denrées à moi, et non
 à Lamachus. Je nomme inspecteurs du marché ces trois fouets
-de cuir lépréen<hi rend="superscript">8</hi> que le sort a désignés. Loin d’ici tout délateur
-<note type="footnote">1.Tout était sujet de procès à Athènes; les vieux soldats, malhabiles à
-la parole, perdaient souvent leurs causes.</note>
-<note type="footnote">2. C’est-à-dire les débats judiciaires, dont la durée était limitée par la
-clepsydre.</note>
-<note type="footnote">3. Orateur bavard, bruyant et querelleur.</note>
-<note type="footnote">♦· Céphisodèrae était Athénien, mais tenait à la Scyllnc pare grand -
-mère.</note>
-<note type="footnote">6 La garde de police d'Athènes était composée d’arruers scyllics.</note>
-<note type="footnote">i. Mauvais orateur.</note>
-<note type="footnote">7. Alcibiade.</note>
-<note type="footnote">- C’est à Lépros, hors de la ville, que se tenait le marché au* cuirs.</note>
+de cuir lépréen<note type="footnote" n="8">C’est à Lépros, hors de la ville, que se tenait le marché aux cuirs.</note> que le sort a désignés. Loin d’ici tout délateur
+
+
+
+
+
+
+
+
 <pb n="26"/>
-et tout habitant du Phase! <hi rend="superscript">1</hi> On va m'apporter la colonne où est
-inscrit le traité <hi rend="superscript">2</hi>, et je la dresserai bien en vue au milieu du
+et tout habitant du Phase!<note type="footnote" n="1">C’est-à-dire encore tout délateur (<foreign xml:lang="grc">ψαίνω</foreign>. dénoncer). Jeu de mole.</note> On va m'apporter la colonne où est
+inscrit le traité<note type="footnote" n="2">Suivant l’usage athénien.</note>, et je la dresserai bien en vue au milieu du
 marché.</p>
 						<p>un mégarien. Salut, marché d’Athènes, cher aux Mégariens.
 J’en atteste Jupiter, protecteur de l’amitié, je te regrettais,
@@ -1521,7 +1503,8 @@ pelle Dicéopolis. Où est-il? Dicéopolis, veux-tu acheter des pe-
 tits cochons?</p>
 						<p>DICÈOPOLIS. Qui es-tu? un Mégarien?</p>
 						<p>LE MÉGARRIEN. Je suis venu à ton marché.</p>
-						<p>DICÈOPOLIS. Eh bien, comment cela va-t-il à Mégare <hi rend="superscript">3</hi>?</p>
+						<p>DICÈOPOLIS. Eh bien, comment cela va-t-il à Mégare<note type="footnote" n="3">Mégare, alliée de Sparte, souffrait de la guerre plus que toute autre
+cité, à cause du voisinage d’Athènes.</note>?</p>
 						<p>LE MÉGARIEN. Nous crions la faim au coin du feu.</p>
 						<p>DICÉOPOLIS. Le coin du feu est fort agréable avec un joueur
 de flûte. Mais que fait-on. encore à Mégare?</p>
@@ -1536,10 +1519,9 @@ s’y vend-il?</p>
 						<p>LE MÉGARIEN. Le blé chez nous n’est pas en moindre estime
 que les dieux.</p>
 						<p>DICÉOPOLIS. Est-ce du sel que tu apportes?</p>
-						<note type="footnote">1I. C’est-à-dire encore tout délateur (ψχίνω. dénoncer). Jeu de mole.</note>
-						<note type="footnote">2. Suivant l’usage athénien.</note>
-						<note type="footnote">3. Mégare, alliée de Sparte, souffrait de la guerre plus que toute autre
-cité, à cause du voisinage d’Athènes.</note>
+						
+						
+						
 						<pb n="27"/>
 						<p>LE MÉGARIEN. N’est-ce pas vous qui détenez le sel?</p>
 						<p>DICÉOPOLIS. De l'ail?</p>
@@ -1553,7 +1535,8 @@ dans les mystères.</p>
 						<p>LE MÉGARIEN. Elles sont très-belles; soupèse-les : hein! comme
 c’est gras et beau!</p>
 						<p>DICÉOPOLIS. Mais qu’est-ce que cela?</p>
-						<p>LE MÉGARIEN. Une truie, à coup sûr <hi rend="superscript">1</hi>.</p>
+						<p>LE MÉGARIEN. Une truie, à coup sûr<note type="footnote" n="1">Il y a dans toute la suite do celle scène une équivoque obscène sur
+le mol <foreign xml:lang="grc">χοίρος</foreign>, qui signifie à la fois <hi rend="italic">truie et parties sexuelles de la femme</hi>.</note>.</p>
 						<p>DICÉOPLIS.Tu dis, une truie? et de quel pays donc</p>
 						<p>LE MÉGARIEN. De Mégare. Comment! ce n’est pas là une truie?</p>
 						<p>DICÉOPOLIS. Non, à ce qu’il me semble.</p>
@@ -1562,7 +1545,7 @@ dule! Il dit que ce n'est pas une truie; mais gageons, si tu
 veux, une mesure de sel broyé avec du thym, que c’est là ce
 qu’en bon grec on appelle une truie.</p>
 						<p>DICÉOPOLIS. Mais une truie de race humaine.</p>
-						<p>LE MÉGARIEN. Sans doute, par Dioclès<hi rend="superscript">2</hi>! de ma race. Eh bien!
+						<p>LE MÉGARIEN. Sans doute, par Dioclès<note type="footnote" n="2">Héros raégarien dont la mémoire était très-honorée dans sa patrie.</note>! de ma race. Eh bien!
 que t’en semble? Veux-tu entendre leur cri?</p>
 						<p>DICEOPOLIS. Ah! oui, ma foi!</p>
 						<p>LE MÉGARIEN. Crie vite, petit cochon; ne va pas te taire, co-
@@ -1570,19 +1553,18 @@ quine, ou par Mercure! je te remporte à la maison.</p>
 						<p>LA PETITE FILLE. Coï, COï!</p>
 						<p>LE MÉGARIEN. Est-ce une petite truie?</p>
 						<p>DICÉOPLIS. Oui, à ce qu’il semble; mais qu’elle grandisse, et
-elle changera bien <hi rend="superscript">3</hi>.</p>
+elle changera bien<note type="footnote" n="3"><hi rend="italic">Cunnus/fiet.</hi> (B.)</note>.</p>
 						<p>LE MÉGARIEN. Dans cinq ans, elle sera toute pareille à sa
 mère.</p>
 						<p>DICÉOPLIS. Mais on ne peut pas la sacrifier.</p>
 						<p>LE MÉGARIEN. Et pourquoi donc?</p>
-						<p>DICÉOPLIS. Elle n'a pas de queue <hi rend="superscript">4</hi>.</p>
+						<p>DICÉOPLIS. Elle n'a pas de queue<note type="footnote" n="4">Les victimes devaient être parfaites; ainsi l’on n’aurait vu immoler uu
+animal privé de queue.</note>.</p>
 						<p>LE MÉGARIEN. C’est qu’elle est toute jeune; mais, avec le
-<note type="footnote">t. 11 y a dans toute la suite do celle scène une équivoque obscène sur
-le mol χοίρος, qui signifie à la fois truie et parties sexuelles de la femme.</note>
-<note type="footnote">2. Héros raégarien dont la mémoire était très-honorée dans sa patrie.</note>
-<note type="footnote">■t. Cunnus/irt. (B.)</note>
-<note type="footnote">♦. Lee victimes devaient être pariai'*»; ainsi l’on n’aurait vu immoler uu
-animal privé de queue.</note>
+
+
+
+
 <pb n="28"/>
 temps, elle en aura une grande, bien grosse et bien rouge.
 Elève-la, et tu verras que ce sera une belle truie.</p>
@@ -1602,9 +1584,9 @@ leur mère?</p>
 leur toi-même.</p>
 						<p>DICÉOPOLIS. Hé! petite truie.</p>
 						<p>LA PETITE FILLE. Coï, coï.</p>
-						<p>DICÉOPOLIS. Mangerais-tu bien des pois chiches<hi rend="superscript">1</hi>?</p>
+						<p>DICÉOPOLIS. Mangerais-tu bien des pois chiches<note type="footnote" n="1">Le mot grec <foreign xml:lang="grc">ἐρέβινθος</foreign> signifie aussi les parties sexuelles de l'homme</note>?</p>
 						<p>LA PETITE FILLE. Coï, coï.</p>
-						<p>DICÉOPOLIS. Et des figues de Phibalée <hi rend="superscript">2</hi>?</p>
+						<p>DICÉOPOLIS. Et des figues de Phibalée<note type="footnote" n="2">En Allique.</note>?</p>
 						<p>LA PETITE FILLE. Coï, coï.</p>
 						<p>DICÉOPOLIS. Quels cris aigus àce mot de figues! Allons, qu’on
 apporte des figues à ces petits cochons. En mangeront-elles?
@@ -1616,13 +1598,13 @@ les figues.</p>
 						<p>DICÉOPOLIS. Ah l les drôles de bêtes! combien veux-tu les
 vendre?</p>
 						<p>LE MÉGARIEN. Je te donnerai l’une -pour une botte d’ail, ot
-l’autre, s’il te plaît, pour un chénice<hi rend="superscript">3</hi> de sel.</p>
+l’autre, s’il te plaît, pour un chénice<note type="footnote" n="3">Mesure de capacité qui correspond à peu près au litre.</note> de sel.</p>
 						<p>DICÉOPOLIS. Je te les achète. Attends-moi ici.</p>
 						<p>LE MÉGARIEN. Marché conclu. Mercure, dieu du commerce
 puissé-je vendre de même et ma femme et ma mère!</p>
-						<note type="footnote">1. Le mnt grec ίρέΖινθοζ signifie aussi les parties sexuelles de l'hoiuma</note>
-						<note type="footnote">3. Kn Allique.</note>
-						<note type="footnote">:*·. Mesure üe capacité qui correspond à peu près au litre.</note>
+						
+						
+						
 						<pb n="29"/>
 						<p>UN SYCOPHANTE. Hé! sycophante. Hé! l’homme, de quel pays es-tu?</p>
 						<p>LE MÈGARIEN. Je suis un marchand de cochons de Megare.</p>
@@ -1630,10 +1612,10 @@ puissé-je vendre de même et ma femme et ma mère!</p>
 comme ennemis publics.</p>
 						<p>LE MÈGARIEN. Ah! voilà nos maux qui renaissent!</p>
 						<p>LE SYCPHANTE. Lâche ce sac. Je châtierai ton jargon méga-
-rien.</p>
+rien<note type="footnote" n="1">Les Mégariens parlaient le dialecte dorien.</note>.</p>
 						<p>LE MÈGARIEN. Dicéopolis, Dicéopolis, on veut me dénoncer.</p>
 						<p>DICÉOPOLIS. Et qui donc l’ose? Inspecteurs, chassez les syco-
-phantes. Ah! tu prétends nous éclairer sans lanterne <hi rend="superscript">2</hi>!</p>
+phantes. Ah! tu prétends nous éclairer sans lanterne<note type="footnote" n="2">Jeu de mots; <foreign xml:lang="grc">φαίνειν</foreign> signifie à la fois <hi rend="italic">éclairer</hi> et <hi rend="italic">dénoncer</hi>.</note>!</p>
 						<p>LE SYCPHANTE. Quoi! Je ne pourrai pas dénoncer nos enne-
 mis?</p>
 						<p>DICÉOPOLIS. Gare à toi, si tu ne vas bien vite dénoncer
@@ -1649,39 +1631,36 @@ votre père, de croquer votre pain avec du sel, si on vous en
 donne.</p>
 						<p>LE CHOEUR. Voilà un homme vraiment heureux! voyez
 comme tout succède à ses vœux. Il gagnera sa vie, tranquil-
-lement assis au marché; malheur à Gtésias <hi rend="superscript">3</hi> et à tout autre
+lement assis au marché; malheur à Gtésias<note type="footnote" n="3">Sycophante inconnu.</note> et à tout autre
 sycophante s’ils osent y pénétrer! ̶ On ne te trompera pas sur le
-prix des denrées; tu ne verras plus Prépis <hi rend="superscript">4</hi> torcher son derrière
-infâme, ni Cléonyme <hi rend="superscript">5</hi> te bousculer; tu te promèneras vêtu
-d’une tunique fine, sans rencontrer Hyperbolus<hi rend="superscript">6</hi> et ses perpé-
+prix des denrées; tu ne verras plus Prépis<note type="footnote" n="4">Débauché de mœurs infâmes.</note> torcher son derrière
+infâme, ni Cléonyme<note type="footnote" n="5">Déjà cité plus haut; il était aussi orgueilleux que lâche.</note> te bousculer; tu te promèneras vêtu
+d’une tunique fine, sans rencontrer Hyperbolus<note type="footnote" n="6">Général athénien, querelleur et dénonciateur.</note> et ses perpé-
 tuelles chicanes, sans que nul importun t’accoste sur la place
-publique, ni ce Cratinus <hi rend="superscript">7</hi> rasé à la mode des débauchés, ni ce
+publique, ni ce Cratinus<note type="footnote" n="7">Poete comique de mauvaises mœurs.</note> rasé à la mode des débauchés, ni ce
 musicien qui nous assomme de ses improvisations, ce maudit
 Artémon, vrai bouc par les aisselles, comme son père. Tu ne
-<note type="footnote">4. Les Mégariens parlaient le dialecte dorien.</note>
-<note type="footnote">2, Jeu de mots; ψκίνειν signifie à la fois éclairer et dénoncer,</note>
-<note type="footnote">3. Sycophanle inconnu.</note>
-<note type="footnote">4. Débauché de mœurs infâmes.</note>
-<note type="footnote">6. Déjà cité plus haut; il était aussi orgueilleux que lâche.</note>
-<note type="footnote">7. Général athénien, querelleur et dénonciateur.</note>
-<note type="footnote">7. Poete comique de mauvaises mœurs.</note>
+
 <pb n="30"/>
-seras pas en butte aux railleries du misérable Pauson<hi rend="superscript">1</hi>, ni de
-Lysistrate <hi rend="superscript">2</hi>, la bonté du bourg de Cholarge <hi rend="superscript">3</hi>, ce ramassis de
+seras pas en butte aux railleries du misérable Pauson<note type="footnote" n="1">Peintre extrêmement pauvre.</note>, ni de
+Lysistrate<note type="footnote" n="2">Débauché, joueur et mourant de faim.</note>, la bonté du bourg de Cholarge<note type="footnote" n="3">En Attique.</note>, ce ramassis de
 tous es vices, qui a froid et faim plus de trente jours par
 mois.</p>
 						<p>UN BÈOTIEN. Par Hercule! j’ai l’épaule toute meurtrie, fsmé-
-nichus, dépose là le pouliot <hi rend="superscript">4</hi> bien doucement, et vous tous,
+nichus, dépose là le pouliot<note type="footnote" n="4">Espèce d’herbe.</note> bien doucement, et vous tous,
 musiciens thébains, soufflez avec vos flûtes d’os dans un der-
-rière de chien <hi rend="superscript">3.</hi></p>
+rière de chien<note type="footnote" n="5">Ces sortes de flûtes avaient un soufflet on peau de chien, à peu près
+comme nos cornemuses.</note></p>
 						<p>DICÉOPOLIS. Assez, assez, allez vous promener. Coquins de
 frelons, loin d’ici! D’où a pris son vol ce maudit essaim de
-Chéris qui vient bourdonner à ma porte?</p>
-						<p>LE BÉOTIEN. Ah! par lolas<hi rend="superscript">7</hi>! chasse-les, mon cher hôte, tu
+Chéris<note type="footnote" n="6">Mauvais joueur de flûte Thébain, cité plus haut p. 5, v. 6.</note> qui vient bourdonner à ma porte?</p>
+						<p>LE BÉOTIEN. Ah! par lolas<note type="footnote" n="7">Héros honoré â Thèbes; il était neveu d’Hercule, et Tarait aidé à
+vaincre. Thydre de Lerne, en appliquant un fer chaud sur les blessures du
+monstre, pour empêcher ses tètes de renaître.</note>! chasse-les, mon cher hôte, tu
 me feras grand plaisir; depuis Thèbes, ils sont là à souffler
 derrière moi et m’ont tout défleuri mon pouliot. Mais veux-tu
 m’acheter quelque chose, des poulets ou des sauterelles?</p>
-						<p>DICÈOPLOLIS. Ah! bonjour, Béotien mangeur de pains ronds <hi rend="superscript">8</hi>.
+						<p>DICÈOPLOLIS. Ah! bonjour, Béotien mangeur de pains ronds<note type="footnote" n="8">Espèce de pain particulière à la Béotie.</note>.
 Qu’apportes-tu?</p>
 						<p>LE BÉOTIEN. Tout ce qu’il y a de bon en Béotie, de l’origan,
 du pouliot, des nattes de jonc, des mèches, des canards, des
@@ -1691,29 +1670,19 @@ geons.</p>
 marché.</p>
 						<p>LE BÉOTIEN. J’apporte aussi des oies, des lièvres, des renards,
 des taupes, des hérissons, des chats, des lyres, des fouines, des
-loutres et des anguilles du lac Copaïs <hi rend="superscript">9</hi>.</p>
+loutres et des anguilles du lac Copaïs<note type="footnote" n="9">9. Lac de Béolie.</note>.</p>
 						<p>DICÈOPLIS. Ah! toi qui apportes le plus délicieux des pois-
 sons, mon ami, laisse-moi saluer tes anguilles.</p>
 						<p>LE BÉOTIEN. béotien. Tiens, toi, l’aînée de mes cinquante vierges de
 Copaïs, viens faire la joie de notre hôte.</p>
-						<note type="footnote">1. Peintre extrêmement pauvre.</note>
-						<note type="footnote">2. Débauché, joueur et mourant de faim.</note>
-						<note type="footnote">3. En Attique.</note>
-						<note type="footnote">4 Espèce d’herbe.</note>
-						<note type="footnote">5. Ces sortes de flûtes avaient un soufflet on peau de chien, à peu près
-comme nos cornemuses.</note>
-						<note type="footnote">6. Mauvais joueur de flûte Thébain, cité plus haut p. 5, v. 6.</note>
-						<note type="footnote">7. Héros honoré â Thèbes; il était neveu d’Hercule, et Tarait aidé à
-vaincre. Thydre de Lerne, en appliquant un fer chaud sur les blessures du
-monstre, pour empêcher ses tètes de renaître.</note>
-						<note type="footnote">8. Espèce de pain particulière à la Béotie.</note>
-						<note type="footnote">9. Lac de Béolie.</note>
+						
 						<pb n="31"/>
 						<p>DICÉOPOLIS. O bien-aimée, objet de mes longs regrets, te
 voici donc, toi après qui soupirent les poètes comiques, toi
-qui es chère à Morychus <hi rend="superscript">1</hi>. Esclaves, apportez ici le four-
+qui es chère à Morychus<note type="footnote" n="1">C’était le Lucullua d’Athènes.</note>. Esclaves, apportez ici le four-
 neau et le soufflet. Regardez bien cette charmante anguille qui
-nous revient enfin après six longues années<hi rend="superscript">9</hi> d’absence. Saluez-
+nous revient enfin après six longues années<note type="footnote" n="2">Second passage qui précise la date de la représentation des <hi rend="italic">Achar
+nient</hi>. (Voy. page 13, note 4.)</note> d’absence. Saluez-
 la, mes enfants; moi, je fournirai le charbon pour faire hon
 neur à l’étrangère, Emportez-la dans ma maison; la mort même
 ne pourrait me séparer d’elle, si elle est cuite avec des feuilles
@@ -1735,7 +1704,7 @@ emballé comme de la poterie.</p>
 						<p>LE BÉOPOLIS. Par Castor et Pollux! Je gagnerais gros à en
 emmener un; je le montrerais comme un singe plein de
 malice.</p>
-						<p>DICÉOPOLIS. Voilà justement Nicarque <hi rend="superscript">3</hi> qui vient dénoncer.</p>
+						<p>DICÉOPOLIS. Voilà justement Nicarque<note type="footnote" n="3">Délateur inconnu.</note> qui vient dénoncer.</p>
 						<p>LE BÉOTIEN. Qu’il est petit!</p>
 						<p>DICÈOPLOLIS. Mais en lui tout est méchanceté.</p>
 						<p>NIGARQUE. A qui ces marchandises?</p>
@@ -1747,10 +1716,9 @@ Jupiter.</p>
 						<p>LE BÈOTIEN. Que béotien. Que t’ai-je faî?</p>
 						<p>NICARQUE. Je vais le dire dans l’intérêt de ceux qui m’écou-
 tent; tu introduis des mèches d’un pays ennemi.</p>
-						<note type="footnote">1. C’était le Lucullua d’Athènes.</note>
-						<note type="footnote">2. Second passage qui précise la date de la représentation des Achar
-nient. (Voy. page 13, note 4.)</note>
-						<note type="footnote">3. Délateur inconnu.</note>
+						
+						
+						
 						<pb n="32"/>
 						<p>DICÈOPOLIS. Alors tu vas jusqu'à dénoncer une mèche.</p>
 						<p>NICARUE. Il n’en faut qu’une pour embraser l’arsenal.</p>
@@ -1793,7 +1761,13 @@ tu y gagneras : les sycophantes te porteront bonheur.</p>
 						<p>UN SERVITEUR DE LAMACHUS. Dicéopolis!</p>
 						<p>DICÉOPOLIS. Qu’as-tu à crier do la sorte?</p>
 						<pb n="33"/>
-						<p>LE SERVITEUR. Lamachus veut célébrer la fête des coupes <hi rend="superscript">1</hi>,
+						<p>LE SERVITEUR. Lamachus veut célébrer la fête des coupes<note type="footnote" n="1">Second jour des Dionysiaques ou fêtes de Bacchus, qui se célébraient
+au mois Anthestérion (février). On les appelait aussi Lénéennes ou An-
+thesléries. Elles duraient trois jours : le premier se nommait l’ouverture
+des tonneaux ou pithégie (<foreign xml:lang="grc">πίθους οἴγειν</foreign>); le second, la fêle des coupes,
+dont nous trouvons la description à la fin de cette comédie; le troisième,
+la fête des marmites : on portait processionnellement des vases remplis de
+graines de toutes portes et consacrés à Mercure.</note>,
 et je viens, par son ordre, t'offrir cette drachme pour quelques
 grives, et trois drachmes pour une anguille de Copaïs.</p>
 						<p>DICÉOPOLIS. Et quel est ce Lamachus qui demande une an-
@@ -1805,14 +1779,15 @@ dont son casque est ombragé.</p>
 clier. Qu'il secoue ses aigrettes en mangeant du poisson salé;
 et, s’il vient faire ici du tapage, j'appelle les inspecteurs. Pour
 moi, je vais emporter toutes ces provisions; je rentre chez moi
-sur les ailes des grives et des merles*,</p>
+sur les ailes des grives et des merles<note type="footnote" n="2">Parodie de vers inconnus.</note>,</p>
 						<p>LE CHOEUR. Voyez, citoyens, voyez tous le bonheur que cet
 homme doit à sa prudence, à sa profonde sagesse. Depuis qu'il
 a fait la paix, voyez comme il achète ce qui est utile dans un
 ménage et ce qui est bon à manger chaud. Tous les biens lui
 affluent d’eux-mêmes. Jamais je ne recevrai chez moi le dieu
 de la guerre; jamais il ne chantera à ma table l’hymne d'Har-
-modius<hi rend="superscript">3</hi>; c'est un ivrogne qui vient faire bombance chez ceux
+modius<note type="footnote" n="3">Chanson de table, en l’honneur d’Harmodius, meurtrier d’Hipparque,
+ils de Pisistrale.</note>; c'est un ivrogne qui vient faire bombance chez ceux
 qui sont comblés de tous les biens, et il y amène tous les maux
 àsa suite; il renverse,il ruine, il égorge; en vain on lui fait
 mille avances : « Assieds-toi là, vide cette coupe que t’offre l'a-
@@ -1822,16 +1797,9 @@ table de mille mets; fier de son bonheur, il a fait jeter ces
 plumes devant sa porte, pour montrer comment il vit.</p>
 						<p>DICÉOPOLIS. O Paix, compagne de la belle Vénus et des aima-
 bles Grâces, que tes traits sont charmants, et je l’ignorais!
-<note type="footnote">1. Second jour des Dionysiaques ou fêtes de Bacchus, qui se célébraient
-au mois Anthestérion (février). On les appelait aussi Lénéennes ou An-
-thesléries. Elles duraient trois jours : le premier se nommait l’ouverture
-des tonneaux ou pithégie (πίθους οΐγειν); le second, la fêle des coupes,
-dont nous trouvons la description à la fin de cette comédie; le troisième,
-la fête des marmites : on portait processionnellement des vases remplis de
-graines de toutes portes et consacrés à Mercure.</note>
-<note type="footnote">2. Parodie de vers inconnus.</note>
-<note type="footnote">3. Chanson de table, en l’honneur d’Harmodius, meurtrier d’Hipparque,
-«tjs de Pisistrale.</note>
+
+
+
 <pb n="34"/>
 Puisse l'Amour m'unir à toi, l'Amour couronné do roses, comme
 Zeuxis <hi rend="superscript">1</hi> nous le représente! Je te semble bien vieux peut-être;
