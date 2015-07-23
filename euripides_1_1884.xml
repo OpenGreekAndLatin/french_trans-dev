@@ -61,8 +61,9 @@
 							<imprint>
 								<pubPlace>Paris</pubPlace>
 								<publisher>Alphonse Lemérre, Éditeur 27-31, PASSAGE CHOISEUL, 27-31</publisher>
-								<date>M DCCC LXXXIV</date>
+								<date>1884</date>
 							</imprint>
+							<biblScope unit="volume">1</biblScope>
 						</monogr>
 						<ref target="http://hdl.handle.net/2027/uc1.$b735014">HathiTrust</ref>
 					</biblStruct>
@@ -84,11 +85,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="bibliography">
-				<listBibl>
-					<bibl/>
-				</listBibl>
-			</div>
+			
 			<div type="edition" subtype="volume" xml:space="preserve">
 				<div type="textpart" subtype="book" n="1">
 					<pb n="1"/>
@@ -16033,19 +16030,21 @@ belles dépouilles de Troia!</p>
 					
 				</div>
 			</div>
-			<div type="textpart" subtype="back">
+			<div type="bibliography" subtype="table_of_contents">
 				<pb n="613"/>
-				<p>TABLE</p>
-				<p>Pages</p>
-				<p>I. HÉKABÈ............... 3</p>
-				<p>II. ORESTÈS...............61</p>
-				<p>III. LES PHOINISSIENNES.........155</p>
-				<p>IV. MÈDÉIA................ 237</p>
-				<p>V. HIPPOLYTOS................297</p>
-				<p>VI. ALKÈSTIS................ 361</p>
-				<p>VII. ANDROMAKHÈ...............</p>
-				<p>VIII. les suppliantes............ 477</p>
-				<p>IX. IPHIGÉNÉIA A AULIS.......... 535</p>
+				<list>
+					<head>TABLE</head>
+					<note>Pages</note>
+					<item>I. HÉKABÈ............... 3</item>
+					<item>II. ORESTÈS...............61</item>
+					<item>III. LES PHOINISSIENNES.........155</item>
+					<item>IV. MÈDÉIA................ 237</item>
+					<item>V. HIPPOLYTOS................297</item>
+					<item>VI. ALKÈSTIS................ 361</item>
+					<item>VII. ANDROMAKHÈ...............</item>
+					<item>VIII. les suppliantes............ 477</item>
+					<item>IX. IPHIGÉNÉIA A AULIS.......... 535</item>
+				</list>
 			</div>
 		</body>
 	</text>
