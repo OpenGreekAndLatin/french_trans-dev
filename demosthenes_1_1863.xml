@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -8464,17 +8464,17 @@ non pour vous exciter à faire comme eux?</p>
 			<div type="bibliography" subtype="table_of_contents">
 				<pb n="299"/>
 				<list>
-				<head>TABLE.</head>
-				<note>Pages.</note>
-				<item>Avertissement I</item>
-				<item>Fragments historiques : le procès de la couronne .... V</item>
-				<item> — la politique de Démosthène. . . xxiii</item>
-				<item>Chronologie des discours de Démosthène xxxi</item>
-				<item>Discours d’Eschine sur la couronne 3</item>
-				<item>Discours de Démosthène sur la couronne 111</item>
-				<item>Discours sur les classes 251</item>
-				<item>Discours pour les Mégalopolitains 269</item>
-				<item>Discours sur la liberté des Rhodiens 285</item>
+					<head>TABLE.</head>
+					<note>Pages.</note>
+					<item>Avertissement I</item>
+					<item>Fragments historiques : le procès de la couronne .... V</item>
+					<item> — la politique de Démosthène. . . xxiii</item>
+					<item>Chronologie des discours de Démosthène xxxi</item>
+					<item>Discours d’Eschine sur la couronne 3</item>
+					<item>Discours de Démosthène sur la couronne 111</item>
+					<item>Discours sur les classes 251</item>
+					<item>Discours pour les Mégalopolitains 269</item>
+					<item>Discours sur la liberté des Rhodiens 285</item>
 				</list>
 			</div>
 		</body>
