@@ -454,6 +454,7 @@ que je me suis imposé la tâche
 pénible de le traduire. Un autre
 motif a soutenu mon courage
 dans un genre de travail aussi
+
 rebutant, ç’a été le desir d’enri-
 chir notre littérature, d’une pro-
 duction étrangère qui semble
@@ -1227,7 +1228,7 @@ voyé à la fin de chaque chant
 celles mêmes qui m’ont paru
 indispensables.</p>
 </div>
-<div type="edition" subtype="volume" n="" xml:space="preserve">
+<div type="edition" subtype="volume" n="1" xml:space="preserve">
 <div type="textpart" subtype="book" n="1">
 <div type="textpart" subtype="chapter" n="1">
 
@@ -1297,7 +1298,7 @@ DE TROIE,
 <hi rend="italic">Depuis la mort </hi><hi rend="superscript">d</hi>’H<hi rend="superscript">ector</hi> <hi rend="italic">jusqu’à
 la ruine de cette ville.</hi></title>
 </head>
-<div type="textpart" subtype="section" n="1">
+
 <head>
 <title>CHANT PREMIER. </title>
 </head>
@@ -2209,6 +2210,7 @@ fin se rappellant que Jupiter même a
 perdu dans les combats plusieurs de ses
 fils, qu’il n’a pu soustraire aux ordres
 du destin, il s’éloigne de l’armée des
+
 Grecs : s’il eût osé s’en approcher, la
 <pb n="41"/>
 foudre l’aurait écrasé, comme autrefois
@@ -2365,7 +2367,7 @@ en attendant le retour de la divine
 aurore.</p>
 <p><hi rend="italic">Fin du premier Chant</hi>.</p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="3">
 <pb n="48"/>
 <head>
 <title>NOTES DU CHANT PREMIER.</title>
@@ -2494,12 +2496,12 @@ ture. Cette croyance supposait aussi celle de
 l’immortalité de l’âme.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="book" n="2">
 <pb n="53"/>
 <head>
 <title>ARGUMENT</title>
 </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="chapter" n="1">
 <head>
 <title>DU CHANT II.</title>
 </head>
@@ -2543,7 +2545,7 @@ avant leurmétamorphose. L’Aurore
 au Ciel avec les Pléïades qui la
 devancent</hi>.</p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="2">
 <pb n="55"/>
 <head>
 <title>CHANT II.</title>
@@ -3457,7 +3459,7 @@ tour de l’Aurore ; celle-ci rallumant ses
 feux, ouvre les portes de l’Orient, et
 fait renaître le jour.</p>
 </div>
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="chapter" n="3">
 <pb n="95"/>
 <head>
 <title>NOTES DU CHANT II,</title>
@@ -3533,12 +3535,12 @@ Rebellant</hi>.</seg>
 <p><hi rend="italic">Fin du second Chant</hi>.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="book" n="3">
 <pb n="98"/>
 <head>
 <title>ARGUMENT</title>
 </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="chapter" n="1">
 <head>
 <title>DU CHANT III.</title>
 </head>
@@ -3599,7 +3601,7 @@ qui il destine une île pour être
 consacrée à son culte. Toutes les
 divinités se retirent</hi>.</p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="2">
 <pb n="101"/>
 <head>
 <title>CHANT III.</title>
@@ -4652,7 +4654,7 @@ réïdes se consolant à peine de ne plus
 revoir Achille, rentrèrent dans le sein
 des mers.</p>
 </div>
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="chapter" n="3">
 <pb n="147"/>
 <head>
 <title>NOTES DU CHANT III.</title>
@@ -4708,12 +4710,12 @@ C’est dans cette île que Strabon dit, lib. 13,
 qu’on ne voyait aucun oiseau.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="book" n="4">
 <pb n="149"/>
 <head>
 <title>ARGUMENT</title>
 </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="chapter" n="1">
 <head>
 <title>DU CHANT IV.</title>
 </head>
@@ -4751,7 +4753,7 @@ des concurrens, et détail des pré-
 sens divers dont Thétis récompense
 les vainqueurs.</hi></p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="2">
 <pb n="151"/>
 <head>
 <title>CHANT IV.</title>
@@ -5541,7 +5543,7 @@ il en fut empêché par la blessure qu’il
 avait reçu du courageux Alcon, en dé-
 fendant le corps du puissant Eacide.</p>
 </div>
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="chapter" n="3">
 <pb n="186"/>
 <head>
 <title>NOTES DU CHANT IV.</title>
@@ -5612,12 +5614,12 @@ complette.</p>
 <p><hi rend="italic">Fin du quatrième Chant</hi>.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="book" n="5">
 <pb n="189"/>
 <head>
 <title>ARGUMENT</title>
 </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="chapter" n="1">
 <head>
 <title>DU CHANT V.</title>
 </head>
@@ -5655,7 +5657,7 @@ cendres sont renfermées dans un
 vase d’or. Les Grecs se retirent pen-
 dant la nuit sur leurs vaisseaux.</hi></p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="2">
 <pb n="191"/>
 <head>
 <title>CHANT V.</title>
@@ -6515,7 +6517,7 @@ Télamon, ils craignaient que l’ennemi
 ne les surprît et ne les enveloppât à la
 faveur des ténèbres.</p>
 </div>
-<div type="textpart" subtype="section" n="3">
+<div type="textpart" subtype="chapter" n="3">
 <pb n="229"/>
 <head>
 <title>NOTES DU CHANT V.</title>
@@ -6610,12 +6612,12 @@ rencontre aussi le sommeil, etc.</p>
 <p><hi rend="italic">Fin du cinquième Chant</hi>.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="book" n="6">
 <pb n="233"/>
 <head>
 <title>ARGUMENT</title>
 </head>
-<div type="textpart" subtype="section" n="1">
+<div type="textpart" subtype="chapter" n="1">
 <head>
 <title>DU CHANT VI. </title>
 </head>
@@ -7491,7 +7493,7 @@ couvrent de sable, et pleurent le sort
 de tant de guerriers qu’ils ont perdus
 dans cette journée funeste.</p>
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="chapter" n="2">
 <pb n="274"/>
 <head>
 <title>NOTES DU CHANT VI.</title>
@@ -7568,7 +7570,7 @@ sont abreuvés.</p>
 <p><hi rend="italic">Fin du sixième Chant</hi>.</p>
 </div>
 </div>
-<div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="book" n="other">
 <pb n=""/>
 <head>
 <title>DESCRIPTION
@@ -7818,7 +7820,6 @@ plus rapide que le vautour, s’élance des
 blancs sommets de l’Olympe, tenant en
 main ces dons éclatans.</p>
 <p><hi rend="italic">Fin du tome premier</hi>.</p>
-</div>
 </div>
 </div>
 </body>
