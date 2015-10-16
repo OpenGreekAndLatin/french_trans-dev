@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ouvres complètes de Xénophon</title>
+				<title>Œuvres complètes de Xénophon</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,7 +48,7 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>Ouvres complètes de Xénophon</title>
+							<title>Œuvres complètes de Xénophon</title>
 							<editor>
 								<persName>
 									<name xml:lang="fr">Émile Pessonneaux</name>
