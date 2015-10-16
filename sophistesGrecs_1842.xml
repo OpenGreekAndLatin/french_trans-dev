@@ -56,17 +56,17 @@
 							</editor>
 							<author>Prodicus</author>
 							<author>Pericles</author>
-							<author ref="urn:cite:perseus:author.125">Antiphon</author>
-							<author ref="urn:cite:perseus:author.94">Andocides</author>
-							<author ref="urn:cite:perseus:author.864">Lysias</author>
-							<author ref="urn:cite:perseus:author.775">Isocrates</author>
-							<author ref="urn:cite:perseus:author.770">Isaeus</author>
-							<author ref="urn:cite:perseus:author.859">Lycurgus</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0028">Antiphon</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0027">Andocides</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0540">Lysias</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0010">Isocrates</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0017">Isaeus</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0034">Lycurgus</author>
 							<author>Hegesippus</author>
-							<author ref="urn:cite:perseus:author.756">Hyperides</author>
-							<author ref="urn:cite:perseus:author.477">Dinarchus</author>
-							<author ref="urn:cite:perseus:author.479">Dio Chrysostom</author>
-							<author ref="urn:cite:perseus:author.906">Maximus of Tyre</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0030">Hyperides</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0029">Dinarchus</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0612">Dio Chrysostom</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg0563">Maximus of Tyre</author>
 							<imprint>
 								<pubPlace>Paris,</pubPlace>
 								<publisher>CHARPENTIER, LIBRAIRE-ÉDITEUR, 29, RUE DE SEINE.</publisher>
@@ -16267,7 +16267,7 @@ va lire.</p>
                         <head>
                             <title>DISCOURS.</title>
                         </head>
-<p>H<hi rend="superscript">ommes</hi> d’Athènes, les reproches dont Philippe charge
+<p>Hommes d’Athènes, les reproches dont Philippe charge
 ceux qui vous parlent pour la défense du bon droit, n’au-
 ront pas la vertu de nous fermer la bouche sur vos inté-
 rêts : il serait révoltant de voir les lettres qu’il nous envoie
