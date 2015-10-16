@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Oeuvres complètes de tacite</title>
+				<title>Oeuvres complètes de Tacite</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -48,13 +48,13 @@
 				<listBibl xml:lang="fr">
 					<biblStruct>
 						<monogr>
-							<title>Oeuvres complètes de tacite</title>
+							<title>Oeuvres complètes de Tacite</title>
 							<editor>
 								<persName>
 									<name xml:lang="fr">Ch. Louandre</name>
 								</persName>
 							</editor>
-							<author ref="urn:cite:perseus:author.1357">Tacitus</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:latinLit:phi1351">Tacitus</author>
 							<imprint>
 								<pubPlace>Paris</pubPlace>
 								<publisher>CHARPENTIER, LIBRAIRÈ-ÉDITEUR, 19, RUE DE LILLE.</publisher>
