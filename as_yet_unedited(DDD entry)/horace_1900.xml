@@ -1,0 +1,4484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>LES AUTEURS LATINS</title>
+				<sponsor>University of Leipzig</sponsor>
+				<funder>European Social Fund Saxony</funder>
+				<principal>Gregory Crane</principal>
+				<meeting/>
+				<respStmt>
+				    <persName xml:id="DDD">Digital Divide Data</persName>
+					<resp>Corrected and encoded the text</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Greta Franzini</persName>
+					<resp>Project Manager (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Frederik Baumgardt</persName>
+					<resp>Technical Manager (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>Project Assistant (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bruce Robertson</persName>
+					<resp>Technical Advisor</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">TO BE ADDED BY LEIPZIG</idno>
+				<availability>
+					<p>Available under a Creative Commons Attribution-ShareAlike 4.0 International License</p>
+				</availability>
+				<date>2014</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl xml:lang="fr">
+					<biblStruct>
+						<monogr>
+							<title>LES AUTEURS LATINS</title>
+							<editor>
+								<persName>
+									<name xml:lang="fr">HORACE ART POÉTIQUE</name>
+								</persName>
+							</editor>
+							<author ref="urn:tmp">HORACE ART POÉTIQUE</author>
+							<imprint>
+								<pubPlace>PARIS</pubPlace>
+								<publisher>LIBRAIRIE HACHETTE ET Cie 79, BOULEVARD SAINT-GERMAIN, 79</publisher>
+								<date>1900</date>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek</language>
+				<language ident="fr">French</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2014-12-12" who="DWP"/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="bibliography">
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</div>
+			<div type="commentary" subtype="other">
+								<head>
+					<title>AVIS</title>
+				</head>
+				<p>RELATIF A LA TRADUCTION JUXTALINÉAIRE</p>
+				<p>On a réuni par des traits les mots français qui traduisent un
+seul mot latin.</p>
+				<p>On a imprimé en <hi rend="italic">italique</hi> les mots qu’il était nécessaire d’ajouter
+pour rendre intelligible la traduction littérale, et qui n’ont pas
+leur équivalent dans le latin.</p>
+				<p>Enfin, les mots placés entre parenthèses, dans le français, doi-
+				 vent être considérés comme une seconde explication, plus intel-
+				 ligible que la version littérale.</p>
+			</div>
+			<div type="edition" subtype="volume" xml:space="preserve">
+				<div type="textpart" subtype="book" n="1">
+					<div type="textpart" subtype="chapter" n="1">
+						<pb n="2"/>
+						<head>
+							<title>Q. HORATII FLACCI
+ARS POETICA<hi rend="superscript">1</hi>.</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>AD PISONES<hi rend="superscript">2</hi>.</l>
+		<l>Humano capiti cervicem pictor equinam</l>
+		<l>Jungere si velit, et varias inducere plumas</l>
+		<l>Undique collatis membris, ut turpiter atrum</l>
+		<l>Desinat in piscem mulier formosa superne<hi rend="superscript">3</hi> : </l>
+		<l n="5">Spectatum admissi, risum teneatis, amici?</l>
+		<l>Credite, Pisones, isti tabulæ fore librum</l>
+		<l>Persimilem, cujus, velut ægri somnia, vanæ</l>
+		<l>Fingentur species<hi rend="superscript">4</hi>, ut nec pes, nec caput uni</l>
+		<l>Reddatur formæ. — Pictoribus atque poetis</l>
+		<l n="10">Quidlibet audendi semper fuit æqua potestas.—</l>
+		<l>Scimus, et hanc veniam petimusque damusque vicissim;</l>
+		<l>Sed non ut placidis coeant immitia, non ut</l>
+		<l>Serpentes avibus geminentur, tigribus agni.</l>
+		<l>Inceptis gravibus plerumque et magna professis</l>
+		<pb n="4"/>
+		<l n="15">Purpureus, late qui splendeat, unus et alter</l>
+		<l>Assuitur pannus, quum lucus et ara Dianæ,</l>
+		<l>Et properantis aquæ per amœnos ambitus agros,</l>
+		<l>Aut flumen Rhenum, aut pluvius describitur arcus : </l>
+		<l>Sed nunc non erat his locus. Et fortasse cupressum</l>
+		<l n="2">Scis simulare; quid hoc, si fractis enatat exspes</l>
+		<l>Navibus, ære dato qui pingitur<hi rend="superscript">1</hi>? Amphora cœpit</l>
+		<l>Institui currente rota, cur urceus exit?</l>
+		<l>Denique sit quodvis simplex duntaxat et unum.</l>
+		<l>Maxima pars vatum, Pater et Juvenes patre digni,</l>
+		<l n="25">Decipimur specie recti; brevis esse laboro,</l>
+		<l>Obscurus fiο; sectantem lenia nervi</l>
+		<l>Deficiunt animique; professus grandia turget;</l>
+		<l>Serpit humi tutus nimium timidusque procellæ.</l>
+		<l>Qui variare cupit rem prodigialiter unam,</l>
+		<pb n="6"/>
+		<l n="30">Delphinum sylvis appingit, fluctibus aprum.</l>
+		<l>In vitium ducit culpæ fuga, si caret arte.</l>
+		<l>Æmilium circa ludum, faber unus et ungues</l>
+		<l>Exprimet, et molles imitabitur ære capillos,</l>
+		<l>Infelix operis summa, quia ponere totum</l>
+		<l n="35">Nesciet. Hune ego me, si quid componere curem,</l>
+		<l>Non magis esse velim, quam naso vivere pravo,</l>
+		<l>Spectandum nigris oculis nigroque capillo.</l>
+		<l>Sumite materiam vestris, qui scribitis, æquam</l>
+		<l>Viribus, et versate diu quid ferre récusent,</l>
+		<l n="40">Quid valeant humeri. Cui lecta polenter<hi rend="superscript">1</hi> erit res,</l>
+		<l>Nec facundia deseret hunc, nec lucidus ordo.</l>
+		<l>Ordinis hæc virtus erit et venus, aut ego fallor,</l>
+		<l>Ut jam nunc dicat jam nunc debentia dici,</l>
+		<l>Pleraque differat, et præsens in tempus omittat<hi rend="superscript">2</hi>.</l>
+		<l n="45">In verbis etiam tenuis cautusque serendis,</l>
+		<l>Hoc amet, hoc speruat promissi<hi rend="superscript">3</hi> carminis auctor.</l>
+		<l>Dixeris egregie, notum si callida verbum</l>
+		<pb n="8"/>
+		<l>Roddiderit junctura novum. Si forte necesse est</l>
+		<l>Indiciis monstrare recentibus abdita rerum : </l>
+		<l n="50">Fingere cinctutis non exaudita Cethegis</l>
+		<l>Continget, dabiturque licentia sumpta pudenter;</l>
+		<l>Et nova ficlaque nuper habebunt verba fidem, si</l>
+		<l>Græco fonte cadant, parce detorta. Quid autem</l>
+		<l>Cæcilio Plautoque dabit Romanus, ademptum</l>
+		<l n="55">Virgilio Varioque? Ego cur, acquirere pauca</l>
+		<l>Si possum, invideor, quum lingua Catonisl el Enm</l>
+		<l>Sermonem patrium ditaverit, et nova rerum</l>
+		<l>Nomina protulerit? Licuit semperque licebit</l>
+		<l>Signatum præsente nota producere nomen.</l>
+		<l n="60">Ut sylvæ foliis pronos mutantur in annos,</l>
+		<l>prima cadunt ita verborum vetus interit ælas,</l>
+		<l>Et juvenum ri tu dorent modo nata, vigentque.</l>
+		<pb n="10"/>
+		<l>Debemur morti, nos nostraque<hi rend="superscript">1</hi>. Sive receptus</l>
+		<l>Terra Neptunus classes Aquilonibus arcet,</l>
+		<l n="65">Regis opus; sterilisve diu palus<hi rend="superscript">2</hi>, aptaque remis,</l>
+		<l>Vicinas urbes alit, et grave sentit aratrum;</l>
+		<l>Seu cursum mutavit iniquum frugibus amnis,</l>
+		<l>Doctus iter melius mortalia facta peribunt,</l>
+		<l>Nedum semonum stet honos et gratia vivax.</l>
+		<l n="70">Multa renascentur quæ jam cecidere, cadentque</l>
+		<l>Quæ nunc sunt in honore vocabula, si volet usus,</l>
+		<l>Quem penes arbitrium est, et jus, et norma loquemli.</l>
+		<l>Res gestæ regumque ducumque et tristia bella,</l>
+		<l>Quo scribi possent numero, monstravit Homerus.</l>
+		<l n="75">Versibus impariter junctis querimonia primum,</l>
+		<l>Post etiam inclusa est voti sententia compos.</l>
+		<l>Quis tamen exiguos elegos emiserit auctor,</l>
+		<l>Grammatici certant, et adhuc sub judice lis est.</l>
+		<pb n="12"/>
+		<l>Archilochum proprio rabies armavit iambo : </l>
+		<l n="80">Hune socci cepere pedem grandesque cothurni,</l>
+		<l>Alternis aptum sermonibus, et populares</l>
+		<l>Vincenlem strepitus, et nalum rebus agendis.</l>
+		<l>Musa dedit fidibus Divos, puerosque Dcorum,</l>
+		<l>Et pugilem viclorem, et equum cerlainine primum,</l>
+		<l n="85">Et juvenum curas, et libera vina referre.</l>
+		<l>Descriptas servare vices operumque colores,</l>
+		<l>Cur ego si nequeo ignoroque, poela salutor?</l>
+		<l>Cur nescire, pudens prave, quam discere malo?</l>
+		<l>Versibus exponi tragicis res comica non vult;</l>
+		<l n="90">Indignatur item privatis ac prope socco</l>
+		<l>Dignis carminibus narrari cœna Thyestæ.</l>
+		<l>Singula quæque locum teneant sortita decenler.</l>
+		<l>Interdum tamen et vocem comœdia tollit,</l>
+		<l>Iratusque Chremesl tumido delitigat ore;</l>
+		<l n="95">Et tragicus plerumque dolet sermone pedestri : </l>
+		<l>Telephus, aut 2 Peleus, quum pauper et exsul uterque,</l>
+		<pb n="14"/>
+		<l>Projicit ampullas et sesquipedalia verba,</l>
+		<l>Si curât cor spectanlis tetigisse querela.</l>
+		<l>Non satis est pulchra esse poemata; dulcia sunte,</l>
+		<l n="100">Et, quocumque volent, animum auditoris agunto.</l>
+		<l>Ut ridentibus arrident, ita flentibus adflent</l>
+		<l>Humani vultus. Si vis me flere, dolendum est’</l>
+		<l>Primum ipsi tibi tunc tua me infortunia lædent,</l>
+		<l>Telephe, vel Peleu; male si mandata loqueris,</l>
+		<l n="105">Aut dormitabo, aut ridebo. Tristia mœstum</l>
+		<l>Vultum verba decent; iratum, plena minarum;</l>
+		<l>Ludentem, lasciva; severum, seria dictu.</l>
+		<l>Format enim natura prius nos intus ad omnem</l>
+		<l>Fortunarum habilum juvat, aut impellit ad iram,</l>
+		<l n="110">Aut ad humum mœrore gravi deducit, et angit;</l>
+		<l>Post, effert animi motus interprete lingua.</l>
+		<l>Si dicentis erunt fortunis absona dicta,</l>
+		<pb n="16"/>
+		<l>Romani tollent équités pedilesque cachinnum.</l>
+		<l>Intercrit multum Davusne loquatur, an heros;</l>
+		<l n="11">Maturusne senex, an adhuc florente juventa</l>
+		<l>Fervidus; an matrona potens, an sedula nutrix,</l>
+		<l>Mercatorne vagus, cultorne virentis agelli;</l>
+		<l>Colchus, an Assyrius; Thebis nutritus, an Argis.</l>
+		<l>Aut famam sequere, aut sibi convenientia finge</l>
+		<l n="120">Scriptor. Honoratum l si forte reponis Achillem : </l>
+		<l>Impiger, iracundus, inexorabilis, acer,</l>
+		<l>Jura neget sibi nala, nihil non arroget armis;</l>
+		<l>Sit Medea ferox invictaque, flebilis Ino,</l>
+		<l>Perfidus Ixion, Io vaga, tristis Orestes.</l>
+		<l n="125">Si quid inexpertum scenæ committis, et audes</l>
+		<l>Personam formare novain servetur ad imum</l>
+		<l>Qualis ab incepto processerit, et sibi constet.</l>
+		<l>Difficile est proprie 2 communia dicere; tuque</l>
+		<pb n="18"/>
+		<l>Reclius Iliacum cannen deducis in actus,</l>
+		<l n="130">I Quam si proferres ignota indictaque primus.</l>
+		<l>Public materies privati juris erit, si</l>
+		<l>Non circa vilem patulumque moraberis orbem,</l>
+		<l>Nec verbum verbo curabis reddere, fidus</l>
+		<l>Interpres; nec desilies imitator in arctum,</l>
+		<l n="135">Unde pedem proferre pudor vetet, aut operis lex.</l>
+		<l>Nec sic incipies, ut scriptor cyclicus olim;</l>
+		<l>« Forlunain Priami cantabo et nobile bellum....</l>
+		<l>Quid dignum tanto feret hic proinissor hiatu?</l>
+		<l>Parturiunt montes, nascetur ridiculus mus.</l>
+		<l n="140">Quanto reclius hic, qui nil molitur inepte : </l>
+		<l>« Die mihi, Musa, virum, captæ post tempera Trojæ,</l>
+		<l>Qui mores hominum multorum vidit l et urbes. »</l>
+		<l>Non fumum ex fulgore, sed ex fumo dare lucem</l>
+		<l>Cogitat, ut speciosa dehinc miracula promat·</l>
+		<l n="145">Antiphaten Scyllamque, et cum Cyclope Charybdim.</l>
+		<pb n="20"/>
+		<l>Nec reditum Domedis ab interitu Meleagri,</l>
+		<l>Nec gemino bellum Trojanum orditur ab ovo.</l>
+		<l>Semper ad eventum festinat, et in médias res,</l>
+		<l>Non secus ac notas, auditorem rapit; et, quæ</l>
+		<l n="150">Desperat tractata nitescere posse, relinquit.</l>
+		<l>Atque ita mentilur, sic veris fatsa rerniscet,</l>
+		<l>Primo ne medium, medio ne discrepet imum.</l>
+		<l>Tu, quid ego, et populus mecum desideret, audi.</l>
+		<l>Si plausoris eges aulæa<hi rend="superscript">1</hi> manentis, et usque</l>
+		<l n="155">Sessuri donec cantor « Vos plaudite » dicat;</l>
+		<l>Ætatis cujusque notandi sunt tibi mores,</l>
+		<l>Mobilibusque decor naturis dandus et annis.</l>
+		<l>Reddere qui voces jam scit puer<hi rend="superscript">2</hi>, et pede certo</l>
+		<l>Signat humum, gestit paribus colludere, et iram</l>
+		<l n="160">Colligit ac ponit temere, et mutatur in horas.</l>
+		<l>Imberbus juvenis, tandem custode remoto,</l>
+		<pb n="22"/>
+		<l>Gaudet equis canibusque et aprici gramine Campi;</l>
+		<l>Gereus in vitium flecti, monitoribus asper,</l>
+		<l>Utilium tardus provisor, prodigus æris,</l>
+		<l n="165">Sublimis, cupidusque, et amata relinquere pernix.</l>
+		<l>Conversis studiis, ætas animusque virilis</l>
+		<l>Quært opes et amicitias, inservil honori,</l>
+		<l>Commisisse cavet quod mox mutare laboret.</l>
+		<l>Multa senem circumveniunt incommoda vel quod</l>
+		<l n="170">Quærit, et inventis miser abstinet ac timet uti;</l>
+		<l>Vel quod res omnes timide gelideque ministrat,</l>
+		<l>Dilator, spe lentusl, iners, pavidusque futuri,</l>
+		<l>Didicilis, querulus, laudator temporis acti</l>
+		<l>Se puero, censor castigatorque minorum.</l>
+		<l n="175">Multa ferunt anni venientes commoda secum,</l>
+		<l>Multa recedentes adimunt. Ne forte seniles</l>
+		<l>Mandentur juveni partes, pueroque viriles,</l>
+		<pb n="24"/>
+		<l>Semper in adjunctis ævoque morabimur aptia.</l>
+		<l>Aut agitur res in scenis, autacta refertur.</l>
+		<l n="180">Segnius irritant animos demissa per aurem,</l>
+		<l>Quam quæ sont oculis subjecta fidelibus, et quæ</l>
+		<l>Ipse sibi tradit spectatornon tamen intus<hi rend="superscript">1</hi></l>
+		<l>Uigna geri promes in scenam; multaque toiles</l>
+		<l>Ex oculis, quæ mox narret facundia præsens<hi rend="superscript">2</hi>.</l>
+		<l n="135">Ne pueros coram populo Medea trucidet;</l>
+		<l>Aut humana palam coquat exta nefarius Atreus;</l>
+		<l>Aut in avem Procne vertatur, Cadmus in anguem : </l>
+		<l>Quodcumque ostendis mihi sic, incredulus odi<hi rend="superscript">3</hi>.</l>
+		<l>Neve minor, neu sit quinto productior actu</l>
+		<l n="190">Fabula, quæ posci vult, et spectata reponi.</l>
+		<l>Nec Deus intersit, nisi dignus vindice nodus</l>
+		<l>Incident; nec quarta loqui persona laboret.</l>
+		<l>Actoris partes Chorus officiumque virile</l>
+		<l>Defendat; neu auid medios intercinat actus,</l>
+		<pb n="26"/>
+		<l n="195">Quod non proposito conducat et hæreat apte.</l>
+		<l>(Ille bonis faveatque et consilietur amice,</l>
+		<l>Et regat iratos, et amet peccare timentes;</l>
+		<l>Ille dapes laudet mensæ brevis; ille salubrem</l>
+		<l>Justitiam, legesque, et apertis otia portis;</l>
+		<l n="200">Ille tegat commissa, Deosque prenetur, et oret</l>
+		<l>Ut redeat miseris, abeat fortuna superbis.</l>
+		<l>Tibia, non ut nunc orichalco vincta, tubæque</l>
+		<l>Æmula, sed tenuis simplexque foramine pauce.</l>
+		<l>Adspirare et adesse choris erat utilis, atque</l>
+		<l n="205">Nondum spissa nimis complere sedilia flatu,</l>
+		<l>Quo sane populus numerabilis, utpote parvus,</l>
+		<l>Et frugi, castusque verecundusque coibut.</l>
+		<l>Postquam cœpit agros extendere victor, et Urbem</l>
+		<l>Latior amplecti murus, vinoqne diurno</l>
+		<l n="210">Placari Genius festis impune diebus : </l>
+		<pb n="28"/>
+		<l>Accessit numerisque modisque licentia major,</l>
+		<l>Indoctus quid enim saperet liberque laborum</l>
+		<l>Rusticus, urbano confnsus, turpis honesto?</l>
+		<l>SSic priscæ motumque et luxuriem addidit arti</l>
+		<l n="215">Iibicen, traxitque vagus per pulpita vestem.</l>
+		<l>Sic etiam fidibus voces crevere severis,</l>
+		<l>Et tulit eloquium insolitum facundia præceps,</l>
+		<l>Utiliumque sagax rerum et divina futuri</l>
+		<l>Sortilegis non discrepuit sentential Delphis.</l>
+		<l n="220">Carmine qui tragico vilom certavil ob hircum</l>
+		<l>Mox etiam agrestes Satyros nudavit, et asper,</l>
+		<l>Incolumi gravitate, jocum tentavit eo quod</l>
+		<l>Illecebris erat et grata novitate morandus</l>
+		<l>Spectator functusque sacris, et potus, et exlox</l>
+		<l n="225">Verum ita risores, ita commendare diraces</l>
+		<l>Conveniet Satyros, ita vertere secia ludo,</l>
+		<pb n="30"/>
+		<l>Ne, quicumque deus, quicumque adhibebitur heros,</l>
+		<l>Regali conspectus in auro nuper et ostro,</l>
+		<l>Migret in obscuras humili sermone tabernas,</l>
+		<l n="230">Aut, dum vital humum, nubes et inania captet.</l>
+		<l>Effutire leves indigna tragœdia versus,</l>
+		<l>UUt festis ma(??)rona moveri jussa diebus,</l>
+		<l>lutererit Satyris paulum pudibunda protervis.</l>
+		<l>Non ego inornata et dominantia nomina solum</l>
+		<l n="235">Verbaque, Pisones, Satyrorum scriptor, amabo;</l>
+		<l>Nec sic enitar tragico differre colori,</l>
+		<l>Ut nihil intersit Davusne loquatur, et audax</l>
+		<l>Pythias, emuncto lucrata Simone talentum,</l>
+		<l>An custos famulusque Dei Silenus alumni.</l>
+		<l n="240">Ex noto fictum carmen sequar, ut sibi quivis</l>
+		<l>Speret idem, sudet multum, frustraque laboret,</l>
+		<l>Ausus idem; tantum sériés juncturaque pollet!</l>
+		<pb n="32"/>
+		<l>Tantum de medio sumptis accedit honoris!</l>
+		<l>Sylvis deducti caveant, me judice, Fauni,</l>
+		<l n="245">Ne, velut innati triviis ac pene forenses,</l>
+		<l>Aut nimium teneris juvenentur versibus unquam,</l>
+		<l>Aut immunda crêpent ignominiosaque dicta,</l>
+		<l>offenduntur enim, quibus est equus, et pater, et res;</l>
+		<l>(??)ec, si quid fricti ciceris probat et nucis emptor,</l>
+		<l n="250">Æquis accipiunt animis, donantve corona.</l>
+		<l>Syllaba longa, brevi subjecta, vocatur iambus,</l>
+		<l>Pes citus unde etiam trimetris accrescere jussit</l>
+		<l>Nomen iambeis, quum senos redderet ictus,</l>
+		<l>Primus ad extremum similis sibi. Non ita pridem,</l>
+		<l n="255">Tardior ut paulo graviorque veniret ad aures,</l>
+		<l>Spondeos stabiles in jura palerna recepit,</l>
+		<l>Cominodus et patiens; non ut de sede secunda</l>
+		<l>Cederet, aut quarta socialiter. Hic et in Acci</l>
+		<pb n="34"/>
+		<l>Nobilibus trimetris<hi rend="superscript">1</hi> apparet rarus, et Enni.</l>
+		<l n="260">In scenam missus magno cum pondéré versus,</l>
+		<l>Aut operæ celeris nimium curaque carentis,</l>
+		<l>Aut ignoratæ premit artis crimine turpi.</l>
+		<l>Non quivis videt immodulata poemata judex;</l>
+		<l>Et data Romanis venia est indigna poetis.</l>
+		<l n="265">Idcircone vager, scribamque licenter? an omnes</l>
+		<l>Visuros peccata putem mea, tutus et intra</l>
+		<l>Spem veniæ cautus? Vilavi denique culpam,</l>
+		<l>Non laudem merui. Vos, exemplaria Græca</l>
+		<l>Nocturna versate manu, versate diurna.</l>
+		<l n="270">At<hi rend="superscript">2</hi> nostri proavi Plautinos et numeros et</l>
+		<l>Laudavere sales nimium patienter utrumque,</l>
+		<l>Ne dicam stulte<hi rend="superscript">3</hi>, mirati si modo ego et vos</l>
+		<l>Scimus inurbanum lepido seponere dicto,</l>
+		<l>Legitimumque sonum digitis callemus et aure.</l>
+		<l n="275">Ignotum tragicæ genus invenisse Camœnæ</l>
+		<pb n="36"/>
+		<l>Dicitur, et plaustris vexisse poemata Thespis</l>
+		<l>Qui cancrent agerentque, peruncti fæcibus ora.</l>
+		<l>Post hunc, personæ pallæque repertor honestæ,</l>
+		<l>Æschylus, et modicis instravit pulpita tignis,</l>
+		<l n="280">Et docuit magnumque loqui nitique cothurno.</l>
+		<l>Successit Vetus l bis Comœdia, non sine multa</l>
+		<l>Laude; sed in vitium libertas excidit, et vint</l>
+		<l>Dignam lege régi lex est accepta, Chorusque</l>
+		<l>Turpiter obticuit, sublato jure nocendi.</l>
+		<l n="285">Nil intentatum nostri liquere poetæ : </l>
+		<l>Nec minimum meruere decus, vestigia Græca</l>
+		<l>Ausi deserere et celebrare domestica facta,</l>
+		<l>Vol qui Prætextas 2, vel qui docuere Togatas.</l>
+		<l>Nec virtute foret clarisve potentius armis,</l>
+		<l n="290">Quam lingua, Latium, si non offenderet unum-</l>
+		<l>quomque poetarum limæ labor et mora. Vos o,</l>
+		<l>Pompilius 3 sanguis, carmen reprehendite, quod non</l>
+		<pb n="38"/>
+		<l>Multa dies et multa litura coercuit, atque</l>
+		<l>Præsectum decies non castigavit ad unguem.</l>
+		<l n="295">Ingenium misera quia fortunatius arte</l>
+		<l>Credit, et excludit sanos Helicone poêlas</l>
+		<l>Democritus, bona pars non ungues ponere curat,</l>
+		<l>Non barbam; secreta petit loca; balnea vitat.</l>
+		<l>Nanciscetur enim pretium nomenque poetæ,</l>
+		<l n="300">Si tribus<hi rend="superscript">1</hi> Anticyris caput insanabile nunquam</l>
+		<l>Tonsori Licino<hi rend="superscript">2</hi> commiserit. O ego lævus,</l>
+		<l>Qui purgor bilem sub verni temporis horam! </l>
+		<l>Non alius faceret meliora poemata. Verum</l>
+		<l>Νil tanti est. Ergo fungar vice cotis, acutum</l>
+		<l n="305">Reddere quæ ferrum valet, exsors ipsa secandi : </l>
+		<l>Munus et officium, nil scribens ipse, docebo : </l>
+		<l>Unde parentur opes; quid alat formetque poetam;</l>
+		<l>Quid deceat, quid non; quo virtus, quo ferai error.</l>
+		<l>Scribendi recte, sapere est et principium et fons.</l>
+		<pb n="40"/>
+		<l n="310">Rem tibi Socraticæ poterunt ostendere chartæ;</l>
+		<l>Verbaque provisam rem non invita sequentur.</l>
+		<l>Qui didicit, patriæ quid debeat, et quid amicis;</l>
+		<l>Quo sit amore parens, quo frater amandus et hospes;</l>
+		<l>Quod sit conscripti, quod judicis officium, quæ</l>
+		<l n="315">Partes in bellum missi ducis ille profecto</l>
+		<l>Reddere personæ scit convenientia cuique.</l>
+		<l>Respicere exemplar vitæ morumque jubebo</l>
+		<l>Doctum imitatorem, et vivas hinc ducere voces.</l>
+		<l>Interdum speciosa locis morataque recte</l>
+		<l n="320">Fabula, nullius veneris, sine pondéré et arte,</l>
+		<l>Valdius oblectat populum, meliusque moratur,</l>
+		<l>Quam versus inopes rerum nugæque canoræ.</l>
+		<l>Gratis ingenium, Gratis dédit ore rolundo</l>
+		<l>Musa loqui, præter laudem, nullius avaris.</l>
+		<l n="325">Romani pueri longis rationibus assem</l>
+		<pb n="42"/>
+		<l>Discunt in parles centum diducere. Dicat</l>
+		<l>Filius Albini « Si de quincunce remota est</l>
+		<l>Uncia, quid superat? Poteras dixisse? — Triens<hi rend="superscript">1</hi>. — Eu!</l>
+		<l>Rem poteris servare tuam. Redit uncia quid fit?</l>
+		<l n="330">Semis. » — At, hæc animos ærugo et cura peculi</l>
+		<l>Quum semel imbuerit, speramus carmina fingi</l>
+		<l>Posse, linenda cedro et lævi servanda cupresso?</l>
+		<l>Aut prodesse volunt, aut delectare poetæ;</l>
+		<l>Aut simul et jucunda et idonea dicere vitæ.</l>
+		<l n="335">Quidquid præcipies, esto brevis, ut cito dicta</l>
+		<l>Percipiant animi dociles, teneantque fideles;</l>
+		<l>Omne supervacuum pleno de peclore manat</l>
+		<l>Ficta voluptatis causa sint proxima veris;</l>
+		<l>Nec, quodcumque volet, poscat sibi fabula credi : </l>
+		<l n="340">Neu pransæ Lamiæ<hi rend="superscript">2</hi> vivum puerum extrahat alvo.</l>
+		<pb n="44"/>
+		<l>Centuriæ seniorum agitant expertia frugis;</l>
+		<l>Celsi prætereunt austera poemata Rhamnes <hi rend="superscript">1</hi>.</l>
+		<l>Omne tulit punctum, qui miscuit utile dulci,</l>
+		<l>Lectorem delectando pariterque monendo.</l>
+		<l n="345">Hic meret æra liber Sosiis, hic et mare transit,</l>
+		<l>Et longum noto scriptori prorogat ævum.</l>
+		<l>Sunt delicta tamen quibus ignovisse velimus : </l>
+		<l>Nam neque chorda sonum reddit quem vult manus et mens,</l>
+		<l>Poscentique gravem persæpe remittit acutum;</l>
+		<l n="350">Nec semper feriet quodcumque minabitur arcus.</l>
+		<l>Verum, ubi plura nitent in carmine, non ego paucis</l>
+		<l>Offendar maculis, quas aut incuria fudit,</l>
+		<l>Aut humana parum cavit natura. Quid ergo est?</l>
+		<l>Ut scriptor si peccat idem librarius usque,</l>
+		<l n="355">Quamvis est monitus, venia caret; ut citharœdus</l>
+		<pb n="46"/>
+		<l>Ridetur, chorda qui semper oberrat eadem : </l>
+		<l>Sic mihi, qui multum cessat, fit Chœrilus<hi rend="superscript">1</hi> ille,</l>
+		<l>Quem bis terve bonum cum risu miror; et idem</l>
+		<l>Indignor quandoque bonus dormitat Homerus : </l>
+		<l n="360">Verum opere in longo fas est obrepere somnum</l>
+		<l>Ut pictura poesis erit quæ, si propius stes,</l>
+		<l>Te capiat magis; et quædam, si longius abstes : </l>
+		<l>Hæc amat obscurum; volet hæc sub luce videri,</l>
+		<l>Judicis argutum quæ non formidat acumen;</l>
+		<l n="365">Hæc placuit semel, hæc decics repetita placebit.</l>
+		<l>O major Juvenum, quamvis et voce paterna</l>
+		<l>Fingeris ad rectum, et per te sapis, hoc tibi dictum</l>
+		<l>Tolle memor : certis medium et tolerabile rebus</l>
+		<l>Recte concedi. Consultus-juns et actor</l>
+		<l n="370">Causarum mediocris abest virtute diserti</l>
+		<l>Messalæ, nec scit quantum Casceliius Aulus;</l>
+		<l>Sed tamen in pretio est. Mediocribus esse poetis</l>
+		<pb n="48"/>
+		<l>Non homines, non Di, non concessere columnæ.</l>
+		<l>Ut, gratas inter mensas, symphonia discors,</l>
+		<l n="375">Et crassum unguentum, et Sardo cum melle papaver<hi rend="superscript">1</hi></l>
+		<l>Offendunt, poterat duci quia cœna sine istis : </l>
+		<l>Sic, animis natum inventumque poema juvandis,</l>
+		<l>Si paulum a summo decessit, vergit ad imum.</l>
+		<l>Ludere qui nescit, campestribus abstinet armis;</l>
+		<l n="380">Indoctusque pilæ, discive, trochive, quiescit,</l>
+		<l>Ne spissæ risum tollant impune coronæ;</l>
+		<l>Qui nescit, versus tamen audet fingere!—Quidni?</l>
+		<l>Liber et ingenuus, præsertim census<hi rend="superscript">2</hi> equestrem</l>
+		<l>Summam nummorum, vitioque remotus ab omni. —</l>
+		<l n="385">Tu nihil invita dices faciesve Minerva;</l>
+		<l>Id tibi judicium est, ea mens. Si quid tamen olim</l>
+		<pb n="50"/>
+		<l>Scripseris, in Metii<hi rend="superscript">1</hi> descendat judicis aures,</l>
+		<l>Et patris, et nostras, nonumque<hi rend="superscript">2</hi> prematur in annum.</l>
+		<l>Membranis intus positis, delere licebit</l>
+		<l n="390">Quod non edideris : nescit vox missa reverti.</l>
+		<l>Sylvestres homines sacer interpresque Deorum</l>
+		<l>Cædibus et victu fœdo deterruit Orpheus;</l>
+		<l>Dictus ob hoc lenire tigres rabidosque leones : </l>
+		<l>Dictus et Amphion, Thebanæ conditor arcis,</l>
+		<l n="395">Saxa movere sono testudinis, et prece blanda</l>
+		<l>Ducere quo vellet. Fuit hæc sapientia quondam,</l>
+		<l>Publica privatis secernere, sacra profanis;</l>
+		<l>Concubitu prohibere vago; dare jura maritis;</l>
+		<l>Oppida moliri; leges incidere ligno.</l>
+		<l n="400">Sic honor et nomen divinis vatibus atque</l>
+		<l>Carminibus venit. Post hos insignis Homerus</l>
+		<l>Tyrtæusque mares animos in martia bella</l>
+		<l>Versibus exacuit. Dictæ per carmina sortes.</l>
+		<pb n="52"/>
+		<l>Et vitæ monstrata via est; et gratia regum</l>
+		<l n="405">Pieriis tentata modis; ludusque repertus,</l>
+		<l>Et longorum operum finis ne forte pudori</l>
+		<l>Sit tibi Musa lyræ solers, et cantor Apollo.</l>
+		<l>Natura fieret laudabile carmen, an arte,</l>
+		<l>Quæsitum est. Ego, nec studium sine divite vena,</l>
+		<l n="410">Nec rude quid possit video ingenium : alterius sic</l>
+		<l>Altera poscit opem res, et conjurat amice.</l>
+		<l>Qui studet optatam cursu contingere metam,</l>
+		<l>Multa tulit fecitque puer; sudavit et alsit;</l>
+		<l>Abstinuit venere et vino. Qui Pythia cantat</l>
+		<l n="415">Tibicen, didicit prius, extimuitque magistrum.</l>
+		<l>Nunc<hi rend="superscript">1</hi> satis est dixisse : « Ego mira poemata pango : </l>
+		<l>Occupet extremum scabies! mihi turpe relinqui est,</l>
+		<l>Et, quod non didici, sane nescire fateri.»</l>
+		<l>Ut præco, ad merces turbam qui cogit emondas,</l>
+		<pb n="54"/>
+		<l n="420">Assentatores jubet ad lucrum ire poeta</l>
+		<l>Dives agris, dives positis infœnore nummis.</l>
+		<l>Si vero est unctum qui recte ponere possit,</l>
+		<l>Et spondere levi pro paupere, et eripere arctis</l>
+		<l>Litibus implicitum : mirabor, si sciet inter-</l>
+		<l n="425">noscere mendacem verumque beatus amicum.</l>
+		<l>Tu, seu donaris, seu quid donare velis cui,</l>
+		<l>Nolito ad versus tibi factos ducere plenum</l>
+		<l>Lætitiæ; clamabit enim : « Pulchre! bene! recte! »</l>
+		<l>Pallescet super his; etiam stillabit amicis</l>
+		<l n="430">Ex oculis rorem; saliet, tundet pede terram.</l>
+		<l>Ut, qui conducti<hi rend="superscript">1</hi> plorant in funere, dicunt</l>
+		<l>Et faciunt prope plura dolentibus ex animo : sic</l>
+		<l>Derisor vero plus laudatore movetur.</l>
+		<l>Reges dicuntur multis urgere culullis</l>
+		<l n="435">Et torquere mero quem perspexisse laborant</l>
+		<pb n="56"/>
+		<l>An sit amicitia dignus. Si carmina condes,</l>
+		<l>Nunquam te fallant animi sub vulpe latentes.</l>
+		<l>Quintilio<hi rend="superscript">1</hi> si quid recitares « Corrige, sodes,</l>
+		<l>Hoc, aiebat, et hoc. » Melius te posse negares</l>
+		<l n="440">Bis terque expertum frustra : delere jubebat,</l>
+		<l>Et male formatos<hi rend="superscript">2</hi> incudi reddere versus.</l>
+		<l>Si defendere delictum quam vertere malles,</l>
+		<l>Nullum ultra verbum aut operam insumebat inanem,</l>
+		<l>Quin sine rivali teque et tua solus amares.</l>
+		<l n="445">Vir bonus et prudens<hi rend="superscript">3</hi> versus reprehendet inertes;</l>
+		<l>Culpabit dures; incomptis allinet atrum</l>
+		<l>Transverso calamo signum; ambitiosa recidet</l>
+		<l>Ornamenta; parum Claris lucem dare coget;</l>
+		<l>Arguet ambiguë dictum; mutanda notabit : </l>
+		<l n="450">Fiet Aristarchus. Non dicet: « Cur ego amicum</l>
+		<l>Offendam in nugis? » — Hæ nugæ séria ducent</l>
+		<l>In mala derisum semel exceptumque sinistre.</l>
+		<pb n="58"/>
+		<l>Ut mala quem scabies, aut morbus regius<hi rend="superscript">1</hi> urget,</l>
+		<l>Aut fanaticus error, et iracunda Diana : </l>
+		<l n="455">Vesanum tetigisse timent, fugiuntque poetam</l>
+		<l>Qui sapiunt; agitant pueri incautique sequuntur.</l>
+		<l>Hic dum, sublimis<hi rend="superscript">2</hi>, versus ructatur et errat,</l>
+		<l>Si veluti merulis inlentus decidit auceps</l>
+		<l>In puteum foveamve, licet « Succurrite, » longum</l>
+		<l n="460">Clamet, « io cives! » non sit qui tollere curet.</l>
+		<l>Si curet quis opem ferre, et demittere funem : </l>
+		<l>« Qui scis an prudens huc se projecerit<hi rend="superscript">3</hi>, atque</l>
+		<l>Servari nolit? » dicam, Siculique poetæ</l>
+		<l>Narrabo interitum. Deus immortalis haberi</l>
+		<l n="465">Dum cupit Empedocles, ardentem frigidus Ætnam</l>
+		<l>Insiluit. Sit jus liceatque perire poetis;</l>
+		<l>Invitum qui serval, idem facit occidenti.</l>
+		<l>Nec semel hoc fecit; nec, si retractus erit, jam</l>
+		<pb n="60"/>
+		<l>Fiet home, et ponet famosæ mortis amorem.</l>
+		<l n="470">Nec satis apparet cur versus factitet : utrum</l>
+		<l>Minxerit in patrios cineres, an triste<hi rend="superscript">1</hi> bidental</l>
+		<l>Moverit incestus : certe furit, ac velut ursus,</l>
+		<l>Objectes caveæ valuit si frangere clathros,</l>
+		<l>Indoctum doctumque fugat recitator acerbus.</l>
+		<l n="475">Quem vero arripuit, tenet. occiditque legendo.</l>
+		<l>Non missura cutem, nisi p’ena cruoris, hirudo.</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+				</div>
+			</div>
+			<div type="translation" subtype="volume" xml:space="preserve">
+				<div type="textpart" subtype="book" n="2">
+					<div type="textpart" subtype="chapter" n="1">
+						<pb n="1"/>
+						<head>
+							<title>ARGUMENT ANALYTIQUE.</title>
+						</head>
+						<p>Vers l. Tout sujet doit être simple. — 24. Souvent les poëtes
+tombent dans les défauts opposés à ceux qu’ils veulent éviter. —
+38. L’auteur doit choisir un sujet proportionné à ses forces. —
+45. Hardiesses que les poëtes peuvent se permettre dans l’emploi
+des mots destinée des mots. — 73. Quels sont les vers appropriés
+à chaque genre. — 89. Du ton qui convient à la Tragédie et à la
+Comédie. — 99. Il faut tenir compte du sujet, du temps, des personnes.
+— 119. Ce que doit faire l’auteur, s’il reproduit sur la scène
+un personnage connu, ou s’il en invente un nouveau. — 136. Quel-
+ques préceptes sur la poésie épique. — 153. Des sujets qu’il faut
+mettre sur la scène. Horace recommande d’approprier les mœurs à
+chacun des âges de la vie. — 179. De l’action et du récit. — 193. Du
+Chœur. — 202. De la licence qui s’est introduite dans la musique.
+— 220. Du drame Satyrique. — 25l. De l’iambe, et de l’iambique de six
+pieds. — 263. Négligence des écrivains Romains. — 275. Origine de
+la Tragédie et de la Comédie. — 295. De l’art et du génie.
+— 309. Connaissances nécessaires au poëte. — 323. Funestes effets de
+ce travail déréglé qui n’a en vue que l’argent. — 333. Objet que la
+poésie se propose. De la vraisemblance. — 347. La sévérité n’exclut
+pas une indulgence raisonnable. — 366. La médiocrité est interdite
+aux poëtes. — 391. Origine et éloge de la poésie. — 408. Pour
+former le poëte, il faut le concours de l’art et de la nature.
+— 419. L’écrivain doit se défier des flatteurs, et ne consulter qu’un
+juge sincère. — 453. Épilogue.</p>
+						<p>Si un peintre s’avisait de placer une tête humaine sur un cou de
+cheval; et que, bigarrant de plumes diverses un assemblage confus
+de membres disparates, il terminât un gracieux buste de femme par
+la croupe hideuse d’un monstre marin : devant un pareil tableau,
+pourriez-vous, Ô mes amis, vous empêcher do rire? Voilà pourtant,
+jeunes Pisons, voilà l’image exacte et fidèle d’un livre où les idées
+confuses ressembleraient aux songes d’un malade, et dont les diffé-
+rentes parties manqueraient d’harmonie et d’ensemble. — Les poëtes,
+dira-t-on, n’ont-ils pas toujours eu, comme les peintres, le privi-
+lége de tout oser? — Sans doute : et cette liberté même, nous la ré-
+clamons pour nous, et l’accordons volontiers, nous aussi : mais enfin,
+admet-elle l’alliance de la férocité et de la douceur; permet-elle d’a(??)-
+coupler les oiseaux avec les serpents, les tigres avec les agneaux?</p>
+						<p>Souvent, à un début imposant et qui promet de grandes choses,
+on rattache, pour nous éblouir à distance, un ou deux lambeaux de
+pourpre; on décrit un bois sacré et l’autel de Diane, ou bien le ruis-
+seau qui serpente en fuyant à travers de riantes prairies, ou le Rhin
+majestueux, ou les brillantes couleurs de l’arc-en-ciel; descriptions
+charmantes, oui, mais qui ne sont pas à leur place. Vous savez
+peindre un cyprèseh! qu’importe un cyprès au malheureux qui vous
+paie pour le représenter lui-même échappant au naufrage sur les
+débris de son vaisseau? On commençait une amphore magnifique la
+roue a tourné; pourquoi ne vient-il qu’une tasse? — Enfin, que la
+simplicité, que l’unité règne avant tout dans un ouvrage.</p>
+						<p>Ce qui nous trompe souvent, nous autres poëtes, e’est — vous le
+savez, illustre Pison, et vous, ses dignes fils, — c’est l’apparence
+du bien. Je vise à la concision, je deviens obscur; on court après
+la grâce adieu le nerf et la chaleur; tel vise an sublime, et se
+perd dans l’enflure; par excès de prudence, et pour échapper à la
+tempête, celui-là se traîne terre à terre; celui-ci croit trouver la
+variété dans le merveilleux, et son pinceau bizarre nous représente
+un dauphin dans les bois, un sanglier dans les flots. Ainsi, faute de
+talent et de goût, on n’évite un défaut, que pour tomber dans un
+vice. Près du cirque Emilien, vous verrez tel artiste qui excelle à finir
+un ongle, qui sait donner à l’airain la souplesse des cheveux talent
+incomplet, au demeurant, car il échouera dans l’ensemble. Or, si
+je me mêlais d’écrire, je ne voudrais pas plus ressembler à un tel
+homme, que je n’aimerais un nez difforme avec des cheveux d’ébène
+et de beaux yeux noirs.</p>
+						<p>Vous qui écrivez, choisissez une matière proportionnée à vos
+forces; essayez-vous longtemps, consultez bien vos épaules. Le sujet
+est-il proportionné aux moyens de l’auteur aussitôt il trouve sous sa
+plume l’expression juste, la clarté, et l’ordre, cet ordre lumineux.
+dont le mérite et la grâce consistent, je ne crois pas me tromper,
+à dire d’abord ce qui doit d’abord être dit, et à différer les détails
+pour les placer au moment favorable.</p>
+						<p>Délicat et châtié dans son style, l’auteur d’un poëme que le public
+attend, doit montrer un goût sévère à l’égard des mots qu’il emploie.
+Le secret pour être admiré, c’est de savoir, par une alliance ingéappingit
+nieuse, rajeunir une expression surannée. Vous faut il des termes nou-
+veaux, pour exprimer des idées nouvelleseh bien! vous créerez,
+des mots inconnus à l’oreille de nos vieux Céthégus Oui, vous
+aurez ce privilège, à condition que vous u’en abusiez pas; ces mots
+neufs, ces mots de création nouvelle sont assurés de faire fortune, si,
+dérivés du grec, ils se latinisent sans effort. Mais quoi? les Romains
+accorderaient-ils à Cécilius et à Plaute un droit qu’ils refuseraient
+a Virgile, à Varius? Et quelle raison de me reprocher, à moi,
+certaines innovations utiles, peut-être, quand la plume de Caton et
+d’Ennius sut enrichir la langue nationale d’une foule de mots qui
+n’existaient pas? Non s’ilest un droit qu’on a toujours eu, qu’on
+aura toujours, c’est celui de mettre en circulation un mot frappé au
+coin de l’usage. Quand, au déclin des années, les forêts perdent leurs
+feuilles, ce sont les premières venues qui tombent les premières : 
+ainsi passent les mots vieillis, tandis que les nouveaux s’épanouissent,
+tout brillants de force et de jeunesse. Nous sommes voués à la mort,
+nous et tout ce qui vient de nous. Et ce bassin magnifique, chef-d’œu-
+vre d’une main royale, ce port où Neptune voit flotter nos vaisseaux à
+l’abri des aquilons; et ce marais longtemps stérile, longtemps battu
+par la rame, aujourd’hui terre nourricière que sillonne la pesante
+charrue; et ces digues puissantes par qui un fleuve, jadis funeste aux
+moissons, apprit à suivre un cours meilleur hélas, tous les ouvrages
+des mortels périront et la langue seule garderait une fraîcheur, une
+grâce inaltérable! Que de mots sont déjà tombés, qui renaîtront
+un jour sans doute! combien d’autres, qui sont de mode aujour-
+d’hui, tomberont à leur tour, si l’usage le veut jamais, l’usage, cet
+arbitre absolu, ce maître, ce régulateur du langage.</p>
+						<p>Homère a montré sur quel ton peuvent se chanter les hauts faits
+des rois et des héros, et les horreurs de la guerre.</p>
+						<p>Les distiques inégaux exprimèrent d’abord la douleur plaintive,
+et ensuite aussi la joie du bonheur. Mais quel est celui dont la muse
+soupira la première élégie? — Les érudite ne sont pas d’accord, et le
+procès est toujours pendant.</p>
+						<p>La vengeance arma le fougueux Arclmoque de son iambe re-
+doutable; puis le brodequin et le cothurne majestueux adoptèrent
+l’iambique, si bien fait pour le dialogue car il domine les bruits
+de l’amphithéâtre; il est né pour l’action.</p>
+						<p>L’ode inspirée chante sur la lyre les Dieux, et les héros fils dos
+Dieux, et l’athlète couronné, et le coursier vainqueur dans la car-
+rière, et les tourments de l’amour, et la libre gaité des festins.</p>
+						<p>Mais, si je n’ai pas le talent d’assortir à chaque genre le rythme
+et le ton qui lui conviennent, pourquoi me saluerait-on poète? pour-
+quoi mon amour-propre insensé préfère-t-il l’ignorance à l’étude?</p>
+						<p>Un sujet comique ne veut pas du style de la tragédie; et de même
+je me révolterai, si l’on vient, en vers familiers, dignes tout au plus du
+brodequin, me conter l’horrible festin de Thyeste. Chaque genre doit
+garder la place que lui a si bien marquée la nature. Quelquefois pour-
+tant la comédie même élève le ton voyez comme la colère inspire à
+Chrémès des accents pathétiques. Souvent aussi la tragédie exprime
+avec simplicité ses douleurs ainsi, Télèphe et P’élée, pauvres et bannis
+tous les deux, rejettent bien loin l’emphase et la pompe des grands
+mots, s’ils tiennent à éveiller la sympathie des spectateurs.</p>
+						<p>Ce n’est pas assez pour la poésie de charmer l’oreille il faut
+qu’elle touche le cœur, qu’elle remue, qu’elle entraîne. Le rire et les
+larmes provoquent chez l’homme ou la joie, ou la tristesse. Voulez-vous
+me faire pleurer montrez d’abord vous-même une douleur véritable;
+alors Télèphe, alors aussi, Pélée, je serai sensible à vos malheurs;
+mais si vous dites mal votre rôle, vous me ferez bâiller, ou rire.
+Il faut que les paroles soient, comme la physionomie, tristes dans
+l’affliction, menaçantes dans la colère, folâtres dans l’enjouement,
+graves dans la sévérité. La nature, en effet, commence par nous don-
+ner le sentiment qui convient à chaque situation elle nous porte à la
+joie, ou nous excite à la colère, ou bien elle nous courbe sous le poids
+du chagrin, et nous déchire le cœur; ensuite, elle se sert de la
+parole, pour traduire les mouvements de notre âme. Si le ton du per-
+sonnage n’est pas en harmouie avec sa position. nobles et plébéiens
+éclateront de rire à l’envi. Gardez-vous de faire parler un esclave comme
+un héros; un vieillard expérimenté comme un jeune homme dans la
+fougue de l’âge; une dame de qualité comme une humble nourrice : 
+marquez la même différence entre le marchand qui court le monde,
+et le colon sédentaire d’un petit champ fertile; entre le sauvage de la
+Colchide et l’Assyrien; entre le citoyen do Thèbes et celui d’Argos.</p>
+						<p>Suivez la tradition, poëte; ou bien, que dans vos fictions il règne un
+ensemble judicieux. Est-ce la vengeance d’Achille que vous remettez
+sur la scène montrez-le-nous ardent, colère, inexorable, impétueux;
+qu’il se mette résolûment au-dessus des lois, et n’en appelle qu’a
+son épée. Montrez-nous Médée altière, inflexible; Ino gémissante;
+Ixion perfide; Io toujours errante; Oreste sombre et farouche.</p>
+						<p>Est-ce un sujet encore vierge que vous risquez au théâtre, un
+personnage nouveau que vous inventez qu’il se soutienne jusqu’à
+la fin, tel qu’il s’est annoncé d’abord, sans jamais se démentir. Mai
+ces caractères généraux et abstraits, combien n’est-il pas difficile do
+personnifier! vous ferez donc pius sagement de mettre en action
+quelque épisode de l’Iliade, que d’introduire, le premier, sur la scène
+une fable nouvelle el des personnages inconnus. Un sujet déjà popu-
+laire deviendra la propriété de l’auteur, à condition qu’il ne se traîne
+pas sans gloire dans l’ornière banale, et ne calque pas servilement
+son modèle mais qu’il n’aille pas non plus, imitateur sans idées,
+se jeter dans un cercle trop étroit, où le tiendrait captif l’amour-
+propre,ou le plan du poëme. Enfin, qu’il ne débute pas, comme
+autrefois le poëte cyclique, en nous criant « Je chanterai la fortune
+de Priam, et cette guerre fameuse.... » Quelles merveilles attendre
+après un début si emphatique? Hélas!...</p>
+						<ab>
+							<seg>La montagne en travail enfante une souris....</seg>
+						</ab>
+						<p>Ah! que j’aime mieux ce poëte plein d’adresse qui, sans se battre
+les flancs, nous dit « Muse, chantez ce héros qui, après la chute
+de Troie, parcourut tant de contrées, et observa les mœurs de tant
+de peuples divers. » Chez lui, ce n’est pas la fumée qui succède à
+la lumière mais de la fumée il fait jaillir une flamme éclatante;
+puis sa muse va nous prodiguer les récits merveilleux Antiphate
+et Scylla, et Charybde et Polyphème. Ce n’est pas lui qui remonte
+a mort de Méléagre, pour raconter le retour de Diomède; ni aux
+deux œufs de Léda, pour chanter la guerre de Troie. Lui, il court au
+dénouement, toujours; il vous jette au milieu des faits, comme si
+vous saviez tout déjà; et les épisodes qu’il désespère d’embellir par ses
+vers, il les sacrifie. Enfin, dans ses heureuses fictions, il mêle avec
+tant d’art la fable et la vérité, que toutes les parties de son poëme
+ont une harmonieuse proportion.</p>
+						<p>Sachez donc ce qu’il faut pour me plaire, et pour plaire au public.
+Charmer le spectateur, le captiver jusqu’à la fin, le forcer de répondre
+par ses applaudissements à l’acteur qui vient lui dire <hi rend="italic">apptaudissez....
+</hi>o’est là votre ambition? — Eh bien! distinguez avec soin les mœurs
+des différents âges. Le caractère change avec les années faites ha-
+bilement la part de ces années qui nous changent.</p>
+						<p>A peine il sait bégayer quelques mots, et se tenir sur ses jambes,
+l’enfant brûle de jouer avec les enfants; un rien le fâche, un rien
+l’apaise; son humeur varie à chaque instant.</p>
+						<p>L’adolescent imberbe, qui est libre, enfin, et hors de tutelle, adore
+les chevaux, les chiens, le Champ-de-Mars cire docile aux impres-
+sions du vice, il est rebelle à la censure; il vit au jour le jour,
+il est dépensier, présomptueux, plein de désirs, capricieux et volage.</p>
+						<p>I’âge viril a des goûts différents l’homme fait est ambitieux;
+il songe à la fortune, aux amitiés utiles, aux honneurs; il calcule
+bien, pour n’avoir point à revenir un jour sur ses pas.</p>
+						<p>Bien des travers assiègent le vieillard il amasse toujours, et,
+pauvre dans sa richesse, il ne jouit pas de son or, il craint d’y
+toucher. Timide et glacé en toutes choses, remettant sans cesse, esp(??)
+rant peu, sans énergie, tremblant pour l’avenir, quinteux, maussade,
+il n’a d’éloges que pour <hi rend="italic">le bon vieux temps!...</hi> le temps de son en-
+fance; et son humeur chagrine s’en prend à tout ce qui est jeune.</p>
+						<p>Les années, jusqu’à un certain point, nous apportent avec elles
+bien dés avantagés; puis, en déclinant, elles nous les ruvissent-
+Tenevous à ne faire parler ni un jeune homme en vieillard, ni un
+enfant en homme mûr attachez-vous scrupuleusement à peindre les
+traits et la physionomie de chaque âge.</p>
+						<p>Un fait s’accomplit sur la scène, ou bien un récit nous l’expose.
+Mais le récit ne s’adresse qu’à l’oreille, et il agit moins vive-
+ment sur l’esprit, que ces tableaux animés dont l’œil fidèle transmet
+directement à l’âme la sympathique émotion. Cependant, ne met-
+tez pas sur la scène ce qui ne doit pas avoir le public pour témoin,
+et dérobez à ses regards certaines catastrophes que lui redira bientôt
+un récit dramatique. Que Médée ne vienne pas égorger ses enfants
+eous les yeux du peuple; ni l’horrible Atrée faire bouillir, en plein
+théâtre, des entrailles humaines. Je ne veux pas voir Procné se mé
+tamorphosant en oiseau, ni Cadmus en serpent un pareil spec-
+tacle me révolterait, sans me faire illusion. Donnez à votre pièce
+cinq actes, ni moins, ni plus, si vous voulez qu’on la redemande
+et qu’on la joue souvent. Ne faites pas intervenir un Dieu, si l’in-
+trigue n’est à la hauteur d’un tel dénouement, et n’embarrassez pat
+le dialogue d’un quatrième personnage.</p>
+						<p>Le Chœur remplira le rôle et l’office d’un acteur; tout oe qo’il
+chante dans les entr’actes, doit concourir à l’action, et se rattacher
+essentiellement au sujet. Le Chœur est le défenseur naturel, le conseil-
+ler, l’ami de la vertu; c’est lui qui apaise les ressentiments et glo-
+rifie c’est lui qui chante la frugalité, la tempérance,
+les bienfaits de la justice, les lois tutélaires, et la paix et les tran-
+quilles loisirs des cités confident discret et sûr, c’est lui, enfin, qui
+prie, qui conjure les Dieux de relever l’honnête homme abattu, et
+d’humilier l’orgueil triomphant.</p>
+						<p>La flûte n’avait pas jadis cette monture de laiton qui en fait, de nos
+jours, la rivale de la trompette simple et modeste, percée de quelques
+trous seulement, elle servait à donner le ton, et à soutenir les chœurs.
+Alors elle suffisait à remplir de ses sons un théâtre que n’en-
+combrait pas encore une foule immense, et où se réunissait un
+peuple facile à compter, car il était peu nombreux; peuple frugal,
+vertueux et austère. Mais quand, peu à peu, la victoire eut agrandi
+ses domaines, et reculé la ceinture de ses murailles; quand, du
+matin au soir, le vin put couler impunément, les jours de fête,
+en l’honneur du dieu des plaisirs alors on vil s’introduire dans
+les vers et dans la musique une liberté plus grande. Quel espoir, en
+effet, d’intéresser autrement le paysan grossier, qui, son labeur ter-
+miné, accourait au théâtre, et là, spectateur ignorant et rustique,
+coudoyait le citadin poli et délicat? C’est ainsi qu’à son art primitif
+le joueur de flûte ajouta la danse, le luxe des costumes, et cette
+robe traînante qu’il promena sur la scène; c’est ainsi que la lyre
+sévère s’enrichit de cordes nouvelles alors, la poésie lyrique, plus
+hardie, prit un essor inconnu; et, dans ses conseils pleins de
+sagesse, comme dans ses révélations prophétiques, le Chœur em
+prunta le mystérieux langage de la Pythonisse.</p>
+						<p>Celui dont la muse tragique disputa sur la scène un vil bouc,
+prix du vainqueur, y montra aussi bientôt les Satyres dans leur
+sauvage nudité, et il voulut que leur causticité moqueuse égayât,
+sans la compromettre, la sévère tragédie car il fallait bien l’amorce
+d’une nouveauté piquante, pour amuser un public qui revenait des
+sacrifices, et dont le vin offusquait la raison. Mais prenez-y
+garde ces Satyres mordants et railleurs, posez-les décemment; qu’ils
+soient comiques, et non pas burlesques. Il ne faut pas que vos Dieux
+et vos héros, quand on vient de les voir, tout brillants d’or et se pava-
+nant sous la pourpre des rois, descendent à l’ignoble langage des
+tavernes enfumées; ou que, par crainte de la terre, ils aillent se
+perdre dans les nues. La tragédie ne doit jamais tomber dans le bouf-
+fon comme la grande dame obligée de danser en public, un jour de
+fête, elle ne se montrera qu’avec une pudique rougeur au milieu
+des Satyres effrontés.</p>
+						<p>Pour moi, jeunes Pisons, je n’affecterais, dans un drame Satyrique
+ni un style sans élégance, ni un dialogue trivial. Je no viserais pa.
+non plus au ton de la tragédie; mais je n’aurais garde de confondis
+les facéties d’un Dave, ou de celte friponne de Pythias, escroquant les
+écus du bonhomme Simon qu’elle enjôle, avec le langage de Silène,
+gardien fidèle, serviteur et nourricier do Bacchus. Je prendrais le sujet
+de ma pièce dans le domaine commun. Chacun aurait l’ambition d’en
+faire autant, d’abord; et puis, après avoir sué sang et eau, on quit-
+terait la partie tant l’ordre et l’harmonie ont de valeur dans un
+poème! tant l’art peut donner de relief aux fictions les plus vulgaires!</p>
+						<p>Mais qu’au sortir de leurs forêts, les Faunes ne s’avisent pas, je
+le leur conseille, de singer ni le grossier langage des rues, ni l’ur-
+banité du Forum; qu’ils évitent et la galanterie langoureuse de nos
+petits-maîtres, et la graveleuse obscénité des carrefours il y aurait
+là de quoi révolter patriciens, chevaliers, citoyens aisés; et les applau-
+dissements de la canaille qui vit de noix et de pois chiches, ne leur vau-
+draient, à coup sûr, ni le suffrage des honnêtes gens, ni la couronne.</p>
+						<p>Une longue, précédée d’une brève, s’appelle iambe pied si ra
+pide, qu’il a fait donner le nom de <hi rend="italic">trimètre</hi> à l’iambique, compost
+pourtant de six pieds. Autrefois, il n’entrait dans ce vers que des
+iambes c’est depuis peu de temps que, pour arriver à l’orelle moins
+vif et moins sautillant, il admit le grave spondée au partage de ses
+droits paternels; mais sa complaisance n’alla point jusqu’à cède
+au nouveau venu la seconde ni la quatrième place. Il est vrai que,
+dans leurs trimètres si vantés, Accius et Ennius observent rarement
+cette règle; quoi qu’il en soit, les vers jetés sur la scène avec un
+lourd bagage de spondées, accusent chez le poète ou une précipitation
+et une négligence extrêmes, ou une coupable ignorance dos lois de
+la poésie.</p>
+						<p>Tout le monde ne sent pas le défaut d’harmonie dans les vers : 
+aussi, que de poètes ont trouvé à Rome une indulgence qu’ils
+méritaient pas! Est-ce une raison pour moi d’écrire à l’aventure, et
+sans nul souci des règles? ou bien, tout en me disant que chacun
+verra mes fautes, m’endormirai-je tranquille sur l’espoir du pardon?
+J’échappe à lu censure, il est vrai mais aurai-je mérité des louanges</p>
+						<p>— Non. Quant à vous, étudiez avec amour les chefs-d’œuvre de la
+Grece; nuit et jour, étudiez-les. — Mais nos pères n’admiraient-ils
+pus et le rhythme et les saillies de Plante? — Eh bien! nos pères
+étaient trop bons, pour ne pas dire autre chose du moins, si nous
+sommes en état, vous et moi, de distinguer le plaisant du burlesque,
+et d’apprécier an doigt et à l’oreille la justesse d’un son.</p>
+						<p>La tragédie était inconnue, quand Thespis, le premier, dit-on
+promena sur un tombereau îles acteurs qui chantaient et jouaient
+ses pièces, le visage barbouillé de lie. Eschyle, après lui, imagina
+la robe flottante et le masque; puis, exhaussant la scène sur de
+modestes tréteaux, il apprit à ses personnages à chausser le cothurne
+et à parler avec majesté. Ensuite parut la vieille Comédie, et elle
+compta de brillants succès; mais la liberté dégénéra en licence il
+fallut arrêter le scandale, et une loi intervint, qui, condamnant le
+Chœur à l’impuissance de nuire, le réduisit à un silence honteux.
+Il n’est pas un seul genre que n’aient abordé nos poètes; et ce
+n’est pas sans gloire que, renonçant à l’imitation des Grecs, ils
+osèrent traiter sur la scène, dans la tragédie comme dans le genre.
+comique, des sujets tout nationaux. Aussi, la valeur guerrière et
+l’éclat des armes n’ajouteraient pas, plus que la littérature, à la
+puissante illustration du Latium, si nos auteurs, trop presses, ne
+reculaient tous devant le travail de la lime. Mais vous, noble sang
+de Pomilius, soyez impitoyables pour ces poëmes faits à la hâtes
+et sans corrections, essais imprudent qu’un goût sévère n’a pas
+dix fois retouchés.</p>
+						<p>Démocrite a rêvé que le génie vaut mieux que l’art et ses misères—
+Démocrite bannit de l’Hélicon les poètes de bon sens!.., Delà,
+chez nos grands génies, la mode de laisser croître soigneusement
+ses ongles et sa barbe pauvres gens, ils recherchent la solitude et
+fuient les bains. Car enfin le vrai moyen de se poser en grand poëte,
+c’est do ne confier jamais au rasoir de Licinus une tête que ne gué-
+rirait pas l’ellébore de trois Anticyres. Maladroit que je suis, do
+me purger tous les printemps! Personne, sans cela, personne
+ne ferait de meilleurs vers. Eb bien, tant pis. Soyons donc la
+pierre utile qui aiguise le fer, impuissante elle-même à couper oui,
+sans écrire moi-même, je montrerai comment on écrit; je dirai les
+sources où doit puiser le poète, ce qui forme et nourrit son talent,
+ce que l’usage permet, ce que le goût réprouve; je dirai où mène le
+génie, où précipite l’ignorance.</p>
+						<p>Le bon sens, la raison voila le principe et la source des bons vers.
+Socrate et les livres de ses disciples vous fourniront les Idées premières;
+soyez bien pénétré de votre sujet, et les mots arriveront sans effort.
+Quand on sait ce que l’on doit à sa patrie et à ses amis, àl a piété
+filiale, à l’amour fraternel, à l’hospitalité; quand on connait les
+devoirs du sénateur et du juge, les obligations du général envoyé
+contre l’ennemi alors, n’en doutez pas, on sait donner à ses per-
+sonnages le caractère qui leur convient. Étudiez l’âme humaine sur
+les types vivants de l’humanité peintre de la nature, faites poser
+la nature devant vous. Il y a telle pièce, ou les caractères sont
+naturels, et les mœurs bien senties; mais le style on est sans grâce,
+le vers y est prosaïque et dur; malgré tout, elle aura plus de succès
+elle intéressera plus longtemps que des vers sans idées et des baga-
+telles sonores.</p>
+						<p>Les Grecs avaient reçu des Muscs le don du génie et les charmes
+de l’elocution; aussi les Grecs ne soupiraient que pour la gloire.
+Mais nos jeunes Romains, que font-ils? des calculs à n’eu plus
+finir, pour diviser un as on cent parties. Dites-moi, fils d’Albinus : 
+« Voilà cinq onces si j’en ôte une, que reste-t-il? voyons! — Le tiers
+d’un as. — Bravo! vous vous entendrez en affaires. Mais j’ajoute
+une once combien cela fait-il? — Un demi-as.» — Franchement,
+quand cette ardeur du gain aura, comme une rouille funeste,
+infecté les esprits, espérerons-nous encore de ces nobles vers que l’on
+trompe dans l’buile de cèdre, et que l’on conserve dans des tablettes
+de cyprès?</p>
+						<p>Instruire ou plaire tel est l’objet de la poésie, si même élis
+n’aspire à plaire et à instruire tout à la fois. Dans vos préceptes,
+soyez concis la concision trouve l’intelligence docile et la mémoire
+fidèle. Tout ce qu’on dit de trop, l’esprit rassasié le rejette. Que
+vos fictions, dont le but est d’amuser, aient le charme de la vrai-
+semblance; n’épuisez pas ma crédulité par l’abus du merveilleux :  
+arrière donc la sorcière qui tire tout vivant de ses entrailles un
+enfant quelle a dévoré. Nos graves Sénateurs ne veulent pas d’un
+drame frivole un drame sérieux fait peur à nos fiers Chevaliers.
+Pour enlever tous les suffrages, il faut mêler l’utile et l’agréable,
+il faut plaire et instruire en même temps. C’est alors qu’un livre fait
+la fortune des Sosies, et qu’il franchit les mers et qu’il assure à
+l’auteur une glorieuse immortalité.</p>
+						<p>Cependant, il y a de ces fautes qu’on pardonne volontiers. Souvent,
+en effet, le luth harmonieux trahit le doigt et la pensée do l’artiste;
+souvent, au lieu d’un son grave, la corde i(??) rend un son aigu :  
+et la flèche n’atteint pas toujours le but (??) elle menaçait. Pour-
+quoi donc, dans un poëme où les beautés toninent, critiquerais je
+amèrement quelques taches, effets inévitable (??) la négligence, ou
+qui auront échappé à la faiblesse humaine? Mail enfin! si un copiste,
+averti sans cesse, et sans cesse retombant (??) môme faute, est
+indigne de pardon, s’il est naturel de siffl(??) (??) tiste maladroit qui
+toucha éternellement à faux la méme corde ainsi, dans l’écrivain
+presque toujours en défaut, je ne vois plus qu’un Chérile, un mé-
+chant poëte, chez qui deux ou trois vers passables me font sourire
+en m’étonnant tandis que j’en veux au sublime Homère, s’ll som-
+meille quelquefois; et pourtant, n’estr-ce pas bien pardonnable Jane
+un long poëme?</p>
+						<p>Il en est do la poésie comme de la peinture tel tableau, vu (??)e
+près, vous charmera davantage; tel autre vous plaira mieux, vu de
+loin. Celui-ci aime le demi-jour, celui-là veut une vive lumière, car
+il défie le regard perçant do la critique; l’un n’a réussi qu’une seule
+fois, l’autre, dix fois exposé, charmera toujours.</p>
+						<p>O vous, l’ainé des Pisons, vous dont les leçons d’un père développent
+le goût précoce et les talents naturels, écoutez et retenez bien cette
+parole en certaines choses, la médiocrité se comprend et s’excuse.
+Il y a loin du jurisconsulte ordinaire et de l’avocat peu marquant, à
+l’éloqueuce d’un Messala, au savoir d’un Cascellius et cependant ils
+ont leur prix. Mais la médiocrité en poésie! voilà ce que ne tolèrent
+ni les Dieux, ni les hommes, ni les colonnes du temple d’Apolion.
+Dites-moi si, à une table bien servie, on aime une symphonie discor-
+danto, ou des parfums grossiers, ou des pavots au miel de Sardaigne :  
+non, car le souper n’avait que faire de ces hors-d’œuvre. Il en est
+de même de la poésie née pour plaire, destinée à charmer les cœurs,
+si elle ne s’élève au premier rang, elle tombe au dernier. Jouteur
+inhabile, vous n’allez pas vous escrimer dans le Champ-de-Mars;
+novice à la paume, au palet, au cerceau, vous laissez ces jeux à
+d’autres, pour ne pas faire rire toute la galerie à vos dépens; et, san
+rien connaître à la poésie, vous osez faire des vers! — Pourquoi pas,
+u’est-on pas libre et de bonne famille? n’a-t-on pas, surtout, la for-
+tune des Chevaliers? n’est-on pas un galant homme, enfin? — Vous,
+du moins vous ne direz, vous ne ferez rien, en dépit de Minerve :  
+votre bon sens et votre esprit m’en répondent. Pourtant, ai voua écri-
+viez quelque jour, consultez l’oreille exercée do Métius, et celle de
+votre père, et la mienne; puis, gardez votre manuscrit pendant
+neuf ans. Tant qu’il n’a pas vu le jour, on peut, à son aise, revenir
+sur des pages inédites une fois parti, Je mot ne revient plus.</p>
+						<p>Les hommes vivaient dispersés dans les bois, quand un poëte sa-
+cré, interprète des Dieux, Orphée, leur inspira l’horreur du sang et
+d’une affreuse nourriture. De là ces traditions populaire, qu’à la
+voix d’Orphée, les tigres et les lions dépouillaient leur fureur;
+qu’aux accents d’Amphion, ce divin fondateur de Thèbes, les ro-
+chers se mouvaient en cadence, et que les doux accords de sa lyre at-
+tiraient les pierres obéissantes. On sait les premiers bienfaits de la
+sagesse antiquedistinguer le bien public de l’intérêt privé, le?
+chose· sacrées des profanes, réprimer la licence effrénée des mœurs,
+tracer les devoirs de l’hymen, bâtir des villes, graver des lois sui
+le chêne telle fut la cause de cette immortalité glorieuse, réservée
+aux poètes et à leurs divins travaux. Ensuite brilla le génie d’Ho-
+mère, et Tyrtée, dont les vers enthousiastes animèrent les mâles
+courages aux combats meurtriers. Depuis, les oracle· ne répondirent
+plus qu’on vers; la morale parla le même langage; pour gagner la
+laveur des rois, on emprunta la douce voix des neuf sœurs; enfin,
+c’est la poésie qui nous donna le théâtre, délassement si doux après
+les pénibles travaux. Ne rougissez donc pas de toucher la lyre des
+Muses, et de chanter avec Apollon.</p>
+						<p>Est-ce la nature, ou bien l’art, qui fait les grands poëtes? — Sur
+cette question, souvent débattue, voici quel est mon sentiment sans
+l’inspiration féconde, l’étude est impuissante, et le génie ne peut rien
+sans l’étude; mais ils ont besoin l’un de l’autre, et tous deux,
+étroitement unis, ils conspirent au même but. L’athlète qui brûle de
+triompher à la course, a soumis son enfance aux épreuves les plus
+rudes il a souffert et de la chaleur et du froid; il n’a connu ni
+l’amour ni l’ivresse. Avant de se faire entendre aux fêtes d’Apollon
+Pythien, le joueur de flûte a longtemps appris, longtemps tremble
+sous un maître. Mais en poésie! il suffit de dire « Des vers! oh! j’en
+fais d’admirables! Malheur au dernier! moi, je rougirais de l’être, fi
+donc! et d’avouer naïvement que j’ignore ce que je n’ai pas appris. »</p>
+						<p>Voyez, comme à l’appel du crieur public, accourt la foule em-
+pressée des acheteurs ainsi, attirés par l’espoir du gain, leo flatte un
+se donnent rendez-vous autour du poëte rentier, riche en biens-fonds,
+riche en capitaux bien placés. Mettez qu’avec cela il ait une table
+bien servie; qu’il soit homme à répondre pour un pauvre diable sans
+argent, à le tirer des mains rapaces de la chicane et Dieu me par-
+donne, s’il a le bonheur de distinguer jamais le faux ami de l’ami
+véritable. Mais vous, sortant de faire un présent, ou des offres de
+service; gardez-vous, pour lire vos vers, do profiter d’une ivresse
+intéressée; car j’entends d’ici votre auditeur s’écrier : « Ah les beaux
+vers! mais c’est parfait! c’est divin!... » Il s’extasie à chaque mot;
+que dis-je? ses yeux trouveront des larmes complaisantes; vous le
+verrez bondir do joie et trépigner de bonheur! Comme ces malheu-
+reux, dont les larmes mercenaires enchérissent, à nos funérailles,
+sur la vraie douleur d’une famille éplorée le flatteur qui se rit de
+vous, ou dit et en fait plus qu’un approbateur sincère. I es rois,
+dit-on, accablent de rasades le courtisan dont ils veulent sonder le
+cœur; et la torture du vin leur révèle l’ami vraiment digne de con-
+fianco. Vous, si jamais vous faites des vers, ne soyez pas dupe de ces
+faux amis, cachés sous la peau du renard. Quand on lisait quelque
+chose à Quintilius « Tenez, disait-il, corrigez-moi ceci, et cela
+encore. Mais, impossible à moi de faire mieux; je l’ai tenté deux
+ou trois fois en vain. Effacez alors, et remettez sur l’enclume ces
+vers mal forgés. » — S’avisait-on do défendre une faute, au lieu
+de corriger il ne disait plus mot, et, sans se donner une peine
+inutile, il vous laissait, seul et sans rival, vous adorer vous-même,
+à genoux devant votre génie.</p>
+						<p>Ainsi fait un sage ami critique judicieux, il n’a ni pitié ni excuse
+pour les vers lâches ou durs; les vers négligés, il les efface d’un revers
+de plume; il supprime l’emphase ambitieuse; la phrase est un peu
+obscureil vous force à l’éclaircir; il fait le procès aux mots équivoques,
+il marquetons les changements à faire il devient un Aristarqueenlin
+Ce n’est pas lui qui dira à quoi bon chicaner un ami pour des ba-
+gatelles? — Mais ces bagatelles, malheureux, elles auront des suites
+funestes, en livrant à la risée publique votre ami perdu sans retour</p>
+						<p>Voyez cet infortuné que tourmente lu lèpre, ou la jaunisse; ce ma-
+niaque, dont un transport fanatique et la colère de Diane ont troublé
+le cerveau tel est le malheureux possédé de la rage des vers. Tout
+homme sage l’évite et le fuit, épouvanté; les enfants crient après lui,
+et le poursuivent étourdiment dans les rues. Or, tandis qu’il s’en va,
+le front haut, hurlant ses vers grotesques, si, courant le nez en l’air,
+comme l’oiseleur qui guette des merles, il tombe au fond d’un puits
+ou dans une fosse; il aura beau crier à tue-tête« A moi! citoyens,
+au secours! » gardez-vous bien de l’en tirer, au moins. Si, d’aven-
+ture, un passant venait à lui tendre une corde charitable « Hé
+que savez-vous, dirais-je, s’il ne l’a point fait exprès, et s’il désire
+vraiment qu’on le sauve?...» Puis, je raconterai la mort du poète
+Sicilien. Voulant à tout prix passer pour un dieu immortel, Empé-
+docle s’élance de sang-froid dans, le cratère embrasé de l’Etna. Lais-
+sons donc aux poètes le privilège, la liberté du suicide en sauver un
+malgré lui! mais c’est le tuer, sur ma parole. D’ailleurs, oe n’est pus
+son coup d’essai, allez! qu’on le tire delà, et vous verrez si, rendu
+à lui-même, il abdiquera cette manie tragique d’immortalité. Au
+reste, on ne sait pas trop d’où lui vient cette rage poétique. A-t-il
+souillé la cendre do son père? a-t-il, d’un pied sacrilège, profané
+la place funeste consacrée par la foudre? Le fait est qu’un démon le
+possède. Mais tenez, le voilà; l’ours déchaîné a rompu les barreaux
+de sa loge. Ignorants et savants, tous fuient ce déclamateur furi-
+bond. Malheur à qui tombe sous sa main! plus d’espoir il faut périr
+sous son vers homicide; la sangsue ne lâchiera prise, que gorgée du
+(sang do sa victime.</p>
+					</div>
+					<div type="textpart" subtype="chapter" n="2">
+						<pb n="3"/>
+						<head>
+							<title>HORACE.
+ART POÉTIQUE.</title>
+						</head>
+						<p>AUX PISONS.</p>
+						<p>Si pictor velit
+jungere cervicem equinam
+capiti humano,
+et inducere plumas varias
+mambris
+collatis undique,
+ut mulier
+formosa superne
+desinat in piscem
+turpiter atrum :  
+amici, admissi spectatum,
+teneatis risum?
+Credite, Pisones,
+fore persimilem
+isti tabulæ,
+librum
+cujus species vanæ
+fingentur
+velut somnia ægri,
+ut nec pes nec caput
+reddatur formæ uni.</p>
+						<p>— Potestas æqua
+audendi quidlibet
+tuit semper
+pictoribus atque poetis. —
+Scimus, et
+petimusque hanc veniam,
+damusque vicissim;
+ed non ut immitia
+coeant placidis;
+non ut serpentes
+geminentur avibus,
+agni tigribus.</p>
+						<p>Plerumque,
+unus et alter pannus</p>
+						<p>Si un peintre voulait
+joindre un cou de-cheval
+à une tête humaine,
+et mettre des plumes diverses
+sur des membres
+rassemblés de-toute-part,
+en sorte qu’une femme
+belle par-le-haut
+se terminât en un poisson
+hideusement noir (repoussant) :  
+<hi rend="italic">mes</hi> amis, admis à voir <hi rend="italic">cela,
+</hi>retiendriez-vous <hi rend="italic">votre</hi> rire?
+Croyez, Pisons,
+qu’il sera tout-à-fait-semblable
+à ce tableau,
+le livre
+dont les idées vaines (confuses)
+seront (seraient) représentées
+comme les rêves d’un malade,
+en sorte que ni pied ni tête
+ne se rapporte à une forme unique.</p>
+						<p>— Un privilége égal
+d’oser toute-chose
+a été de-tout-temps
+aux peintres et aux poëtes. —
+Nous savons cela;
+et demandons-nous cette permission,
+et <hi rend="italic">la</hi> donnons-nous, à-notre-tour :  
+mais non pour que les animaux féroces
+soient unis aux animaux paisibles;
+non pour que les serpents
+soient accouplés aux oiseaux,
+<hi rend="italic">ni</hi> les agneaux aux tigres.</p>
+						<p>La plupart-du-temps,
+un et un autre (un ou deux) lambeaux
+<pb n="5"/>
+purpureus,
+qui splendeat late,
+assuitur
+inceptis gravibus
+et professis magna :  
+quum lucus
+et ara Dianæ,
+et ambitus
+aquæ properantis
+per agros amœnos,
+aut flumen Rhenum,
+aut arcus pluvius
+describitur :  
+sedlocus non erat mine
+his.
+Et fortasse scis
+simulare cupressum :  
+Quid hoc,
+si qui pingitur,
+ære dato,
+enatat exspes,
+navibus fractis?
+Amphora cœpit
+institui :  
+cur, rota currente,
+urceus exit?
+Denique, quodvis
+sit duntaxat
+simplex et unum.</p>
+						<p>Pater, et Juvenes
+digni patre,
+maxima pars vatum
+decipimur
+specie recti :  
+laboro esse brevis,
+fio obscurus;
+nervi animique
+deficiunt
+sectantem lenia;
+prefessus grandia
+turget;
+nimium tutus
+timidusque procellæ,
+serpit humi.
+Qui cupit
+variare prodigialiter
+rem unam,
+de-pourpre,
+qui puissent-briller au loin,
+sont cousus (sont rattachés)
+à des commencements nobles
+et qui promettent de grandes-choses :  
+<hi rend="italic">par exemple,</hi> lorsqu’un bois-sacré
+et l’autel de Diane,
+et le cours-sinueux
+d’un ruisseau qui se hâte
+à travers des champs agréables,
+ou le fleuve du Rhin,
+ou l’arc pluvieux (l’arc-en-ciel)
+est décrit :  
+mais le lieu n’était pas maintenant
+à ces <hi rend="italic">descriptions.
+</hi>Et peut-être tu sais
+représenter un cyprès :  
+que <hi rend="italic">fait</hi> cela (à quoi bon),
+si celui qui est peint (qui se fait peindre),
+<hi rend="italic">son</hi> argentétantdonné (pourson argent),
+s’échappe-à-la-nage <hi rend="italic">et</hi> sans-espoir,
+<hi rend="italic">ses</hi> vaisseaux étant brisés?
+Une amphore a commencé
+à être façonnée :  
+pourquoi, la roue tournant,
+une tasse sort-elle (résulte-t-elle)?
+Enfin, que tout <hi rend="italic">sujet</hi>
+soit avant-tout
+simple et un.</p>
+						<p>Père, et <hi rend="italic">vous</hi>, Jeunes-gens
+dignes de votre père,
+la plus grande partie des poëtes
+nous sommes trompés
+par l’apparence du bien :  
+je tâche d’être concis,
+je deviens obscur;
+les nerfs et les esprits (la chaleur)
+abandonnent
+celui qui recherche les <hi rend="italic">choses trop</hi> douces
+celui qui promet des <hi rend="italic">choses</hi> grandioses
+est enflé;
+<hi rend="italic">celui</hi> qui <hi rend="italic">est</hi> trop sur-ses-gardes
+et qui-craint <hi rend="italic">trop</hi> la tempête,
+rampe terre-à-terre.
+Celui qui désire
+varier par-le-merveilleux
+un sujet simple,
+<pb n="7"/>
+appingit delphinum sylvis,
+aprum tructibus.
+Fuga culpæ
+ducit in vitium,
+ai caret arte.
+Circa ludum Æmilium,
+faber unus
+et exprimet ungues,
+et imitabitur ære
+capillos molles :  
+infelix summa operis,
+quia nesciet ponere totum.
+Ego, si curem
+componere quid,
+non velim magis
+me esse hunc,
+quam vivere naso pravo,
+spectandum
+oculis nigris
+capilloque nigro.</p>
+						<p>Qui scribitis,
+sumite materiam
+æquam vestris viribus,
+et versate diu
+quid humeri recusent ferre,
+quid valeant.
+Nec facundia,
+ncc ordo lucidus
+deseret hunc
+cui res erit lecta
+potenter.
+Virtus et venus ordinis
+erit hæc, aut ego fallor,
+ut dicat jam nunc
+debentia
+dici jam nunc,
+differat pleraque,
+et omittat
+in tempus præsens.</p>
+						<p>Etiam, auctor
+carminis promissi,
+tenuis cautnsque
+in verbis serendis,
+amet hoc,
+spernat hoc.
+Dixeris
+egregie,
+peint un dauphin dans les forêts,
+<hi rend="italic">et</hi> un sanglier dans les flots.
+La fuite d’un défaut
+mène dans un vice (un défaut plus grand),
+si elle manque d’art.
+Près du cirque Emilien,
+un ouvrier unique <hi rend="italic">en ce genre
+</hi>et reproduira les ongles,
+et imitera avec l’airain
+les cheveux souples :  
+malheureux dans l’ensemble de <hi rend="italic">son</hi> æuvre,
+parce qu’il ne saura point former un to (??).
+Moi, si je me mêlais
+de composer quelque chose.
+je ne voudrais pas plus
+moi être cet <hi rend="italic">homme-là,
+</hi>que vivre avec un nez difforme,
+<hi rend="italic">étant</hi> remarquable <hi rend="italic">d’ailleurs
+</hi>par des yeux noirs
+et par des cheveux noirs.</p>
+						<p><hi rend="italic">Vous,</hi> qui écrivez (auteurs),
+choisissez un sujet
+proportionné à vos forces,
+et pesez (examinez) longtemps
+ce que <hi rend="italic">vos</hi> épaules refusent de porter,
+<hi rend="italic">et ce</hi> qu’elles peuvent <hi rend="italic">porter.
+</hi>Ni l’abondance,
+ni un ordre lumineux
+n’abandonnera celui
+par qui un sujet aura été choisi
+selon-ses-forces.
+Le mérite et le charme de l’ordre
+sera celui-ci, ou je me trompe
+que <hi rend="italic">l’on</hi> dise dès maintenant
+les choses qui doivent
+être dites dès maintenant,
+que <hi rend="italic">l’on</hi> diffère le reste,
+et qu’on <hi rend="italic">le</hi> reserve
+pour le moment favorable.</p>
+						<p>Do plus, que l’auteur
+d’un poëme promis au <hi rend="italic">public,
+</hi>délicat et réserve
+dans les mots à unir (dans son style)
+aime telle <hi rend="italic">expression,
+st</hi> dédaigne telle autre <hi rend="italic">expression.
+</hi>Tu te seras exprimé
+d’une-manière-distinguée,
+<pb n="9"/>
+si jonctura callida
+reddiderit novum
+verbum notum.
+Si forte
+est necesse monstrare
+indiciis recentibus
+abdita
+rerum,
+continget
+fingere non exaudita
+Cethegis cinctutis;
+licentiaque
+sumpta pudenter
+dabitur;
+et verba nova
+fictaque nuper
+habebunt fidem,
+si cadant
+foute grœco,
+detorta parce.
+Quid autem Romanus
+dabit Cæcilio Plautoquc,
+ademptum
+Virgilio Varioque?
+Cur ego,
+si possum acquirere
+pauca,
+invideor :  
+quum lingua
+Catonis et Enni
+ditaverit sermonem
+patrium,
+et protulerit
+nomina nova rerum?
+Licuit,
+licebitque semper
+oroducere
+nomen signatum
+nota præsente.
+Ut sylvæ
+mutantur foliis
+in pronos annos,
+prima
+cadunt :  
+ita interit
+ætas vetus verborum;
+et nata modo
+si une alliance ingénieuse
+aura (a) rendu nel. Ve
+une expression <hi rend="italic">déjà</hi> connue.
+Si par hasard
+il est nécessaire de désigner
+par des termes nouveaux
+les <hi rend="italic">parties</hi> cachées (inconnues)
+des choses (de la nature),
+il t’arrivera
+do créer des <hi rend="italic">mots</hi> non entendus
+des Céthégus couverts-du-cinctus
+et <hi rend="italic">une telle</hi> liberté,
+prise avec-discrétion,
+<hi rend="italic">te</hi> sera permise;
+et les expressions nouvelles
+et créées récemment
+obtiendront confiance (faveur),
+si elles tombent (si elles decoulent)
+d’une source grecque,
+détournées peu (dérivées sans-effort).
+Mais pourquoi le <hi rend="italic">peuple</hi> Romain
+accordera-t-il à Cécilius et à Piaute
+un <hi rend="italic">droit</hi> enlevé (refusé)
+à Virgile et à Varius?
+<hi rend="italic">Et</hi> pourquoi moi,
+si je puis acquérir (créer)
+des <hi rend="italic">mots</hi> peu-nombreux (quelques mots)
+suis-je envié (blâmé) :  
+lorsque la langue
+de Caton et d’Ennius
+a enrichi le langage
+de-notre-pays (de-uos pères)
+et a mis-en-avant
+des noms nouveaux de choses?
+Il a été permis,
+et il sera permis toujours
+de produire (de mettre-en-circulation)
+un mot marqué
+d’un cachet présent (actuel).
+Quand les forêts
+sont changées (changent) de feuilles,
+vers le déclin-de l’année,
+les <hi rend="italic">feuilles venues-les-</hi>premiéres
+tombent <hi rend="italic">les premières :  
+</hi>ainsi périt (disparaît)
+la génération antique des mots,
+et les <hi rend="italic">mots</hi> nés récemment
+<pb n="11"/>
+florent vigentque
+ritu juvenum.
+Nos nostraque
+debemur morti.
+Sive Neptunus
+receptus terra
+arcet classes
+Aquilonibus,
+opus regis;
+palusve, diu sterilis
+aptaquoe remis,
+alit urbes vicinas,
+et sentit aratrum grave;
+seu amnis,
+doctus iter melius,
+mutavit cursum
+iniquum frugibus :  
+facta mortalia peribunt,
+nedum honos
+et gratia sermonum
+stet vivax.
+Multa vocabula,
+quæ cecidere jam,
+renascentur;
+quæque sunt
+in honore nunc,
+cadent,
+si usus, penes quem est
+arbitrium, et jus,
+et norma loquendi,
+volet.</p>
+						<p>Homerus monstravit
+quo numero
+res gestæ
+regumque ducumque,
+et bella tristia,
+possent scribi.</p>
+						<p>Querimonia primum
+post etiam
+sententia compos voti
+est inclusa versibus
+junctis impariter.
+Grammatici tamen
+certant
+quis auctor
+emiserit exiguos elegos,
+et lis est adhuc sub judice.
+fleurissent et ont-de-la-vigueur,
+à-la-manière des jeunes-gens.
+Nous et ce-qui-vieut-de-nous,
+nous sommes dus à la mort.
+Soit que Neptune (la mer)
+reçu dans <hi rend="italic">l’intérieur de</hi> la terre
+défende <hi rend="italic">nos</hi> flottes
+des Aquilons,
+ouvrage d’un roi;
+soit qu’un marais, longtemps stérile
+et propre aux rames (navigable),
+nourrisse les villes voisines.
+et sente la charrue pesante;
+soit qu’un fleuve (le Tibre),
+instruit <hi rend="italic">à suivre</hi> une voie meilleure,
+ait changé <hi rend="italic">son</hi> cours
+<hi rend="italic">jadis</hi> funeste aux moissons :  
+les ouvrages des-mortels périront,
+bien-loin-que l’éclat
+et le charme des mots
+se maintienne vivace.
+Beaucoup de mots,
+qui sont tombés déjà,
+renaîtront;
+et <hi rend="italic">des mots</hi> qui sont
+en honneur maintenant,
+tomberont <hi rend="italic">un jour,
+</hi>si l’usage, au-pouvoir duquel est
+la toute-puissance, et l’autorité,
+et la règle du parler,
+<hi rend="italic">le</hi> veut <hi rend="italic">ainsi.</hi></p>
+						<p>Homère a montré
+en quel rhythme (en quels vers)
+les actions faites (les exploits)
+es des rois et des chefs,
+et les guerres funestes,
+pouvaient (peuvent) être écrites.</p>
+						<p>La plainte d’abord,
+<hi rend="italic">et</hi> plus-tard aussi
+la pensée au-comble de <hi rend="italic">son</hi> vœu
+fut enfermée <hi rend="italic">en</hi> des vers
+joints inégalement.
+Les grammairiens cependant
+se disputent (ne-sout-pas-d’accord)
+pour <hi rend="italic">dire</hi> quel auteur
+a mis-au-jour les petites élégies,
+et le procès est encore sous le juge (à juger)</p>
+						<pb n="13"/>
+						<p>Rabies
+armavit Archilochum
+iambo proprio
+socci
+cothurnique grandes
+cepere hunc pedem,
+aptum sermonibus al ternis,
+et vincentem
+strepitus populares,
+et natum rebus agendis.</p>
+						<p>Musa dedit fidibus
+referre Divos,
+puerosque Deorum,
+et pugilem victorem,
+et equum primum
+certamine,
+et curas juvenum,
+et vina libera.</p>
+						<p>Cur ego
+salutor poeta,
+si nequeo ignoroque
+servare vices descriptas
+coloresquo
+operum?
+Cur,
+pudens prave,
+malo nescire
+quam discerc?</p>
+						<p>Res comica
+non vult exponi
+versibus tragicis;
+item, cæena Thyestæ
+indignatur narrari
+carminibus privatis
+ac prope dignis socco.
+Quæque singula
+teneant locum,
+sortita decenter.
+Interdum tamen
+et comœdia tollit vocem
+Chreraesqne iratus
+delitigat
+ore tumido;
+et pierumque
+tragicus
+dolet sermone pedestri :  
+Telcplms aut Peleus,</p>
+						<p>La rage (la soif de la vengeance)
+arma Archiloque
+de l’iarabe <hi rend="italic">qui lui est</hi> propre :  
+les brodequins (la comédie)
+et les cothurnes majestueux (la tragédie)
+prirent (adoptèrent) ce pied,
+propre anx discours dialogués
+et dominant
+les tumultes populaires,
+et né pour les choses à faire (pour l’action).</p>
+						<p>La Muse a donné aux lyres
+de rappeler (de chanter) les Dieux,
+et les enfants des Dieux,
+et l’athlète-en-pugilat vainqueur,
+et le cheval premier (victorieux)
+dans le combat <hi rend="italic">de la course</hi>, et les soucis des jeunes-gens,
+et les vins libres (qui rendent libre).</p>
+						<p><hi rend="italic">Mais</hi>, pourquoi moi
+suis-je (serais-je) salué poëte,
+si je-ne-puis et ne-sais-pas
+observer les caractères marqués
+et les tons <hi rend="italic">distincts
+</hi>des ouvrages (des genres différents)?
+Pourquoi.
+ayant-une-honte mauvaise,
+aimé-je mieux ne-pas-savoir
+que d’apprendre?</p>
+						<p>Un sujet comique
+ne vent pas être exposé
+en vers tragiques;
+de même, le repas de Thyeste
+s’indigne d’être raconté
+en vers familiers
+et presque dignes du brodequin.
+Que tous <hi rend="italic">les sujets,</hi> individuellement,
+gardent <hi rend="italic">leur</hi> place,
+l’ayant obtenue convenablement.
+Quelquefois, cependant,
+même la comédie élève la voix,
+et Chrémès irrite
+gourmande <hi rend="italic">son fils
+</hi>d’une bouche gonflée-par-la-coiére
+et bien-souvent <hi rend="italic">aussi
+</hi>l’acteur-tragique (la tragédie)
+se plaint en un langage pédestre
+Télèphe ou Pélée,
+<pb n="15"/>
+quum uterque
+pauper et exsul,
+projicit ampullas
+et verba sesquipedalia,
+si curat tetigisse
+querela
+cor spectantis.</p>
+						<p>Non est satis
+poemata esse pulchra;
+sunto dulcia,
+et agunto
+animura auditoris
+quocumque volent.
+Ut vultus humani
+arrident ridentibus,
+ita adflent flentibus.
+Si vis me flere,
+est dolendum
+tibi ipsi, primum :  
+tune, Telephe, vel Peleu,
+tua infortunia lædent me;
+si loqueris male
+mandata,
+aut dormitabo,
+aut ridebo.
+Verba tristia
+decent vultum mœstum;
+plena minarum,
+iratum;
+lasciva, ludentem;
+seria dictu,
+severum.
+Natura enim
+format nos intus prius
+ad omnem habitum
+fortunarum :  
+juvat,
+aut impellit ad iram,
+aut deducit ad humum
+mærore gravi,
+et angit;
+post, effert
+motus animi
+lingua interprète.
+Si dicta
+erunt absona
+fortunis
+lorsque l’un-et-l’antre
+est pauvre et exilé,
+rejette les paroles-amponlées
+et les mots d’un-pied-et-demi (l’emphase),
+s’il tient à émouvoir
+par <hi rend="italic">sa</hi> plainte
+le cœur du spectateur.</p>
+						<p>Ce n’est pas assez
+que les poëmes soient beaux;
+<hi rend="italic">il faut</hi> qu’ils soient touchants,
+et qu’ils entraînent
+l’âme de l’auditeur
+partout-où ils voudront.
+De même que les visages humains
+rient à ceux qui rient,
+do même ils pleurent à ceux qui pleurent :  
+Si tu veux que je pleure,
+une douleur-vroie-doit-être-expriraéc
+par toi-même, d’abord :  
+alors, Télèphe, ou Pélée,
+tes infortunes affligeront moi;
+<hi rend="italic">mais</hi> si tu dis mal
+les <hi rend="italic">choses qui te sont</hi> confiées (ton rôle),
+ou je m’endormirai,
+ou je rirai <hi rend="italic">de toi</hi>.
+Des paroles tristes
+conviennent à un visage chagrin;
+des <hi rend="italic"> paroles</hi> pleines de menaces,
+à un <hi rend="italic">visage</hi> irrité;
+des <hi rend="italic">paroles</hi> enjouées, à un <hi rend="italic">visage</hi> riant;
+des <hi rend="italic">choses</hi> sérieuses à dire,
+à un <hi rend="italic">visage</hi> sévère.
+La nature, en effet,
+forme nous intérieurement d’abord
+à toute manière-d’être-extérieure
+des <hi rend="italic">différentes</hi> fortunes :  
+elle nous réjouit,
+ou elle <hi rend="italic">nous</hi> pousse à la colère,
+ou elle <hi rend="italic">nous</hi> abaisse vers la terre
+par le chagrin pesant,
+et elle <hi rend="italic">nous</hi> tourmente;
+ensuite, elle exprime
+les mouvements de notre âme
+<hi rend="italic">avec</hi> la langue interprète.
+Si les <hi rend="italic">choses</hi> dites
+sont en-désaccord
+avec la fortune (la position)
+<pb n="17"/>
+dicentis,
+equites Romani
+peditesque
+tollent caehinnum.
+Intererit multum
+Davusne loquatur,
+an heros;
+senoxne maturus,
+au fervidus
+juventa adhuc florente;
+an matrona potens,
+an nutrix sedula;
+mercatorne vagus,
+cul tome
+agelli virentis;
+Colchus,
+an Assyrius;
+nutritus Thebis,
+an Argis.</p>
+						<p>Scriptor,
+aut sequere famam,
+aut finge
+convenientia sibi.
+Si forte reponis
+Achillem honoratum;
+impiger, iracundus,
+inexorabilis, acer,
+neget jura
+nata sibi,
+arroget non-nihil armis;
+Modea sit ferox
+invictaque,
+Ino flebilis,
+Ixion perfidus,
+Io vaga,
+Orestes tristis.</p>
+						<p>Si committis scenæ
+quid inexpertum,
+et audes formare
+personam novam :  
+servetur
+ad imum
+qualis processerit
+ab incepto,
+ol constet sibi.
+Est difficile dicere
+proprie
+de celui qui <hi rend="italic">les</hi> dit,
+les chevaliers Romains
+et les piétons (les plébéiens)
+pousseront un éclat-de-rire.
+<hi rend="italic">Cela</hi> différera beaucoup
+si <hi rend="italic">c’est</hi> Dave <hi rend="italic">qui</hi> parle,
+ou un héros;
+si <hi rend="italic">c’est</hi> un vieillard mûri <hi rend="italic">par l’âge,
+</hi>ou un <hi rend="italic">homme</hi> bouillant
+d’une jeunesse encore dans-sa-fleur;
+si <hi rend="italic">c’est</hi> une dame puissante,
+ou une nourrice attentive (humble);
+si <hi rend="italic">c’est</hi> un marchand courant-le-moude
+ou le cultivateur
+d’un petit-champ verdoyant;
+si <hi rend="italic">c’est</hi> un habitant-de-la-Colchide,
+ou un Assyrien;
+un <hi rend="italic">homme</hi> nourri (élevé) à Thèbes,
+ou <hi rend="italic">un homme nourri</hi> dans Argos.</p>
+						<p>Écrivain,
+ou suis la renommée (la tradition),
+ou invente <hi rend="italic">des choses
+</hi>qui-soient-d’accord-avoc elles-mêmes.
+Si par hasard tu remets <hi rend="italic">en sène
+</hi>Achille vengé;
+<hi rend="italic">qu’il soit</hi> ardent, colère,
+inexorable, impétueux;
+qu’il nie que le· lois
+soient nées (soient faites) pour lui,
+qu’il s’arroge tout par les armes;
+que Médée soit fière
+et invaincue (inflexible),
+ <hi rend="italic">qu’</hi>Ino <hi rend="italic">soit</hi> gémissante,
+ <hi rend="italic">qu’</hi>lxion <hi rend="italic">soit</hi> perfide,
+<hi rend="italic">qu</hi>’lo <hi rend="italic">soit</hi> vagabonde,
+ <hi rend="italic">qu’</hi>Oreste <hi rend="italic">soit</hi> sombre.</p>
+						<p>Si tu confies à la scène
+quelque-<hi rend="italic">sujet</hi> non-<hi rend="italic">encore</hi>-traité,
+et si tu oses créer
+un personnage nouveau :  
+qu’il soit maintenu
+jusqu’en bas (jusqu’à la fin)
+tel qu’il se sera avancé (montré)
+dès le commencement,
+et qu’il soit-fidèle à lui-même.
+Il est difficile de traiter (de créer)
+d’une-manière-propre-et-déteviuinée
+<pb n="19"/>
+communia,
+tuque, deducis in actus
+carmen Iliacum
+rectius,
+quam si, primus,
+proferres
+ignota
+indictaque.
+Materies publica
+erit juris privati
+si non moraberis
+circa orbem vilem
+patulumque;
+nec curabis,
+interpres fidus,
+reddere verbum verbo;
+nec desilies,
+imitator,
+in arctum
+unde pudor,
+eut lex operis
+vetet proferre pedem.
+Nec incipies sic,
+ut olim scriptor cyclicus :  
+« Cantabo
+« fortunam Priami
+« et bellum nobile.. »
+quid hic promissor ferel
+dignum
+hiatu tanto?
+Montes
+parturiunt :  
+mus ridiculus nascetur.
+Quanto rectius
+hic qui molitur nil
+inepte :  
+« Musa, dic mihi virum
+« qui, post tempora
+« Trojæ captæ,
+« vidit mores et urbes
+« hominum multorum.
+Non cogitat
+dare fumum ex fulgore,
+sod lucem ex fumo,
+ut promat dehinc
+miracola speciosa :  
+Autiphaten Scyllamque,
+les <hi rend="italic">caractères</hi> géuéraux-et-abstraits;
+et toi, tu mets en actes (en tragédie)
+un poëme tiré-de-l’Iliade
+avec-plus-de-raison
+que si, le premier,
+tu mettais-en-avant
+des <hi rend="italic">choses</hi> inconnues
+et non-encore-traitées.
+Un sujet public
+sera de <hi rend="italic">ton</hi> droit privé (sera tien),
+si tu ne restes pas
+dans l’ornière banale
+et ouverte à <hi rend="italic">tout le monde;
+</hi>et <hi rend="italic">si</hi> tu ne t’attaches pas,
+interprète <hi rend="italic">trop</hi> fidèle,
+à rendre mot pour mot;
+et <hi rend="italic">si</hi> tu ne te jettes pas,
+imitateur <hi rend="italic">servile</hi>,
+dans un <hi rend="italic">cercle</hi> étroit (une difficulté)
+d’où la honte,
+ou la loi de l’ouvrage (le plan du poème)
+t’empêche de retirer le pied.
+Et tu ne commenceras pas ainsi,
+comme autrefois un poëte cyclique :  
+« Je chanterai (je vais chanter)
+« la fortune (les malheurs) do Priam
+« et <hi rend="italic">celle</hi> guerre mémorable... »
+quelle chose ce prometteur produira-t-il
+qui <hi rend="italic">soit</hi> digne
+d’une ouverture-de-bouche aussi-grande?
+Les montagnes
+sont-en-travail-d’enfunt :  
+un rat ridicule naîtra <hi rend="italic">d’elles.
+</hi>Combien mieux <hi rend="italic">il agit.
+</hi>ce <hi rend="italic">poëte</hi> qui n’entreprend rien
+d’une manière ridicule :  
+« Muse, dis (chante) à moi le heros,
+« qui, après les temps (l’époque)
+« de Troie prise,
+« vit (observa) les mœurs et les villes
+« d’hommes (de peuples) nombreux.
+Il ne songe pas, lui,
+à donner la fumée après la lumière,
+mais la lumière après la fumée,
+afin d’étaler ensuite
+des merveilles éclatantes :  
+savoir, Antiphate et Scylla.
+<pb n="21"/>
+et Charybdim cum Cyclope.
+Nec orditur
+reditum Diomedis
+ab interitu Meleagri,
+nec bellum Trojanum
+ab ovo gemiuo.
+Festinat semper
+ad eventum,
+et rapit auditorem
+in res médias,
+non secus ac notas;
+et relinquit
+quæ desperat
+posse nitescere,
+tractata.
+Atque mentitur ita,
+remiscet falsa veris
+sic,
+ne medium discrepet
+primo,
+ne imum medio.</p>
+						<p>Tu, audi
+quid ego
+etpopulus desideret mecum.
+Si eges plausoris
+manentis aulæa,
+et sessuri usque
+donec cantor dicat :  
+<hi rend="italic">Vos plaudite!
+</hi>mores cujusque ætatis
+sunt notandi tibi,
+decorque dandus
+naturis et annis
+mobilibus.</p>
+						<p>Puer, qui soit jam
+reddere voces,
+et signât huraum
+pede certo,
+gestit
+colludere paribus,
+et colligit iram
+ac ponit temere,
+et mutatur
+in horas.</p>
+						<p>Juvenis imberbus,
+custode remoto
+tandem,
+et Charybde avec le Cyclope.
+Et il ne commence pas
+le retour de Diomède
+à la mort de Méléagre,
+ni la guerre de-Troie
+à l’œuf double <hi rend="italic">de Lédn.
+</hi>Il se hâte toujours
+vers l’événement,
+et il entraîne <hi rend="italic">son</hi> auditeur
+au milieu des faits,
+non autrement que <hi rend="italic">s’ils lui étaient</hi> connus
+et il abandonne (il sacrifie)
+les <hi rend="italic">choses</hi> lesquelles il n’espère-pas
+pouvoir jeter-de-l’éclat,
+<hi rend="italic">si elles étaient</hi> traitées.
+Et il ment (il invente) de telle-manière
+il mêle les fictions aux <hi rend="italic">choses</hi> vraies
+de-telle-manière,
+que le milieu n’est-pas-en-désaccord
+avec le commencement,
+ni la fin avec le milieu.</p>
+						<p>Toi, apprends (sache)
+ce-que j’<hi rend="italic">exige,</hi> moi,
+et <hi rend="italic">ce que</hi> le peuple exige avec moi.
+Si tu désires un approbateur
+qui attende les rideaux (la fin),
+et qui-doive-rester-assis toujours
+jusqu’à-ce-que le chanteur dise :  
+« <hi rend="italic">Vous, applaudissez!</hi> »
+les mœurs de chaque âge
+doivent être observées par toi,
+et la couleur-propre doit être donnée
+aux caractères et aux années
+qui-changent.</p>
+						<p>L’enfant, qui sait déjà
+prononcer les mots,
+et <hi rend="italic">qui</hi> marque la terre
+d’un pied assuré,
+désire-ardemment
+jouer-avec ses égaux-d’âge,
+et il prend la colère
+et il <hi rend="italic">la</hi> quitte sans-réflexion,
+et il est changé (il change)
+d’heure-en-heure (à chaque instant</p>
+						<p>Le jeune-homme imberbe,
+quand  <hi rend="italic">son</hi> gouverneur a été éloigné
+enfin,
+<pb n="23"/>
+gaudet equis
+canibusque, et gramine
+Campi aprici;
+cereus
+flecti in vitium,
+asper monitoribus,
+provisor tardus’
+utilium,
+prodigus œris,
+sublimis cupidusque,
+et pernix relinquere
+amata.</p>
+						<p>Studiis conversis,
+ætas virilis animusque
+quærit opes
+et amicitias,
+inservit honori,
+cavet commisisse
+quod mox
+laboret mutare.</p>
+						<p>Incommoda multa
+circumveniunt senem :  
+vel quod quærit,
+et miser
+abstinet inventis,
+ac timet uti;
+vel quod ministrat
+omnes res
+timide gelideque,
+dilator,
+lentus spe,
+iners,
+pavidusque futuri,
+difficilis, querulus,
+laudator temporis acti
+se puero,
+censor castigatorque
+minorum.</p>
+						<p>Anni venientes
+feront secum
+commoda multa;
+recedentes,
+adimunt multa.
+Ne partes senties
+mandentur
+forte juveni,
+virilesquo puero
+est charmé par les chevaux,
+et par les chiens, et par le gazon
+du Champ-<hi rend="italic">de-Mars</hi> exposé au soleil;
+<hi rend="italic">il est</hi> de-cire (flexible comme la cire)
+à être plié (façonné) au vice,
+récalcitrant à ceux qui-l’avei lissent,
+pourvoyeur tardif
+des <hi rend="italic">choses</hi> utiles,
+prodigue d’argent,
+présomptueux et plein-de-désirs,
+et prompt à quitter
+les <hi rend="italic">choses qu’il a</hi> aimées.</p>
+						<p><hi rend="italic">Ces</hi> goûts étant changés,
+l’Age viril et le caractère <hi rend="italic">ririt
+</hi>recherche le crédit
+et les amitiés <hi rend="italic">utiles,
+</hi>il est-esclave des honneurs,
+<hi rend="italic">et</hi> prend-garde de commettre
+une <hi rend="italic">chose</hi> que bientôt
+il aurait-la-peine do changer.</p>
+						<p>Des inconvénients nombreux
+entourent le vieillard :  
+soit parce qu’il amasse,
+et <hi rend="italic">que,</hi> malheureux
+il s’abstient des <hi rend="italic">choses</hi> amassées,
+et craint d’en user (d’en jouir);
+soit parce qu’il administre
+toutes les affaires
+timidement et d’une-manière-glacée.
+temporisent,
+lent dans l’espérance (espérant peu),
+sans-énergie (irrésolu),
+et ayant-peur de l’avenir,
+difficile, se-plaignant-toujours,
+louangeur du temps passé
+<hi rend="italic">quand</hi> lui-même <hi rend="italic">était</hi> enfant,
+censeur et grondeur
+des <hi rend="italic">personnes</hi> plus jeunes.</p>
+						<p>Les années <hi rend="italic">en</hi> venant
+<hi rend="italic">nous</hi> apportent avec elles
+des avantages nombreux;
+<hi rend="italic">et en</hi> s’en retournant (en déclinant)
+elles <hi rend="italic">nous en</hi> ôtent beaucoup aussi.
+Pour qu’un rôle de-vieillard
+ne soit pas confié
+par hasard à un jeune-homme,
+ni un <hi rend="italic">rôls</hi> d’homme-fait á un enfant
+<pb n="25"/>
+morabimur semper
+in adjunctis
+aptisque ævo.</p>
+						<p>Autres agitur in scenis,
+aut, acta,
+refertur.
+Demissa per aurem
+irritant animos segnius,
+quam quæ sunt subjecta
+oculis fidelibus,
+et quæ spectator
+ipse tradit sibi :  
+tamen
+non promes in scenam
+digna geri intus;
+tollesque ex oculis
+inulta, quæ facundia
+præsens
+n arret mox.
+Ne Medea trucidet pueros
+coram populo;
+aut nefarius Atreus
+coquat palam
+exta humana;
+aut Proene
+vertatur in avem,
+Cadmus in anguem :  
+odi, incredulus,
+quodcumque ostendis mihi
+sic.</p>
+						<p>Fabula,
+quæ vult posci,
+et, spectata,
+reponi,
+ne sit minerve
+neu production
+actu quinto.
+Nec Deus intersit,
+nisi nodus
+dignus vindice
+inciderit;
+Bec quarta persona
+laboret loqui.</p>
+						<p>Chorus defendat
+partes officiumque virile
+actoris;
+neu intercinat
+nous nous tiendrons toujours
+dans les <hi rend="italic">caractères</hi> assortis
+et propres à <hi rend="italic">chaque</hi> âge.</p>
+						<p>Ou une action se passe sur la scène.
+ou bien, ayant été faite,
+elley est racontée.
+<hi rend="italic">Les choses</hi> qu’on-fait-ontrer par l’oreille
+impressionnent l’esprit moins-vivemem,
+que celles-qui sont soumises
+aux yeux fidèles,
+et que le spectateur
+lui-même transmet à soi-même :  
+cependant
+tu ne mettras pas sur la scène
+les <hi rend="italic"> choses</hi> qui doiventétre faites au-dedans;
+et tu éloigneras des yeux
+bien <hi rend="italic">des choses</hi>, qu’un récit
+rendant-les-objots-présents
+racontera bientôt.
+Que Médée n’égorge pas <hi rend="italic">ses</hi> enfanta
+en-présence du peuple;
+ou que le criminel Atrée
+<hi rend="italic">ne fasse-pas-</hi>bouillir en-public
+des entrailles humaines;
+ou bien que Proené
+<hi rend="italic">ne</hi> soit <hi rend="italic">pas</hi> changée en oiseau,
+<hi rend="italic">ni</hi> Cadmus en serpent :  
+je hais (je repousse), incrédule,
+tout ce que tu montres à moi
+de-cette-manière.</p>
+						<p>Qu’une pièce-do-théâtre,
+qui veut être <hi rend="italic">re</hi>demandée,
+et, ayant été vue <hi rend="italic">déjà,
+</hi>être remise <hi rend="italic">la scène,
+</hi>ne soit ni plus courte
+ni plus longue
+que l’acte cinquième (cinq actes)
+Et qu’un Dieu <hi rend="italic">n’y</hi> intervienne pas,
+à moins qu’un nœud
+digne d’un <hi rend="italic">tel</hi> libérateur
+ne se soit présenté;
+et qu’un quatrième personnage
+ne s’efforce pas de parler.</p>
+						<p>Que le Chœur défende (remplisse)
+le rôle et l’office individuel
+d’un <hi rend="italic">seul</hi> acteur;
+et qu’il ne chante-pas-entre
+<pb n="27"/>
+medios actus
+quid, quod non conducat
+et hæreat apte
+proposito.
+Ille
+faveatque bonis,
+et consilietur amice,
+et regat iratos,
+et amet
+timentes peccare;
+ille laudet dapes
+mensæ brevis;
+ille justitiam salubrem,
+legesque, et otia
+portis apertis;
+ille tegat commise,
+preceturque et oret Deos
+ut fortuna
+redeat miseris,
+abeat superbis.</p>
+						<p>Tibia, nonvincta
+orichaico,
+æmulaque tubæ,
+ut nunc,
+sed tennis simples que
+foramine panco,
+erat utilis
+adspirare choris
+et adosse,
+atque cotnplere flatu
+sedilia
+nondum nimis spissa,
+quo coibat populus
+numerabilis sane,
+utpote parus,
+et frugi,
+castusque,
+verecundusque.
+Postquam, victor,
+cœpit exteudere
+agros,
+et murus latior
+amplecti Urbem,
+Geniusque
+placari impune,
+diebus festis,
+vino diurno :  
+le milieu des actes
+quelque chose qui ne soit-pas-utile
+et <hi rend="italic">ne</hi> se rattache <hi rend="italic">pas</hi> étroitement
+au sujet <hi rend="italic">de la pièce.
+</hi>Que lui (le Chœur)
+et favorise les bons,
+et <hi rend="italic">les</hi> conseille amicalement,
+et qu’il modère les <hi rend="italic">esprits</hi> irrités,
+et qu’il aime
+ceux qui craignent de faire-le-ma!
+qu’il vante les mets
+d’une table courte (frugale);
+<hi rend="italic">qu’il vante</hi> la justice salutaire,
+et les lois, et les loisirs <hi rend="italic">de la paix
+</hi>aux portes ouvertes;
+qu’il cache les <hi rend="italic">choses</hi> confiées <hi rend="italic">à lui,
+</hi>et qu’il prie et supplie les Dieux
+<hi rend="italic">de faire</hi> que la fortune
+revienne aux malheureux,
+<hi rend="italic">et</hi> qu’elle s’éloigne des orgueilleux.</p>
+						<p>La flûte, non attachée
+avec du laiton,
+et rivale de la trompette,
+comme maintenant,
+mais faible et simple
+par <hi rend="italic">ses</hi> trous peu-nombreux,
+était utile
+pour donner-le-ton aux chœurs
+et pour <hi rend="italic">les</hi> accompagner,
+et pour remplir de <hi rend="italic">son</hi> souffle
+les sièges (les gradins)
+non-encore trop serrés,
+où se réunissait un peuple
+qu’on-pouvait-compter certainement,
+attendu qu’il <hi rend="italic">était</hi> petit,
+et sobre (et frugal),
+et chaste (et vertueux),
+et plein-de-retenue.
+Après que <hi rend="italic">ce méme peuple,</hi> vainqueur
+eut commencé à étendre
+<hi rend="italic">ses</hi> champs (son territoire),
+et qu’un mur plus vaste
+<hi rend="italic">eut commencé</hi> à entourer la ville (Rome)
+et <hi rend="italic">que</hi> le Génie (le dieu de la joie)
+<hi rend="italic">eut commencé</hi> à être apaisé impunément,
+les jours de-fête,
+avec du vin hu-toute-la-iournée :  
+<pb n="29"/>
+licentia major accessit
+numerisque
+modisque.
+Quid enim saperet
+rusticus indoctus
+liberque laborum,
+confusus urbano,
+turpis honesto?
+Sic tibicen
+addidit arti priseæ
+motumque,
+et luxuriem;
+vagusque
+traxit vestem
+per pulpita.
+Sic etiam
+voces crevere
+fidibus severis,
+etfacundia prœceps
+tulit eloquium insolitum;
+sententiaque,
+sagax
+rerum utilium
+et divina futuri,
+non discrepuit
+Delphis sortilegis.</p>
+						<p>Qui certavit
+carmine tragico
+ob hircum vilem,
+mox etiam nudavit
+Satyros agrestes,
+et, asper,
+tentavit jocum,
+gravitate incolumi.
+eo quod spectator
+functusque sacris
+et potus,
+et exlex,
+erat morandus
+illecebris
+et novitate grata.
+Verum conveniet
+commendare ita
+Satyros risores,
+ita
+dicaces,
+vertere
+une licence plus grande s’ajouta
+et aux nombres (aux vers),
+et aux mesures (au chant).
+Quelle chose, eu effet, pouvait-goûter
+le paysan ignorant
+et libre de <hi rend="italic">ses</hi> travaux,
+mêlé au citadin,
+l’<hi rend="italic">homme</hi> grossier <hi rend="italic">mêlé</hi> à l’<hi rend="italic">homme</hi> poli?
+Ainsi le joueur-de-flûte
+ajouta à <hi rend="italic">son</hi> art ancien
+et le mouvement (la danse),
+et le luxe <hi rend="italic">du costume,
+</hi>et se-promenant
+il traîna une <hi rend="italic">longue</hi> robe
+sur les théâtres.
+Ainsi, encore,
+les voix (les tons) s’accrurent
+aux lyres <hi rend="italic">jadis</hi> sévères,
+et l’éloquence rapide
+prit un langage inaccoutumé;
+et la pensée <hi rend="italic">du Chœur,
+</hi>pleine-de-sagacité
+dans les choses (les conseils) utiles
+et prophétisant l’avenir,
+ne différa point (ne différa plus)
+<hi rend="italic">du ton</hi> de Delphes qui-rend-des-oracle.</p>
+						<p>Celui qui combattit
+en vers tragiques
+peur un bouc vil,
+bientôt aussi montra-nus
+les Satyres champêtres;
+et, railleur-caustique,
+il essaya un genre-plaisant,
+la gravité <hi rend="italic">de la tragédie</hi> étant sauve :  
+par ce <hi rend="italic">motif</hi> qu’un spectateur
+et s’étant acquitté des sacrifices,
+et ayant bien bu,
+et <hi rend="italic">étant</hi> au-dessus-des lois (sans retenu)
+devait être intéressé (amusé)
+par des charmes <hi rend="italic">nouveaux
+</hi>et par une nouveauté attrayante.
+Mais il conviendra
+de confier <hi rend="italic">a la scène</hi> de-telle-façon
+les Satyres moqueurs,
+de-teile-façon <hi rend="italic">les Satyres
+</hi>diseurs-de-bons-mots,
+<hi rend="italic">il conviendra</hi> de tourner
+<pb n="31"/>
+séria ludo
+ita, ne
+quicumque deus,
+quicumque heros
+adhibebitur,
+conspectus imper
+in auro regali
+et ostro,
+migret sermone humih
+in tabernas obscuras;
+aut captet
+nubes et inania,
+dum vitat humum
+Tragœdia,
+indigna effutire
+versus leves,
+intererit
+Satyris protervis
+paulum pudibunda,
+ut matrona
+jussa moveri
+diebus festis.</p>
+						<p>Ego, Pisones,
+soriplor Satyrorum,
+non amabo solum
+nomina verbaque
+inornata et dominantia;
+nec enitar
+differre colori tragico,
+sic ut nihil intersit
+Davusne loquatur,
+et andax Pythias
+lucrata talentum
+Simone emuncto,
+au Silenus,
+custos famulusque
+Dei alumni.
+Sequar
+carmen fetum
+ex noto,
+ut quivis
+aperet idem sibi,
+sudet multum
+laboretque frustra
+ausus idem :  
+tantum series juncturaque
+vollet!
+les <hi rend="italic">choses</hi> sérieuses à la plaisanterie
+de telle façon, que,
+u’importe-quel dieu,
+n’importe-quel héros
+sera mis-en-scène,
+ayant été vu tout-à-l’heure
+dans l’or des-rois
+et dans la pourpre,
+<hi rend="italic">il</hi> ne passe point par un langage trivial
+dans les cabarets enfumés;
+ou qu’il <hi rend="italic">ne</hi>-cherche-<hi rend="italic">pas</hi>-à-saisir
+les nues et les <hi rend="italic">espaces</hi> vides,
+tandis qu’il évite la terre.
+La tragédie,
+qui-ne-doit-pas débiter-à-la-légère
+des vers burlesques,
+se trouvera-parmi
+les Satyres impudents
+un-peu rougissante-de-honte,
+comme une dame <hi rend="italic">romaine</hi> 
+obligée de danser
+aux jours de fête.</p>
+						<p><hi rend="italic">Pour</hi> moi, Tisons,
+auteur de <hi rend="italic">drames-</hi>satyres,
+je n’aimerai pas exclusivement
+des mots et des termes
+dépourvus-d’ornement et vulgaires;
+et je ne m’efforcerai pas <hi rend="italic">non plus</hi>
+de m’éloigner du ton de-la-tragédie,
+de telle façon que rien ne diffère,
+si <hi rend="italic">c’est</hi> Dave <hi rend="italic">qui</hi> parle,
+et l’effrontée Pythias
+qui a attrapé un talent
+au <hi rend="italic">vieux</hi> Simon dupé,
+ou bien <hi rend="italic">si c’est</hi> Silène,
+gardien et serviteur
+du Dieu (Bacchus) jon nourrisson.
+Je suivrai (je développerai)
+<hi rend="italic">mon</hi> poëme inventé (ma fable),
+d’après un <hi rend="italic">sujet</hi> connu,
+de manière que le-premier-venu
+puisse-espérer le même <hi rend="italic">succès</hi> pour lui,
+<hi rend="italic">mais</hi> qu’il sue beaucoup
+et qu’il travaille en-vain,
+ayant osé <hi rend="italic">tenter</hi> la même chose :  
+tant l’enchainement et l’ensemble
+ont-de-force (de valeur)!
+<pb n="33"/>
+tantum honoris accedit
+sumptis de medio!</p>
+						<p>Fauni,
+deducti sylvis,
+eaveant,
+me judice,
+ne unquam,
+velut innati triviis
+se pene forense,
+aut juvenentur 
+versibus nimium teneris,
+aut crepent
+dicta immunda
+ignominiosaque.
+Enim
+quibus est equus,
+et pater,
+et res,
+offenduntur;
+et, si emptor ciceris fricti
+et nucis
+probat quid,
+non accipiunt
+animis œquis
+donantve
+corona.</p>
+						<p>subjecta brevi,
+vocatur iambus,
+pes citus :  
+unde etiam
+jussit nomen trimetris
+accrescere iambeis,
+quum
+redderet senos ictus,
+similis sibi
+primus ad extremum.
+Non ita pridem,
+ut
+veniret ad aures
+paulo tardior
+graviorque,
+recepit in jura paterna
+spondeos stabiles,
+commodus et patiens :  
+non ut cederet
+socialter
+tant d’honneur (de beauté) s’ajoute
+auxchoses prises du milieu (du commun)!</p>
+						<p>Que les Faunes,
+tirés de <hi rend="italic">leurs</hi> forêts,
+prennent-<hi rend="italic">bien</hi>-garde,
+moi <hi rend="italic">étant</hi> juge (je le leur conseille),
+que jamais,
+comme <hi rend="italic">s’ils étaient</hi> nés dans les carrefour
+et presque-enfants-du-forum,
+où ils ne fassent-les-galants
+par des vers trop tendres,
+où ils ne lâchent-bruyamment
+des paroles obscènes
+et indécentes.
+En effet
+ceux à qui est un cheval (les chevaliers)
+et à <hi rend="italic">qui est</hi> un père <hi rend="italic">sénateur,
+</hi>et <hi rend="italic">à qui est</hi> de la fortune,
+sont offensés <hi rend="italic">de cela;
+</hi>et, si l’acheteur de pois frits
+et de noix
+approuve une chose
+ils ue l’accueillent pas <hi rend="italic">pour cela
+</hi>avec des esprits favorables,
+ou (et) <hi rend="italic">ne la</hi> récompensent <hi rend="italic">pas
+</hi>d’une couronne.</p>
+						<p>Une syllabe longue,
+mise-après une brève,
+est appelée ïambe,
+pied rapide :  
+d’où même (et à cause de sa rapiditémême)
+<hi rend="italic">l’tambe</hi> a fait que le nom de trimètre
+s’ajoutât aux <hi rend="italic">vers</hi> iambiques,
+quoique, <hi rend="italic">dans ces vers trimètres,
+</hi>il rendît six coups (fût répété six fois)
+<hi rend="italic">étant</hi> semblable à lui-même
+<hi rend="italic">depuis</hi> le premier <hi rend="italic">pied</hi> jusqu’au dernier
+<hi rend="italic">Il n’y a</hi> pas si longtemps,
+pour que le <hi rend="italic">vert iarabique</hi>
+arrivât aux oreilles
+un peu plus lent
+et plus grave,
+il a reçu dans <hi rend="italic">ses</hi> droits paternels
+les spondées lourds,
+complaisant et patient;
+mais pas au point qu’il se retirât
+en-ami-trop commode,
+<pb n="35"/>
+de seconda sede, aut quata.
+Hic
+apparet rarus
+in trimetris nobilibus
+et Acci, et Enni.
+Versus missus in scenam
+cum pondere magno,
+premit
+crimine turpi
+aut operæ nimium coloris
+carentisque cura,
+aut artis ignoratæ.</p>
+						<p>Quivis judex
+non videt
+poemata immodulata;
+et venia indigna
+est data poetis Romanit.
+Idcircone
+vager,
+scribamque
+licentor?
+an putem omnes
+visuros mea peccata,
+tutus et cautus
+intra spem veniæ?
+Denique
+vitavi culpam,
+non merui laudem.
+Vos, versate
+manu nocturna,
+exemplaria Græca,
+versate
+diurna.
+At nostri proavi
+laudavere et numéros
+et sales Plautinos,
+mirati utrumque
+nimium patienter,
+ne dicam stulte :  
+si modo vos et ego
+scimus seponere
+inurbaunm dicto lepido,
+callemusque
+digitis et aure
+sonum legitimum.</p>
+						<p>Thespis dicitur invenisse
+genus ignotum
+ae ia seconde place, ou de la quatrième.
+Ce <hi rend="italic">vers iambique</hi>
+se montre rare (rarement)
+dans les trmètres <hi rend="italic">si</hi> vantés
+et d’Accius, et d’Ennius.
+Un vers jeté sur la scène
+avec une pesanteur <hi rend="italic">trop</hi> grande
+accable <hi rend="italic">l’auteur
+</hi>de l’accusation honteuse
+soit d’un travail trop rapide
+et qui manque do soin,
+soit de l’artignoré (d’ignorance de l’art</p>
+						<p>N’importe-quel juge (le premier venu
+ne voit pas (ne sent pas)
+les poëmes mal-cadencés;
+et une indulgence non-méritée
+a été accordée à des poëtes Romains
+Est-ce que, pour-cette-raison,
+je m’écarterai <hi rend="italic">des règles,
+</hi>et est-ce que j’écrirai
+avec <hi rend="italic">trop-de-</hi>liberté?
+ou penserai-je que tout-le-monde
+verra mes fautes,
+tranquille <hi rend="italic">cependant</hi> et rassuré
+dans l’espoir <hi rend="italic">que j’ai</hi> du pardon?
+<hi rend="italic">De celle manière,</hi> en définitive,
+j’ai (j’aurai) évité les fautes,
+<hi rend="italic">mais</hi> je n’aurai pas mérité de louange.
+Vous, feuilletez (étudiez)
+avec une main travaillant-la-nuit,
+les modèles grecs,
+feuilletez-<hi rend="italic">les</hi> (étudiez-les)
+<hi rend="italic">avec une main</hi> travaillant-le-jour.
+Mais nos ancêtres
+ont loué et les vers
+et les bons-mots de-Plaute,
+admirant l’une et l’autre <hi rend="italic">chose
+</hi>trop complaisamment,
+pour ne pas dire sottement;
+pour-peu que vous et moi
+nous sachions distinguer
+un <hi rend="italic">mot</hi> grossier d’un mot plaisant,
+et <hi rend="italic">que</hi> nous sachions <hi rend="italic">juger
+</hi>par les doigts et par l’oreillo
+un son légitime (juste).</p>
+						<p>Thespis est dit avoir inventé
+le genre <hi rend="italic">auparavant</hi> inconnu
+<pb n="37"/>
+Camœnæ tragicæ,
+et vexlsse plaustris
+qui,
+peruncti fæcibus ora,
+canerent poemata
+agerentque.
+Post hunc, Æschylus.
+repertor personæ
+pallæque honestœ,
+et instravit pulpita
+tignis modicis,
+et docuit
+loquique magnum,
+nitique cothurno.
+His
+successit Comœdia Vetus,
+non sine multa laude;
+sed libertas excidit
+in ritium,
+et vira
+dignam régi lege :  
+lex accepta est,
+Chorusqueobticuitturpiter,
+jure nocendi sublato.
+Nostri poetæ liquere nil
+intentatum,
+nec moruere
+minimum decus,
+ausi deserere
+vestigia Grœce
+et celebrare
+facta domestica,
+vel qui docuere
+prætextas,
+vel qui
+togatas.
+Nec Latium foret
+potentius virtute
+armisve claris
+quam lingua,
+si labor limæ
+et mora
+non offenderet
+unumquemque poetarum.
+O vos,
+sanguis Pompilius,
+reprehendite carmen,
+de la Muse tragique de la tragédie),
+et avoir porté sur des chariots
+des <hi rend="italic">acteurs</hi> qui,
+barbouillés de lie <hi rend="italic">quant</hi> à <hi rend="italic">leurs</hi> visages,
+chantaient <hi rend="italic">ses</hi> poëmes
+et <hi rend="italic">les</hi> représentaient.
+Après lui, Eschyle,
+l’inventeur du masque
+et de la robe magnitique,
+non-seulement disposa la scène
+sur des tréteaux modestes,
+mais-encore enseigna
+et à parler noblement,
+et à se tenir sur le cothurne.
+A ces <hi rend="italic">deux poêtes
+</hi>succéda la Comédie Antique,
+non sans une grande gloire;
+mais la liberté tomba
+dans le vice (dans l’abus),
+et <hi rend="italic">dans</hi> une violence
+qui-mérita d’être modérée par une loi :  
+la loi fut reçue,
+et le Chœur se tut honteusement,
+le droit de nuire <hi rend="italic">lui</hi> étant enlevé.
+Nos poëtes n’ont laissé aucun-sujet
+saus-le-tenter (sans s’y essayer);
+et ils n’ont pas mérité
+<hi rend="italic">leur</hi> moindre gloire (ou peu de gloire),
+en-osant abandonner
+les vestiges des-Grecs,
+et <hi rend="italic">en-osant</hi> célébrer
+des sujets nationaux,
+soit ceux qui donnoèrent-<hi rend="italic">les-premiers</hi>
+des-pièces-jouées-avec-la-prétexte,
+soit ceux qui <hi rend="italic">donnèrent-les-premiers
+</hi>des-pièces-jouées-avec-la-toge.
+Et le Latium ne serait pas
+plus puissant par <hi rend="italic">sa</hi> valeur
+ni par <hi rend="italic">ses</hi> armes glorieuses
+quo par <hi rend="italic">sa</hi> littérature,
+si le travail de la litre
+et le temps <hi rend="italic">qu’il faut mettre à corriger
+</hi>ne rebutaient pas
+un-chacun de nos poëtes.
+O vous,
+<hi rend="italic">qu’il êtes le</hi> sang de.Numa Pompiliu,
+censurez des vers
+<pb n="39"/>
+quod multa dies
+et multa litura
+non coercuit,
+atque non castigavit
+ad unguem,
+præsectum decies.</p>
+						<p>Quia Democritus
+crédit ingenium
+fortunatius
+arte misera,
+et excludit Helicone
+poetas sanos,
+bona pars curat
+non ponere ungues,
+non barbam;
+petit loca secreta;
+vitat balnea.
+Nanciscctur enim
+pretium nomenque poetœ,
+si nunquam commiserit
+tonsori Licino
+caput insanabile
+tribus Anticyris.
+0 ego lœvus.
+qui purgor bilem
+sub horam temporis verni!
+Non ali us faceret
+poemata meliora.
+Verum nil est
+tanti.
+Ergo fungar
+vice cotis.
+quæ valet
+reddere ferrum acutum,
+exsors ipsa
+secandi :  
+ipse, scribens nil,
+docebo munus
+et officium :  
+unde
+opes parentur;
+quid alat
+formetque poetam;
+quid deceat, quid non,
+quo virtus ferat, quo error.</p>
+						<p>Sapere,
+est et principium
+que beaucoup de jours
+et beaucoup de ratures
+n’ont pas corrigés
+et n’ont pas châtiés
+à l’ongle (parfaitement),
+après qu’ils ont été rognés dix fois.</p>
+						<p>Parce que Démocrite
+croit (prétend) <hi rend="italic">que</hi> le génie
+<hi rend="italic">est</hi> plus heureux (plus fécond)
+que l’art misérable,
+et <hi rend="italic">parce qu’</hi> il exclut de l’Hélicon
+les poëtes sains-d’esprit,
+une bonne partie <hi rend="italic">de nos poêles</hi> a-bien-solu
+de ne pas quitter <hi rend="italic">(couper) ses</hi> ongles,
+de ne pas <hi rend="italic">quitter (couper) sa</hi> barbe;
+ils recherchent les endroits écartés;
+ils évitent les bains.
+<hi rend="italic">Tel</hi> en effet trouvera
+la gloire et le nom de poëte,
+s’il ne confie jamais
+au barbier Licinus
+<hi rend="italic">sa</hi> tôte qui-ne-pourrait-être-guérie
+par <hi rend="italic">l’ellébore de</hi> trois Anticyres.
+O <hi rend="italic">que</hi> je <hi rend="italic">suis</hi> maladroit,
+<hi rend="italic">moi</hi> qui me purge de <hi rend="italic">ma</hi> bile
+vers l’époque du temps printanier!
+Pas un autre ne ferait
+des poëmes (des vers) meilleurs.
+Mais rien n’est <hi rend="italic">pour moi
+</hi>d’un si-grand-prix <hi rend="italic">que je garde ma bile
+</hi>.le m’acaulttérai donc
+du rôle d’une queux (pierre à aiguiser),
+qui a-le-pouvoir
+de rendre le fer conpant,
+<hi rend="italic">quoique</hi> privée elle-mêrme
+<hi rend="italic">du pouvoir</hi> de couper :  
+moi-aussi, <hi rend="italic">quoique</hi> n’écrivant rien
+j’enseignerai l’art <hi rend="italic">décrire
+</hi>et le devoir <hi rend="italic">d’un écrivain :  
+j’enseignerai</hi> à quelles-sonrces
+les richesses <hi rend="italic">poétiques</hi> se puisent;
+ce qui nourrit
+et forme le poëte;
+ce qui convient, <hi rend="italic">et</hi> ce qui ne <hi rend="italic">convient</hi> pas;
+où l’art conduit, <hi rend="italic">et</hi> où l’erreur conduit.</p>
+						<p>Avoir-de-la-raison,
+est et le principe
+<pb n="41"/>
+et fons recte scribendi.
+Charte Socraticæ
+poterunt ostendere tibi
+rem;
+verbaque sequentur
+non invita
+rem provisam.
+Qui didicit
+quid debeat patriæ,
+et quid amicis;
+quo amore
+parens sit amandus
+quo frater
+et hospes;
+quod sit officium
+conscripti,
+quod judicis;
+quæ partes
+ducis missi in bellum :  
+ille, profecto,
+scit reddere
+cuique personæ
+convenientia.
+Jubebo
+imitatorem doctum
+respicere
+exemplar vitæ morumque,
+et ducere hinc
+voces vivas.
+Interdum, fabula,
+speciosa locis
+recteque morata,
+nullius veneris,
+sine pondere
+et arte,
+oblectat valdius populum
+moraturque melius,
+quam versus
+inopes rerum,
+nugæque canoræ.</p>
+						<p>Musa dedit Graiis
+ingenium;
+loqui
+ore rotundo
+Graiis, avaris nullius
+præter lauderr.
+Pueri Romani
+et la source du bien écrire.
+Les papiers (les livres) Socratiques
+pourront montrer à toi
+la chose (les idées);
+et les mots suivront (exprimeront)
+non malgré-eux (sans effort)
+la chose (l’idée) acquise-d’avance.
+Celui qui a appris (qui sait)
+ce qu’ii doit à <hi rend="italic">sa</hi> patrie,
+et ce qu’it <hi rend="italic">doit</hi> à <hi rend="italic">ses</hi> amis;
+<hi rend="italic">celui qui sait</hi> de quel amour
+un père doit être aime,
+de quel <hi rend="italic">amour</hi> un frère
+et un hôte <hi rend="italic">doivent être aimés;
+celui qui sait</hi> quel est le devoir
+d’un père-conscrit (d’un sénateur),
+quel <hi rend="italic">est le devoir</hi> d’un juge;
+quelles <hi rend="italic">sont</hi> les fonctions
+d’un général envoyé à la guerre :  
+celui-là, sans-aucun-doute,
+sait rendre (saura prêter)
+à chacun <hi rend="italic">de ses</hi> personnages
+les choses (les idées) convenables
+J’ordonnerai (je conseillerai)
+au peintre-de-caractères habile
+d’observer-avec-soin
+le tableau de la vie et des mœurs,
+et de tirer de-là
+des expressions (des images) vives.
+Quelquefois, une pièce,
+remarquable par les idées
+et bien rendue-quant-aux-mœurs,
+<hi rend="italic">mais n’étant</hi> de (n’ayant) aucune giâc(??),<hi rend="italic">
+et écrite</hi> sans poids (sans dignité)
+et <hi rend="italic">sans</hi> art,
+charme plus le peuple
+et l’attache mieux,
+que <hi rend="italic">ne feraient</hi> des vers
+pauvres de choses (sans idées),
+et des riens sonores.</p>
+						<p>La Muse a donné aux Grecs
+le génie;
+<hi rend="italic">elle a donné le talent</hi> de pa(??) ter
+d’une bouche arrondie (harmonieuse)
+aux Crées avides d’aucune <hi rend="italic">chose
+</hi>excepté la gloire.
+<hi rend="italic">Mais</hi> les enfan ts Romaine
+<pb n="43"/>
+discunt rationibus longis
+diduccre assem
+in centum partes.
+Filius Albini dicat :  
+« Si uncia remota est
+de quincunce,
+quid superat?
+poteras
+dixisse? —
+Triens. —
+Eu! poteris
+servare tuam rem.
+Uncia redit :  
+ouid fit? —
+Semis.» —
+At, quum semel
+hæc ærugo
+et cura peculi
+imbuerit animos,
+sporamus carmina,
+linenda
+cedro
+et servanda
+cupresso lævi,
+posse fingi?</p>
+						<p>Boette volunt
+aut prodessc, aut delcctare;
+nut diccre simul
+et jucunda
+et idonea vitæ.
+Quidquid præcipics,
+esto brevis,
+ut animi dociles
+percipiant cito dicta,
+teneantque fideles :  
+omne supervacuum
+manat do pectore pleno.
+Ficta causa voluptatis
+sint proxi ma
+veris;
+nec fabula posent
+aibi
+quodcumque vole :  
+credi;
+neu extrahat
+puerum vivum
+alvo Larmiæ pransæ.
+apprennent par de longs calculs
+à diviser une livre
+en cent parties.
+Que le fils d’Albinus me dise·.
+« Si une once a été retirée
+de cinq-onces,
+que reste-t-il?
+pouvais-tu (pourrais-tu)
+avoir dit (dire) <hi rend="italic">cela?</hi> —
+Le tiers <hi rend="italic">d’une livre</hi> (quatre onces). —
+Bien! tu pourras
+conserver ta fortune.
+<hi rend="italic">Et si </hi> une once est-ajoutée :  
+qu’est-ce que <hi rend="italic">cela</hi> devient? —
+Uno-demi-livre. » —
+Eh bien, quand une-fois
+une-telle rouille (avarice)
+et <hi rend="italic">un tel</hi> souci de l’argent
+auront pénétré les esprits,
+espérons-nous que des vers,
+dignes-d’étre-frottés
+aveo-de-l’huile-de-cèdre
+et dignes-d’être-conservés
+dans le cyprès poli,
+pourront-être composés?</p>
+						<p>Les poëtes veulent
+ou être-utiles, ou charmer;
+ou <hi rend="italic">ils veulent</hi> dire tout-à-la-foia
+<hi rend="italic">des choses</hi> et agréables
+et utiles à la vie.
+Quelquo-choso-quo tu recommandes,
+sois court (concis),
+afin que les esprits dociles
+perçoivent tout-de-suite <hi rend="italic">tes</hi> paroles,
+et qu’ils <hi rend="italic">les</hi> gardent fidèles (fidèlement;
+toute <hi rend="italic">chose</hi> superflue
+coule (déborde) du cœur <hi rend="italic">trop</hi> rempli.
+Que <hi rend="italic">les choses</hi> inventées pour le plaisir
+soient très-ressemblantes
+aux <hi rend="italic">choses</hi> vraies;
+et qu’une pièce ne prétende pas
+pour-elle-même
+que tout ce qu’elle voudra
+soit cru <hi rend="italic">du spectateur;
+</hi>et qu’elle ne tire pas
+un enfant tout vivant
+du ventre d’une Lamie repue,
+<pb n="45"/>
+Centurie seniorum
+agitant
+expertia
+frugis;
+Khamnes
+celsi
+prætcreumt
+poemata austera.
+Tulit
+umne punctum,
+qui miscuit utile dulci,
+delectando lectorem
+monendeque pariter.
+Hic liber
+meret sera
+Sosiis,
+hic et transit mare,
+et prorogat
+ævum longum
+scriptori noto.</p>
+						<p>Sunt tamen delicta
+quitus velimus
+ignovisse :  
+nam neque cherla
+reddit sonum
+quem manus et mens
+vult,
+remittitque persœpe
+acutum
+poscenti gravem;
+nec arcus
+feriet semper
+quodcumque minabitur,
+Verum, ubi
+plura
+nitent in carmine,
+ego non offendar
+maculis paucis,
+quas aut incuria fudit,
+nul natura Humana
+parum cavit.
+Quid est ergo?
+Ut scriptor librarius,
+si peccat usque idem
+qoamvis est monitus,
+caret vonia,
+ut citharædue,
+Les centuries des <hi rend="italic">Romains</hi> plus âgés
+poursuivent <hi rend="italic">de leur improbation
+</hi>les <hi rend="italic">poèmes qui sont</hi> dépourvus
+d’utilité (de leçons sérieuses);
+les Rhamniens (les Chevaliers)
+altiers (dédaigneux)
+laissent-de-côté (méprisent)
+les poëmes austères (trop sérieux).
+<hi rend="italic">Celui-là</hi> a remporté (mérité)
+tous les points (tous les suffrages),
+qui a mêlé l’utile à l’agréable,
+en charmant le lecteur
+et en l’instruisant tout-à-la-fois.
+Un tel livre
+vaut (rapporte) <hi rend="italic">beaucoup</hi> d’argent
+aux Sosies (au libraire),
+un-tel <hi rend="italic">livre</hi> aussi passe la mer,
+et proroge (assure)
+une vie longue (l’immortalité
+à ion auteur célèbre.</p>
+						<p>Il y a cependant des fautes
+auxquelles nous voudrions
+avoir pardonné (pardonner) :  
+car ni la corde <hi rend="italic">de la lyre
+</hi>ne rend <hi rend="italic">toujours</hi> le son
+que la main et l’intention
+veulent <hi rend="italic">produire,
+</hi>et elle renvoie bien-souvent
+un <hi rend="italic">son</hi> aigu
+à celui-qui-désire un <hi rend="italic">son</hi> grave,
+ni l’arc
+ne frappera pas toujours
+tous <hi rend="italic">les buts</hi> qu’il menacera (visera)
+Mais, du-moment-que
+le plus-grand-nombre <hi rend="italic">des choses
+</hi>brillent dans un poème,
+je ne serai pas choqué
+do taches peu-nombreuses,
+que ou la négligence a répandues,
+ou <hi rend="italic">dont</hi> la nature (la faiblesse) humaine
+s’est peu garantie.
+Qu’y a-t-il donc (mais quoi!)?
+De-même-qu’un écrivain copiste-de-livres
+s’il pèche toujours de la mémo <hi rend="italic">manière,
+</hi>quoiqu’il ait été averti,
+n’obtieut-pas de pardon;
+de-même qu’un joueur-de-luth,
+<pb n="47"/>
+qui oberrat semper
+eadem chorda,
+ridetur
+sic,
+qui cessat multum,
+fit mihi ille Chœrilus,
+quem miror cum risu
+bonum bis terve;
+et idem
+indignor
+quandoque
+bonus Homerus dormitat.
+verum est fas
+soranum obrepere
+in opere longo.</p>
+						<p>Poesis ut pictura :  
+erit
+quæ capiat te magis,
+si stes propius;
+et quædam,
+si abstes longius;
+hæc amat obscurum,
+hæc, quæ non formidat
+acumen argutum
+judicis,
+volet videri
+sub luce;
+hæc placuit semel,
+hæc, repetita decies,
+placebit.</p>
+						<p>O major Juvenum,
+quamvis et
+fingeris ad rectum
+voce patenta,
+ex sapis
+per te,
+tolle tibi memor
+hoc dictum :  
+medium et tolcrabile
+certis rebus,
+concedi recte.
+Jurisconsultus mediocris,
+et actor causarum,
+abest virtute
+diserti Messalœ,
+nec scit
+quantum Casceliius Aulus;
+qui se trompe toujours
+sur la même corde,
+excite-les-risées :  
+de même,
+<hi rend="italic">le poëte</hi> qui bronche beaucoup (souvent).
+devient pour moi ce Chérile,
+que je m’étonne en souriant
+<hi rend="italic">de trouver</hi> bon deux-fois ou trois-fois;
+et <hi rend="italic">moi,</hi> le même (et pourtant),
+je m’indigne
+chaque-fois-que
+le divin Homère sommeille;
+cependant il est permis
+que le sommeil se glisse
+dans un poème de-longue-haleine.</p>
+						<p>La poésie <hi rend="italic">est</hi> comme la peinture
+il y aura <hi rend="italic">tel morceau
+</hi>qui charmera toi davantage,
+si tu te tiens plus près <hi rend="italic">de lui,
+</hi>et tel <hi rend="italic">autre te charmera plut,
+</hi>si tu t’en éloignes davantage,
+celui-ci aime l’obscurité,
+cet <hi rend="italic">autre,</hi> qui ne redoute pas
+la perspicacité sévère
+du juge (de la critique),
+voudra être vu
+sous la lumière (au grand jour);
+celui-ci a plu une-fois,
+celui-là, redemandé (revu) dix-fois,
+plaira toujours.</p>
+						<p>O <hi rend="italic">toi,</hi> l’aíné des <hi rend="italic">deux</hi> jeunes <hi rend="italic">Pisons
+</hi>quoique nou-seulemont
+tu sois forint au bien
+par la voix Je-ton-père,
+mais encore que tu aies-du-goût
+par)<hi rend="italic">toi-même</hi> (naturellement), [bien)
+prends pour toi t’en souvenant (relions
+cette parole :  
+que le médiocre et le passable
+en certaines choses,
+sont permis (tolérés) avec-justice.
+Un jurisconsulte médiocre,
+et un plaideur de causes (avocat) <hi rend="italic">médiocre
+</hi>est-loin du mérite
+de l’éloquent Messaia,
+et il ne sait pas <hi rend="italic">autant de droit
+</hi>que Casceliius Aulus;
+<pb n="49"/>
+sed tamen est in pretio.
+Non homines,
+non Di,
+Bon columnæ,
+concessere poetis
+esse mediocribus.
+Ut,
+inter mensas gratas,
+symphonia discors,
+et nnguentum crassum
+et papaver
+cum melle Sardo
+offendunt,
+quia cœna poterat duci
+sine istis :  
+sic, poema,
+natum inventumque
+juvandis animis,
+si paulum decessit
+a summo,
+vergit ad imum.
+Qui nescit ludere,
+abstinet
+armis Campestribus;
+indoetusque pilæ,
+discive, trochive,
+quiescit,
+ne coronæ
+spissæ
+tollant risum
+impune;
+qui nescit,
+audet tamen
+fingere versus! —
+« Quidni?
+liber
+et ingenuus,
+præsertim census
+summam nummorum
+equestrem,
+remotusque
+ab omni vitio. » —
+Tu, dices faciesve nihil
+invita Minerva;
+id judicium, ea meus
+est tibi.
+Si tamen scripseris
+et pourtant il est en <hi rend="italic">quelque</hi> estime.
+<hi rend="italic">Mais</hi> ni les hommes,
+ni les Dieux, [<hi rend="italic">les livres</hi>.
+ni les colonnes <hi rend="italic">des portiques où se vendent
+</hi>u ont permis aux poëtes,
+d’être médiocres.
+De même-que,
+au milieu d’un festin agréable,
+une symphonie discordante,
+et un parfum rance,
+et le pavot
+servi avec du miel de-Sardaigne,
+blessent <hi rend="italic">les convives,
+</hi>parce que le repas pouvait être terminé
+sans ces <hi rend="italic">hors-d’œuvre</hi> :  
+ainsi, la poésie,
+née et inventée
+pour charmer les esprits,
+si peu qu’elle ait dévié
+du premier <hi rend="italic">rang,
+</hi>elle tombe au dernier.
+Celui qui-ne-sait-pas jouer (s’escrimer),
+s’abstient <hi rend="italic">de manier
+</hi>les armes du-Champ-de-Mars,
+et celui-qui-n’entend-rien à la paume,
+ou an disque, ou au cerceau,
+se-tient-en-repos,
+de peur que les cercles <hi rend="italic">de spectateurs
+</hi>épais
+ne poussent un éclat-de-rire
+impunément (à ses dépens);
+<hi rend="italic">et</hi> celui qui ne sait pas <hi rend="italic">faire des vers,
+</hi>ose cependant
+faire (composer) des vers! —
+« Pourquoi donc pas?
+<hi rend="italic">je suis</hi> libre (<hi rend="italic">dira-t-il</hi>),
+et né-de-parents-libres,
+surtout <hi rend="italic">je suit</hi> porté-au-livre-du-cens,
+pour la somme de sesterces
+exigée-des-chevaliers,
+et <hi rend="italic">je suis</hi> éloigné (exempt)
+de tout vice (de toute infamie). —
+<hi rend="italic">Mais</hi> toi, tu ne diras ou ne feras rien
+en-dépit-de Minerve;
+un tel jugement, un tel esprit,
+sont à toi.
+Si cependant tu écrivais
+<pb n="51"/>
+quid oiîm,
+descendat
+in aures judicis Moti,
+e patris,
+et nostras,
+prematurque
+in nonum annum.
+Membranis positis
+intus,
+licebit delere
+quod non edideris :  
+vox missa
+nescit reverti.</p>
+						<p>Orpheus, sacer
+interpresque Deorum
+deterruit cædibus
+et victu fœdo
+homines sylvestres :  
+dictus ob hoc
+lenire tigres
+leonesque rabidos;
+et Amphion,
+conditor arcis Thebanæ,
+dictus movere saxa
+sono testudinis,
+et ducere quo vellet
+prece blanda.
+Sapientia quondum
+fuit hœc :  
+secernere publica
+privatis,
+sacra profanis;
+prohibera
+concubitu vago;
+dare jura
+maritis;
+moliri oppida;
+incidere loges ligno.
+Sic honor et nomen
+venit vatibus divinis
+atque carminibus.
+Post hos,
+Homerus insignis, [sibus
+Tyrtæusque exacuit ver-
+mares animos
+in bella Msrtia-
+Sortes dictæ per carmina,
+quelque-chose un-jour,
+que <hi rend="italic">ton ouvrage</hi> descende (pénètre)
+dans les oreilles du juge Métius,
+et <hi rend="italic">dans celles</hi> de <hi rend="italic">ton</hi> père,
+et <hi rend="italic">dans</hi> les nôtres (dans les miennes),
+et qu’il soit mis-de-côté
+jusqu’à la neuvième année.
+Les parchemins étant placés
+dans <hi rend="italic">ton portefeuille,
+</hi>il <hi rend="italic">te</hi> sera permis d’effacer
+ce que tu n’auras-pas-fait-paraitre :  
+<hi rend="italic">mai</hi>s le mot publié
+ne sait (ne peut) <hi rend="italic">plus</hi> revenir.</p>
+						<p>Orphée, <hi rend="italic">poêle</hi> sacré
+et interprète des Dieux,
+détourna des meurtres
+et d’une nourriture affreuse
+les hommes qui-vivaient-dans-les-bois :  
+<hi rend="italic">il fut</hi> dit, à cause de cela,
+amollir les tigres
+et les lions cruels;
+et Amphion,
+le fondateur de la citadelle de Thèbes,
+fut dit faire-mouvoir les rochers,
+par le son de <hi rend="italic">sa</hi> lyre,
+et <hi rend="italic">les</hi> conduire où il voulait
+par <hi rend="italic">ses</hi> prières mélodieuses.
+La sagesse autrefois
+fut telle (consista en ceci) :  
+distinguer les <hi rend="italic">intérêts</hi> généraux
+des <hi rend="italic">intérêts</hi> particuliers,
+les <hi rend="italic">choses</hi> sacrées dos <hi rend="italic">choses</hi> profanes;
+détourner <hi rend="italic">les hommes
+</hi>do <hi rend="italic">leurs</hi> unions vagabondes;
+tracer des droits-et-des-devoirs
+aux gens-mariés;
+construire des villes;
+graver des lois sur le bois.
+<hi rend="italic">C’est</hi> ainsi <hi rend="italic">que</hi> l’honneur et la gloire
+vinrent aux poètes inspirés-des-dieux
+et à <hi rend="italic">leurs</hi> vers.
+Après ces <hi rend="italic">premiers poëtes,
+</hi>Homère <hi rend="italic">s’est</hi> signalé,
+et Tyrtée anima par <hi rend="italic">ses</hi> vers
+les mâles courages
+aux combats de-Mars.
+Les oracles <hi rend="italic">furent</hi> rendus en vers,
+<pb n="53"/>
+et via vitæ
+est monstrata;
+et gratia regum tentata
+modis Pieriis;
+ludusque
+et finis
+longorum operum
+repertus :  
+ne Musa
+solers lyræ,
+et cantor Apollo
+ait forte pudori tibi.</p>
+						<p>Est quæsitum
+carmen laudabile
+fieret natura, an arte.
+Ego, video
+nec quid studium possit
+sine vena divite,
+nec
+ingenium rude :  
+sic altera res
+poscit opem alterius,
+et conjurat
+ami ce.
+Qui studet contingere
+metam optatam
+cursu,
+tulit fecitque multa,
+puer;
+sudavit et alsit;
+abstinuit venere et vino.
+Tibicen,
+qui cantat Pythia,
+didicit prius,
+extimuitque magistrum.
+Nunc est satis
+dixisse :  
+« Ego pangopoemata mira :  
+« scabies occupet
+« extremum!
+« est turpe mihi
+« relinqui,
+« et fateri sane
+« nescire
+« quod non didici.»</p>
+						<p>Ut præco,
+qui cogit turbam
+et la route de la vie (la morale)
+fut enseignée <hi rend="italic">en vers;
+</hi>et la faveur des rois <hi rend="italic">fut</hi> briguée
+par les accords des-Piérides (des Muses)
+et les jeux <hi rend="italic">scéniques
+</hi>et, <hi rend="italic">par eux</hi>, la fin (le délassement;
+des longs travaux
+<hi rend="italic">furent</hi> inventés :  
+<hi rend="italic">ainsi,</hi> que la Muse
+habile-à-toucher la lyre,
+et que le chantre Apollon
+ne soient donc pas à honte à toi.</p>
+						<p>On a discute
+<hi rend="italic">si</hi> un poëme louable (un bon poëme)
+était fait par la nature, ou par l’art.
+<hi rend="italic">Pour</hi> moi, je <hi rend="italic">ne</hi> vois
+ce que l’étude (l’art) peut <hi rend="italic">produire
+</hi>sans la veine riche (sans l’inspiration),
+ni <hi rend="italic">ce que peut produire
+</hi>le génie grossier (sans l’art) :  
+tellement l’une <hi rend="italic">de ces deux</hi> choses
+exige le secours de l’autre,
+et conspire (concourt) <hi rend="italic">avec elle
+</hi>d’une-manièro-amie.
+Celui qui désire atteindre
+la borne désirée
+au-combat-de-la-course,
+a supporté et a fait beaucoup <hi rend="italic">de choses
+quand il était</hi> jeune;
+il a sué et il a-cu-froid;
+il s’est abstenu de l’amour et du vin.
+Le joueur-de-flûte,
+qui chante dans-les-jeux-Pythicns.
+a pris-des-leçous auparavant,
+et a redouté un maitre.
+Et il ne suffit <hi rend="italic">pas, pour être poete,
+</hi>d’avoir dit (de dire) :  
+« Moi, je compose des vers admirable
+« que la gale s’empare
+« du dernier (malheur au dernier)!
+« c’est <hi rend="italic">chose</hi> honteuse pour moi
+« d’être laissé-en-arrière,
+« et d’avouer raisonnablement
+« que-je-ne-sais-pas
+« ce-que je n’ai pas appris. »</p>
+						<p>Comme le crieur public,
+qui rassemble la foute
+<pb n="55"/>
+ad merces amendas :  
+poeta dives agris,
+dives nummis
+positis in fœnore,
+jubet assentatoras
+ire ad lucrum.
+Si vero est qui possit
+ponere recte
+unctum,
+et spondere
+pro paupere levi,
+et eripere
+Implicitum
+litibus arctis :  
+mirabor,
+si, beatus, sciet
+internoscere
+amicum mendacem,
+verumque.</p>
+						<p>Tu, seu donaris,
+seu velis donare
+quid cui,
+nolito ducere
+plenum lœtitiæ
+ad versus factos tibi :  
+clamabitenim :  
+« pulchre! bene! recte! »
+pallescet super bis;
+etiam stillabit rorem
+ex oculis amicis;
+saliet, tundet terram pede.
+Ut
+qui plorant in funere,
+conducti,
+dicunt et faciunt pltira,
+prope,
+dolentibus
+ex animo :  
+sic dérisor
+movetur
+plus laudatore vero.
+Reges
+dicuntur urgere
+multis culullis,
+et torquere mero
+quem laborant
+perspexisse
+devant des marchandises à acheter
+un poëte riche en terres,
+<hi rend="italic">et</hi> riche en écus
+placés à <hi rend="italic">bel</hi>-intérêt,
+ordonne <hi rend="italic">presque</hi> aux flatteurs
+d’aller (de courir) au gain.
+Mais si <hi rend="italic">ce poëte</hi> est un <hi rend="italic">homme</hi> qui puisse
+servir comme-il-faut
+un <hi rend="italic">festin</hi> somptueux,
+et donner-caution
+pour le pauvre sans-crédit,
+et tirer-d’affaire,
+celui qui est engagé
+dans des procès étroits (gênants);
+je serai bien surpris,
+si heureux (par bonheur) il saura
+tronver-la-différence-entre
+un ami menteur,
+et un <hi rend="italic">ami</hi> véritable.</p>
+						<p>Toi, soit que tu aies donné,
+soit que tu veuilles donner
+quelque-chose à quelqu’un,
+garde-toi de <hi rend="italic">le</hi> conduire
+plein de joie
+devant des vers faits par toi :  
+il s’écriera, en-effet :  
+« superbe! bien! parfait! »
+il pâlira sur ces <hi rend="italic">vers;
+</hi>même il distillera une rosée <hi rend="italic">de larmes
+</hi>de <hi rend="italic">ses</hi> yeux complaisants;
+il bondira, il frappera la terre du pied.
+De-même-que
+ceux qui pleurent à un convoi-funèbre,
+étant payés pour <hi rend="italic">cela,
+en</hi> disent et <hi rend="italic">en</hi> font plus,
+pour-ainsi-dire,
+que-ceux-qui-sont-affligés
+du fond de <hi rend="italic">leur</hi> cœur :  
+de même, <hi rend="italic">l’homme qui-se-moque
+</hi>est (se montre) ému
+plus qu’un approbateur sincère.
+Les rois (les grands, les riches)
+sont dits presser (éprouver)
+par beaucoup de coupes-pleines,
+et torturer par le vin
+l’homme-qu’ils sont-en-peine
+d’avoir examiné (de savoir)
+<pb n="57"/>
+an sit dignus amicitia.
+Si condes carmina,
+animi
+latentes sub vulpe
+nunquam fallant te.
+Si recitares
+quid Quintilio,
+aiebat :  
+« Corrige hoc et hoc,
+« sodes. »
+Negares le posse melius,
+expertum frustra
+bis terque :  
+jubebat delere,
+et reddere incudi
+versus male formatos.
+Si malles
+defendere delictum
+quam vertere,
+insumebat
+nullum verbum ultra,
+aut operam inanem,
+quin amares
+teque et tua,
+solus sine rivali.</p>
+						<p>Vir bonus et prudens
+reprehendet versus inertes;
+culpabit duros;
+allinet signum atrura
+calamo transverso
+incomptis;
+recidet
+ornamenta ambitiosa;
+coget dare lucem
+parum claris;
+arguet dictuin
+ambigue;
+notabit
+mutanda :  
+fiet Aristarchus.
+Non dicet;
+« Cur ego offendam
+« amîcum in nugis? »
+Hæ nugæ
+ducent in mala seria
+derisum semel
+exceptumque suistre.
+s’il est digne de <hi rend="italic">leur</hi> amitié.
+Si tu fais (quand tu feras) des vers,
+que les esprits (les flatteurs)
+qui-se-cachent sous <hi rend="italic">la peau du</hi> renerd
+ne trompent jamais toi.
+Lorsque vous lisiez
+quelque-chose à Quiutilius,
+il disait :  
+« Corrigez-<hi rend="italic">moi</hi> ceci et cela
+« s’il-vous-plait. »
+<hi rend="italic">Si</hi> vous disiez ne pouvoir-pas <hi rend="italic">faire</hi> mieux,
+l’ayant essayé inutilement
+deux-fois et trois-fois :  
+il ordonnait d’effacer,
+et de rendre à l’enclume
+les vers mal forgés.
+Si vous aimiez-mieux
+défendre une faute
+que de <hi rend="italic">la</hi> corriger,
+il <hi rend="italic">ne</hi> dépensait
+pas-une-seule parole en-plus,
+et <hi rend="italic">il ne prenait</hi> pas <hi rend="italic">une</hi> peine inutile,
+pour que vous n’aimassiez pas
+et vous-même et vos vers,
+seul <hi rend="italic">et</hi> sans rival.</p>
+						<p>L’homme bon et instruit
+reprendra les vers plats;
+il blâmera les vers durs;
+il tracera une marque noire
+de son style (de sa plume) renversé
+sur <hi rend="italic">les vers</hi> sans-élégance;
+il retranchera
+les ornements prétentieux;
+il forcera de donner de la clarté
+aux vers peu clairs;
+il critiquera <hi rend="italic">ce qui sera</hi> dit
+d’une-manière-équivoque;
+il iudiquera-par-une-marque
+les <hi rend="italic">passages</hi> à-changer :  
+il se fera Aristarque.
+<hi rend="italic">Et</hi> il ne dira point :  
+« Pourquoi, moi, offenserais je
+« un ami dans des bagatelles?
+<hi rend="italic">C’est que</hi> ces bagatelles
+entraîneront dans des maux aérien.
+<hi rend="italic">l’homm</hi>e raillé une-fois
+et reçu d’une-manière-défavorable.</p>
+						<pb n="59"/>
+						<p>Qui sapiunt,
+timeut tetigisse
+poetam vesanum,
+fugunique,
+ut
+quem scabies mala,
+aut morbus regius,
+aut error fanaticus
+et Diana iracunda
+urget;
+pueri
+agitant
+sequunturque
+incauti.
+Dum hic,
+sublimis,
+ructatur versus et errat,
+si decidit in puteum
+foveamve,
+veluti auceps
+intentus merulis,
+licet clamet longum :  
+« Io, cives! succurrite! »
+non sit
+qui curet tollere.
+Si quis curet
+ferre opem
+et demittere funem,
+dicam :  
+« Qui scis
+« an se projecerit huc
+« prudens,
+« atque nolit servari? »
+narraboque
+interitum poetæ Siculi
+Dum Empedocles cupit
+haberi deus immortalis,
+insiluit
+frigidus
+Ætnam ardentem
+Jus sit poetis
+licealque perire :  
+qui servat invitum,
+facit idem
+occidenti.
+Nec fecit hoc semel;
+et, si</p>
+						<p>Ceux qui ont-du-bon-sens,
+craignent d’avoir touché (de toucher)
+un poète insensé (maniaque),
+et ils <hi rend="italic">le</hi> fuient
+comme <hi rend="italic">ils fuiraient
+</hi>celui que la gale mauvaise,
+ou la maladie royale (la jaunisse),
+on un délire frénétique,
+et (ou) Diane en-courroux
+poursuit (possède);
+les enfants
+harcèlent <hi rend="italic">ce poète insensé,
+</hi>et <hi rend="italic">le</hi> poursuivent
+étourdis (étourdiment).
+Tandis que ce <hi rend="italic">fou,
+</hi>la-tôte-haute,
+hurle <hi rend="italic">est</hi> vers et marche-au hasard,
+s’il tombe dans un puits
+on <hi rend="italic">dans</hi> un fossé,
+comme un oiseleur
+guettant des merles,
+il aurait-beau crier longtemps :  
+« Holà! citoyens! au secours! »
+qu’il n’y ait <hi rend="italic">personne
+</hi>qui songe à <hi rend="italic">le</hi> retirer.
+Si quelqu’un songeait
+à <hi rend="italic">lui</hi> porter secours
+et à <hi rend="italic">lui</hi> descendre une corde,
+je dirais à <hi rend="italic">cet homme :  
+</hi>« Comment sais-tu
+« s’il <hi rend="italic">ne</hi> s’est <hi rend="italic">pas</hi> jeté la<hi rend="italic">-dedans
+</hi>« avec-intention,
+« et s’il ne-veut-pas <hi rend="italic">ne pas</hi> être sauvé?
+et <hi rend="italic">puis</hi> je raconterai
+la mort du poëte Sicilien.
+Tandis qu’Empédocle désire
+passer-pour un dieu immortel,
+il s’élança (il s’élance)
+froid (de sang-froid)
+<hi rend="italic">dans</hi> l’Etna embrasé.
+Que le droit soit aux poëtes
+et qu’il <hi rend="italic">leur</hi> soit permis de mourir :  
+celui, qui <hi rend="italic">en</hi> sanve un malgré-lui,
+fait la même <hi rend="italic">chose
+</hi>que celui qui <hi rend="italic">le</hi> tue (qui le tuerait).
+Et il n’a pas fait cela <hi rend="italic">qu</hi>’une-fois;
+et, si, <hi rend="italic">par hasard.</hi>
+<pb n="61"/>
+erit retractus,
+non fiet jam
+homo,
+et ponet
+amorem mords famosæ.
+Nec apparet satis
+cur factitet versus :  
+utrum minxerit
+in cineres patrios,
+an, incestus,
+moverit
+triste bidental :  
+certe, furit,
+ac velut ursus,
+si valuit
+frangere clathros objectos
+caveæ,
+recitator acerbus,
+fugat
+indoctum doctumque.
+Quem vero arripuit,
+tenet,
+occiditque legendo :  
+hirudo
+non missura cutem,
+nisi plena cruoris.
+il est tiré <hi rend="italic">de ce danger,
+</hi>il ne deviendra pas pom-cela
+un homme <hi rend="italic">raisonnable,
+</hi>et il n’abdiquera <hi rend="italic">point
+</hi>l’amour <hi rend="italic">qu’il a</hi> d’un trépas fameux.
+Et il ne paraît pas assez (clairement)
+pourquoi il fait-toujours des vers :  
+si <hi rend="italic">c’est parce</hi> qu’il a uriné
+sur les cendres de-ses-péres,
+ou <hi rend="italic">parce que,</hi> sacrilège,
+il a remué (profané)
+un lieu-funeste frappé-par-la-foudre;
+quoi-qu’il-en-soit, il-est-fou
+et comme un ours,
+quand il est-venu-à-bout
+de briser les barreaux opposés
+do <hi rend="italic">sa</hi> cage,
+lecteur impitoyable,
+il met-en-fuite
+ignorants et savants.
+Mais celui qu’il a attrapé,
+il <hi rend="italic">le</hi> tient-ferme,
+et il l’assassine en <hi rend="italic">lui</hi> lisant <hi rend="italic">ses vers :  
+véritable</hi> sangsue
+qui ne lâchera point la peau,
+si-ce-n’est gorgée de sang.</p>
+					</div>
+					<div type="textpart" subtype="chapter" n="3">
+						<pb n="62"/>
+						<head>
+							<title>NOTES.</title>
+						</head>
+						<p>Page 2. — 1. <hi rend="italic">Ars poetica.</hi> Ce sont les premiers éditeurs qui ont
+imaginé cette dénomination assez pompeuse d’ <hi rend="italic">Art poétique,</hi> et l’usage
+a prévalu. Horace n’avait donné à son œuvre que ce titre bien
+plus modeste et plus vrai <hi rend="italic">Epistola ad Pisones.</hi> En effet, le poëte
+s’exprime souvent avec une familiarité et un abandon que la gra-
+vité du poëme didactique lui aurait interdits.</p>
+						<p>L’<hi rend="italic">Épitre aux Pitons</hi> fut composée vers l’an 745 de Rome; Horace
+avait alors cinquante-six ans; mais il est à peu près certain qu’elle
+ne fut publiée qu’après la mort du poëte, survenue en 746.</p>
+						<p>— 2. Lucius Pison, vainqueur des Thraces, pacificateur de la
+Macédoine, puis préfet de Rome, <hi rend="italic">diligentissimus atque idem lenissimus
+securitatis urbanœ custos,</hi> au dire de Velléius Paterculus, était l’ami
+intime d’Horace. Il avait deux fils qui partageaient son goût pro-
+nonce pour les belles-lettres, et qui, comme lui, faisaient des vers.
+On croit même que l’aîné avait composé une tragédie. — C’est à
+ces trois personnages qu’est adressee cette épître.</p>
+						<p>Il faut dire, au reste, que cette vigilance, si vantée par Velléius,
+s’accorde mal avec certain témoignage assez bizarre que Sénèquo a
+rendu de ce même Lucius Pison, en disant « qu’il ne s’enivra
+qu’une fois dans sa vie, parce que sa vio ne fut qu’une longue
+ivresse, <hi rend="italic">Ebrius, ex quo semel factus est, fuit.</hi> »</p>
+						<p>— 3, <hi rend="italic">Mulier formosa superne. Superne</hi> ne vont pas dire exacte-
+ment <hi rend="italic">le buste,</hi> mais seulement <hi rend="italic">la tête.</hi> En adoptant la première de
+ces deux expressions, nous avons voulu éviter l’interminable péri-
+phrase qu’il eût fallu employer pour nous rendre intelligible.</p>
+						<p>— 4. <hi rend="italic">Species, — imagines,</hi> en grec <foreign xml:lang="grc">t’srn</foreign> idées.</p>
+						<p>Page 4. — 1. <hi rend="italic">Qui pingitur.</hi> C’était un usage chez les anciens. Les
+malheureux qui avaient fait naufrage, sollicitaient la pitié des pas-
+sants en portant, suspendu sur la poitrine, un tableau qui repré-
+sentait leur infortune. On se rappelle ce vers do Perse : </p>
+						<ab>
+							<seg>Quum (Varia te in trabe pictum
+Ex humero portes....
+(Sat. I, v. 86 et 87.)</seg>
+						</ab>
+						<p>Page 6. — 1. <hi rend="italic">Patenter, <foreign xml:lang="grc">χχτά δόνχμιν</foreign>.</hi></p>
+						<p>— 2. <hi rend="italic">Et prœsens in tempus omittat.</hi> Nous expliquons, dans la note
+suivante, les raisons qui nous ont fait adopter ce changement. Mais,
+pour ceux qui tiendraient absolument à la leçon vulgaire, nous ré-
+tablissons dans la même note le texte de l’édition de Quicherat. On
+<pb n="63"/>
+lira comme lui, si l’on n’est pas convaincu que la leçon de Bentley
+est préférable.</p>
+						<p>— 3. Au lieu de la leçon ordinaire, qui dit : </p>
+						<ab>
+							<seg>Hoc amet, hoc spernat promissi carminis aucto.
+In verbis etiam tenuis cautusque serendis,
+Dixeris egregie, notum si callida verbum
+Reddiderit junctura novum....,</seg>
+						</ab>
+						<p>adoptant la transposition à la fois si ingénieuse it si naturelle de
+Bentley, nous disons avec lui : </p>
+						<ab>
+							<seg>In verbis etiam tenuis cautusque serendis,
+Hoc amet, hoc spernat promissi carminis auctor....,</seg>
+						</ab>
+						<p>et le reste comme ci-dessus.</p>
+						<p>Il nous semble en effet que, de cette manière, l’obscurité dispa-
+rait entièrement. « Délicat et châtié dans l’empioi de ses mots (in
+<hi rend="italic">verbis serendis)</hi>, l’auteur d’un poème <hi rend="italic">attendu du</hi> devra aimer
+telle expression, et dédaigner telle autre. » Quant au sens de <hi rend="italic">pro-
+missi carminis,</hi> que l’on a traduit quelquefois <hi rend="italic">un poème d’une
+certaine étendue, un poème de longue haleine,</hi> il semble évident que
+<hi rend="italic">promissi</hi> signifie bien un <hi rend="italic">poëme attendu du public.</hi> Car enfin,</p>
+						<ab>
+							<seg>S’il est un heureux choix de mots harmonieux,</seg>
+						</ab>
+						<p>comme dit Boileau ce <hi rend="italic">choix</hi> est de rigueur partout, et quelle que
+suit l’<hi rend="italic">étendue</hi> du poëme. N’importe le genre où l’on s’exerce, le goût,
+ce goût sévère, qui sait <hi rend="italic">en prendre et en laisser</hi> (<hi rend="italic">hoc amet, hoc sper-
+nat</hi>), le goût est la première loi de l’écrivain : </p>
+						<ab>
+							<seg>Le style le moins noble a pourtant sa noblesse.</seg>
+						</ab>
+						<p>On peut encore remarquer, avec Bentley, que, dans ces deux vers,
+tels que la leçon ordinaire les voudrait, le rapprochement de <hi rend="italic">verbis
+</hi>et de <hi rend="italic">verbum,</hi> à si peu de distance l’un de l’autre, ne serait rien
+moins qu’élégant. <hi rend="italic">Verbis et verbum,</hi> dit-il, <hi rend="italic">tam propinqua repetitions
+meram scabiem et sordes præ se ferunt.</hi></p>
+						<p>Mais le vrai motif de notre préférence est celui que nous avons
+exposé en premier lieu.</p>
+						<p>Page 8. — 1. <hi rend="italic">Catonis.</hi> C’est de Caton l’Ancien qu’il est question
+ici, celui-là même qui conduisit de Tarente à Rome le vieux poëte
+Ennius. On a remarqué déjà, et c’est en effet une observation assea
+curieuse, que les trois plus anciens poètes latins, Livius Andronicus,
+Quintus Ennius, et Pacuvius, son neveu, sont tous les trois origi-
+naires de la grande Grèce le premier était né à Tarente, le second
+à Rudies, près de Tarente le troisième à Brindes.</p>
+						<p>Page 10. — 1. <hi rend="italic">Debemur morti, nos nostraque.</hi> Considérés en eux-
+mêmes, ces vers me paraissent fort beaux, mais il no me semble pas
+retrouver ici cette délicatesse de flatteri(??), si habituelle chez Horace;
+et je ne sais pas jusqu’à quel point Auguste aurait dû être charmé de
+<pb n="64"/>
+voir condamnés d’avance à une mort certaine ces travaux gigantes-
+ques, si noblement célébrés par Virgile. Ce passage fournirait, s’il
+en était besoin, une nouvelle preuve du caractère intime et presque
+confidentiel de <hi rend="italic">l’Épttre aux Pisons.</hi></p>
+						<p>— 2. <hi rend="italic">Sterilisve diu palus, aptaque remis,</hi> etc. Il y a ici une faute
+de quantité véritable la dernière syllabe de <hi rend="italic">palus</hi> étant invariable-
+ment longue, comme dans <hi rend="italic">virtus, tellus,</hi> etc. On corrige quelquefois
+de cette manière : </p>
+						<ab>
+							<seg>Sterilisve palus dudum, etc.</seg>
+						</ab>
+						<p>Mais cette correction ne se trouve dans aucun manuscrit. Bentley
+fait une longue dissertation pour justifier la leçon qu’il propose : </p>
+						<ab>
+							<seg>Sterilisve palus prius, etc.</seg>
+						</ab>
+						<p>Malheureusement le vers d’Horace, tel qu’il est dans toutes les édi-
+tions jusqu’à Bentley, et dans tous les manuscrits, avait été cité par
+Sorvius, Béda et Priscien. Toute l’argumentation de Bentley doit
+tomber devant un tel témoignage. Et pourquoi se scandaliser, d’ail-
+leurs, qu’il ait échappé à Horace une de ces fautes si bien excusées
+dans ces vers dont nous invoquerons pour lui le bénéfice?</p>
+						<ab>
+							<seg>Non ego paucis
+Offendar maculis, quas aut incuria fudit,
+Aut humana parum cavit natura....</seg>
+						</ab>
+						<p>Page 12. — 1. <hi rend="italic">Chremes,</hi> dans la pièce de Trérence, intitulée l’Héau-
+tontimorumenos.</p>
+						<p>— 2. Au lieu de la leçon ordinaire : </p>
+						<ab>
+							<seg>Et tragicus plerumque dolet sermone pedestri : 
+Telephus et Peleus, etc.</seg>
+						</ab>
+						<p>on lit quelquefois : </p>
+						<ab>
+							<seg>Et tragicus plerumque dolet sermone pedestri
+Telcphus aut Peleus, etc.</seg>
+						</ab>
+						<p>en supprimant les deux points après le mot <hi rend="italic">pedestri,</hi> et en rem-
+plaçant la copulative <hi rend="italic">et</hi> par la disjonctive <hi rend="italic">aut</hi>. — Cette leçon nous
+avait souri d’abord; mais un examen plus sérieux nous fait revenir
+à la première, en maintenant néanmoins le changement de et en <hi rend="italic">aut.
+</hi>Le passage ainsi modifié nous paraît avoir le triple avantage de la
+symétrie, d’une clarté plus grande, et d’une relation toute naturelle
+avec les vers qui viennent plus bas : </p>
+						<ab>
+							<seg>Tua me infortunia lædent,
+Telephe, <hi rend="italic">vel</hi> Peleu, etc.</seg>
+						</ab>
+						<p>Page 14. — 1. Si <hi rend="italic">v(??) me flere, dolendum est primum ipsi tibi.
+</hi>connaît la traduction de Boileau : </p>
+						<ab>
+							<seg>Pour me tirer des pleure, il faut que vous pleuriez.</seg>
+						</ab>
+						<pb n="65"/>
+						<p>Outre qu’elle n’est pas élégante, nous ne la croyons pas exacte non
+plus. <hi rend="italic">Dolere</hi> ne signifie <hi rend="italic">pleurer</hi> que par métonymie, et en prenant la
+cause pour l’effet; réellement il signifie avoir de la douleur. <hi rend="italic">Ayez
+une douleur véritable,</hi> dit Horace. <hi rend="italic">Pleurez</hi> ne serait pas juste; car
+enfin il y a de fausses larmes, et celles-là doivent nous trouver insen-
+sibles; il y a les larmes comiques, et celles-là nous font rire.</p>
+						<p>Page 16. — 1. <hi rend="italic">Honoratum si forte reponis Achillem....</hi> Par <hi rend="italic">honora.
+</hi>(??)<hi rend="italic">um</hi> les uns entendent <hi rend="italic">célèbre, fameux</hi> ou <hi rend="italic">illustre;</hi> mais nous ne
+aroyons pas que l’on trouve dans toute la latinité du siècle d’Auguste
+un seul exemple du mot <hi rend="italic">honoratum</hi> pris dans ce sens-là. Or, il ne
+signifie pas ici <hi rend="italic">comblé d’honneurs,</hi> comme dans le vers 107 de
+l’épître Ire du livre Ier : </p>
+						<ab>
+							<seg>Liber, <hi rend="italic">honoratus,</hi> pulcher, rex denique regum;</seg>
+						</ab>
+						<p>car cette idée serait parfaitement ridicule, puisque là il s’agit <hi rend="italic">des digni(??)-
+tés, des honneurs accordés par le peuple.</hi> Nous croyons donc que, par ce
+mot <hi rend="italic">honoratum,</hi> qui rappelle exactement le <foreign xml:lang="grc">τετιμημένον</foreign> d’Homère, le
+poëte latin fait à l’lliade une allusion d’autant plus heureuse, peut-
+être, qu’elle rappelle, à l’aide d’un seul mot formant hellénisme, le
+sujet réel et connu de ce poëme fameux.</p>
+						<p>— 2. <hi rend="italic">Difficile est proprie communia dicere....</hi> Pour bien comprendre
+le sens longtemps controversé de ces paroles, il faut les rapprocher
+de ce qui précède et de ce qui suit. Voici la paraphrase pleine de
+justesse que Du Marsais a faite de ce passage « Si vous osez mettre
+sur la scène un sujet nouveau, un caractère qui n’ait pas encore
+été traité, <hi rend="italic">si quid inexpertum,</hi> etc., et que, pour peindre ce carac-
+tère, vous inventiez un personnage jusqu’alors inconnu au théâtre,
+p<hi rend="italic">ersonam novam</hi> que ce personnage conserve toujours son caractère,
+qu’il ne se démente point, et que, jusqu’à la fin de la pièce, il soit tel
+qu’il aura paru au commencement. Mais prenez-y garde, mesurez
+vos forces il est bien difficile d’imaginer et de soutenir ce personnage,
+de le créer, pour ainsi dire, tel qu’il doit être, <hi rend="italic">proprie.</hi> Pour
+peindre quelqu’un de ces caractères dont on n’a encore qu’une idée
+générale, <hi rend="italic">communia,</hi> et qui n’existent <hi rend="italic">qu’à l’état d’abstraction,</hi> on
+n’a aucun modèle devant soi, point d’auteur qui ait traité le même
+sujet on n’a pour guide que la nature. »</p>
+						<p>Exemple : </p>
+						<p>Molière, en prenant l’<hi rend="italic">avare</hi> pour sujet d’une de ses comédies,
+nous a peint un caractère général, <hi rend="italic">communia;</hi> et, par la conduite de
+sa pièce, par tout ce qu’il fait dire et faire à son Harpagon, <hi rend="italic">per-
+sonnage nouveau,</hi> il a traité ce sujet <hi rend="italic">proprie : </hi> il a appliqué à ce
+personnage nouveau le caractère général d’avare Harpagon est
+l’avare personnifié. Concluons avec Du Marsais que, <hi rend="italic">dicere communia
+proprie,</hi> c’est adapter si bien un caractère <hi rend="italic">général</hi> à un personnage
+<hi rend="italic">particulier,</hi> que tontes les actions, toutes les paroles qu’on prête à
+ce personnage, répondent exactement à l’idée abstraite et générale
+qu’on a du caractère.</p>
+						<pb n="66"/>
+						<p>Page 18. — 1. C’est le début de l’Odyssée dans Homère. — Horace-
+dit seulement <hi rend="italic">vidit</hi> nous avons reproduit toute la pensée d’Homère,
+en ajoutant l’idée du verbe <foreign xml:lang="grc">ί·/νω</foreign> : </p>
+						<ab>
+							<seg><foreign xml:lang="grc">Πολλών S’ανθρώπων ίοεν άστίχ xxl νοον iyvw.</foreign></seg>
+						</ab>
+						<p>Page 20. — 1. <hi rend="italic">Aulœa.</hi> On appelait ainsi la toile qui servait à.
+masquer la scène, avant la représentation et dans les entr’actes. Il ne
+faut pas oublier que chez les anciens la toile, au lieu de descendre du
+plafond, comme chez nous, à la fin d’une pièce, s’élevait au con-
+traire de bas en haut. La machine qui la faisait descendre au
+commencement et remonter à la fin des pièces, s’appelait <hi rend="italic">exostra.</hi></p>
+						<p>— 2. <hi rend="italic">Reddere qui voce</hi>s <hi rend="italic">jam soit puer,</hi> etc. Ce passage a été imité-
+par notre vieux poëte Régnier, voyez la satire V; par Boileau, voyez
+l’<hi rend="italic">Art poétique,</hi> liv. III, vers 373 et suiv.; et par Delille, poëme de
+l’<hi rend="italic">Imagination,</hi> chant VI, vers 24 et suiv. Tout le monde connaît,
+dans le <hi rend="italic">Panégyrique de saint Bernard,</hi> par Bossuet, ce magnifique
+portrait de la jeunesse« Vous dirai-je ce que c’est qu’un jeune
+homme de vingt-deux ans?... »</p>
+						<p>Horace lui-même a imité Aristote dans cette peinture si rapide,
+et pourtant si philosophique, des quatre âges de la vie.</p>
+						<p>Page 22. — 1. <hi rend="italic">Dilator, spe lentus, iners, pavidusque futuri.</hi> Nous
+n’hésitons pas à lire ainsi, au lieu de <hi rend="italic">longue</hi> et <hi rend="italic">avidusque futuri. Spe
+lentus</hi> est le <foreign xml:lang="grc">δΰσεΧπις</foreign> d’Aristote. En effet, le vieillard est bien plus
+enclin au désespoir qu’aux longues espérances; et puis, entre ces
+deux mots iners et <hi rend="italic">avidus,</hi> il semble qu’il y aurait opposition; enfin,
+le passage d’Aristote, que le poëte avait certainement en vue, repousse
+complètement l’idée de avidus <foreign xml:lang="grc">oci/oi*ac πάντα προγο(&gt;ητιχο(</foreign>, dit
+Aristote, <hi rend="italic">meticulosi et de omnibus futuris paventes.</hi></p>
+						<p>Page 24. — 1. <hi rend="italic">Intus digna geri.</hi> La scène représentait toujours
+une place publique, ou un endroit fréquenté; par conséquent, ce qui se
+faisait <hi rend="italic">intus</hi>, c’est-à-dire dans l’intérieur d’une maison, ne pouvait se
+voir sur le théâtre. En pareil cas, nous disons qu’un fait se passe
+<hi rend="italic">dans la coulisse.</hi></p>
+						<p>— 2. <hi rend="italic">Facundia pressens.</hi> L’expression serait assez vague, si les
+détails qui précèdent ne la rendaient parfaitement claire, <hi rend="italic">Facundia
+pressens</hi> signifie le récit épisodiquo ou final, dans lequel une péripétie
+quelconque, ou la catastrophe de la tragédie était, ou devait être ra-
+contée par un personnage qui en avait été le témoin, <hi rend="italic">pressens.
+</hi>La tragédie antique finit presque toujours ainsi; voyez <hi rend="italic">OEdipe.
+Hécube,</hi> etc.</p>
+						<p> 3. <hi rend="italic">Quodcumque ostendis mihi sic, incredulus odi.</hi> Ce vers ne
+s’applique pas à Médée immolant ses enfants, mais seulement à
+la métamorphose de Procné et de Cadmus. « Un prodige opéré
+par le ciel même ne révoltera point, dit Voltaire; mais un pro-
+dige opéré par un sorcier, malgré le ciel, ne plaira iamais qu’à la
+populace.»</p>
+						<p>Page 28. — 1. <hi rend="italic">Sortilegis non discrepuit sententia Delphis.</hi> Ce pas-
+<pb n="67"/>
+sage, assez obscur pour qui voudrait ne l’expliquer que mot à mot,
+indique très clairement, ce nous semble, cette tendance du Chœur à
+parler un langage mystérieux et quelquefois mystique. On peut même
+supposer qu’il y a une idée satirique dans ce vers Horace ne se
+piquait pas d’être bien fervent en fait de croyances religieuses.</p>
+						<p>Page 34. — 1. <hi rend="italic">Hic et in Acci nohilibus trimetris. Hic</hi> désigne le
+vers iambique, <hi rend="italic">tel qu’il doit étre.</hi> Horace veut dire, et il dit en effet,
+que rarement Accius et Ennius observent les règles qu’il vient de
+rappeler brièvement. Accius, on Attius, est un poëte tragique pos-
+térieur à Ennius il est mort trente et un ans après lui, l’an 139
+avant J. C.</p>
+						<p>— 2. <hi rend="italic">At nostri proavi.</hi> Quelques éditions portent <hi rend="italic">At vestri proavi,
+</hi>sous prétexte que le fils d’un affranchi n’eût jamais osé dire <hi rend="italic">nos
+ancétres.</hi> Nous sommes convaincu que personne, à Rome, n’aurait
+fait une pareille observation à l’ami de Mécène, au poète qui étail
+en si grande faveur auprès d’Auguste. <hi rend="italic">Nostri proavi</hi> signifie donc,
+tout simplement, <hi rend="italic">les gens d’autrefois,</hi> les anciens Romains, nos de-
+vanciers.</p>
+						<p> 3. <hi rend="italic">Ne dicam stulte...</hi> La postérité a cassé le jugement trop sévère
+porté par Horace sur un poëte comique, auquel nous devons l’idée de
+plusieurs comédies excellentes de Molière. Plaute a certainement un
+on nombre de plaisanteries grossières et inconvenantes; mais on
+remarquera qu’il les prête toujours à des esclaves. Comment les
+beaux esprits du temps d’Horace, et Horace lui-même, pouvaient-
+ils donc se montrer si sévères pour les saillies de Plaute, quand
+on les voit prendre tant de plaisir aux sottises grossières et fort
+peu spirituelles, <hi rend="italic">ne dicam stulte</hi> (ce serait bien le cas de le dire),
+que s’adressent l’un à l’autre Sarmentus et Cicirrus? Pourtant, cet
+assaut d’injures de mauvais goût entre un bouffon et un parasite, eut
+le singulier privilège de réjouir et de charmer, <hi rend="italic">pendant tout un repas,
+</hi>Héliodore le rhéteur, Mécène, Plotius, Varius, Virgile et Horace
+enfin, qui, après nous avoir raconté cette querelle grotesque, ajoute,
+et il faut l’on croire : </p>
+						<ab>
+							<seg>Prorsus jucunde scenam produximus....</seg>
+						</ab>
+						<p>Voyez la satire V du liv. Ier, où se trouve la description du voy(??)
+à Brindes.</p>
+						<p>Page 36. 1. <hi rend="italic">Successit Vetus his Comœdia.</hi> Les grammairien
+d’Alexandrie ont reconnu, comme on le sait, trois sortes de comédies.
+l’ancienne, la moyenne et (a nouvelle. La première avait des choeurs
+chantants, comme la tragédie, c’est la comédie d’Aristophane : </p>
+						<ab>
+							<seg>Eupolis, atque Cratinus, Aristophanesque poetæ.</seg>
+						</ab>
+						<p>Les deux autres n’en avaient pas; mais ce qui les distingue sur-
+tout de la première, c’est la modération satirique à laquelle la lot
+les contraignit. Voyez Horace, <hi rend="italic">Art poétique,</hi> vers 283 et 284,et
+épître I, livre II, vers 152 et suivants : </p>
+						<pb n="68"/>
+						<ab>
+							<seg>Quin etiam lex
+Pœnaque lata, malo quæ nollet carminé quemquam
+DescrlDi. Vertere modum, formidine fustis
+Ad bene dicendum delectandumque redacti.</seg>
+						</ab>
+						<p>— 2. <hi rend="italic">Vel qui Prœtextas, vel qui docuere Togatas. Prætextas,</hi> la
+tragédie, parce que les acteurs portaient la robe <hi rend="italic">prétexte,</hi> qui n’ap-
+partenait qu’aux nobles; <hi rend="italic">Togatas,</hi> la comédie, parce que les acteurs
+portaient la toge, vêtement ordinaire des gens du peuple.</p>
+						<p>— 3. <hi rend="italic">Pompilius sanguis.</hi> Horace appelle les jeunes Pisons sang
+<hi rend="italic">de Pompilius : </hi> Acron et Porphyrion disent que Numa Pompilius eut
+un fils nommé Calphus, ou Calpur, de qui les <hi rend="italic">Calphurnii</hi> ou <hi rend="italic">Cal
+purnii Pisones</hi> prétendaient tirer leur origine.</p>
+						<p>Page 38. — 1. <hi rend="italic">Tribus Anticyris.</hi> Il y avait, en effet, trois endroits
+de ce nom la ville d’Anticyre, en Phthiotide, était située au nord de
+l’embouchure du Sperchius, dans le golfe Maliaque, où se trouvait
+une île, également nommée <hi rend="italic">Anticyre;</hi> une troisième Anticyre se
+trouvait en Phocide, dans le pays des Locriens Ozoles, au sud-ouest
+de Delphes, près de la côte du golfe de Corinthe et, par une coïnci-
+dence singulière, mais suffisamment constatée, le territoire de
+toutes les trois produisait l’ellébore, dont on se servait particuliè-
+rement pour la guérison de la folie. Strabon mentionne ces trois
+Anticyres. (Voir <hi rend="italic">Essai de Géographie historique ancienne</hi>, par F. An-
+sart; Grèce septentrionale, § 737, page 238, 3<hi rend="superscript">e</hi> édition.)</p>
+						<p>Malgré ce renseignement positif, j’ai préféré dans la traduction
+l’idée d’une seule Anticyre elle a l’avantage de présenter un trait
+comique, dont l’exagération maligne va bien mieux aux habitudes
+satiriques du poëte.</p>
+						<p>— 2. <hi rend="italic">Tonsori Licino.</hi> Licinus, barbier enrichi, que César avait
+fait sénateur, et qui fut, à ce que l’on pense, exclu du sénat par
+Auguste.</p>
+						<p>Page 42. — l. <hi rend="italic">Pateras dixisse?</hi> — <hi rend="italic">Triens...</hi> C’est le tiers d’une
+livre ou d’un as. La livre avait douze parties égales, appelées onces;
+ses subdivisions étaient; 1º <hi rend="italic">uncia,</hi> l’once; 2º <hi rend="italic">sextans,</hi> deux onces,
+on le sixième de la livre; 3º <hi rend="italic">quadrans,</hi> trois onces, ou le quart de la
+livre; 4º <hi rend="italic">triens</hi>, quatre onces, ou le tiers de la livre; 6º <hi rend="italic">quincunx,
+</hi>cinq onces; 6º <hi rend="italic">semis</hi> (pour <hi rend="italic">semissis</hi>), une demi-livre, ou six onces;
+7º <hi rend="italic">septunx,</hi> sept onces; 8º <hi rend="italic">bes,</hi> huit onces, ou les deux tiers de la
+livre; 9º <hi rend="italic">dodrans,</hi> neuf onces, ou les trois quarts; 10º <hi rend="italic">dextans,</hi> dix
+onces; 11º <hi rend="italic">deunx,</hi> les onze douzièmes de la livre; 12º, enfin, ai,le
+(??)rvre, ou l’as, réunion des douze onces.</p>
+						<p>— 2. <hi rend="italic">Pransæ Lamiœ.</hi> Les Lamies, espèce de Gargantuas ou de
+Croquemitaines femelles, étaient des monstres fabuleux, ayant une
+tête et une poitrine de femme, terminée par le corps d’un serpent.</p>
+						<p>Page 44. — 1. <hi rend="italic">Celsi Rhamnes.</hi> Les Chevaliers dédaigneux, hautains
+<hi rend="italic">Rhamnes</hi> était le nom d’un des trois corps de chevaliers institués par
+Homulus.</p>
+						<p>Page 46 — 1. <hi rend="italic">Qui multum cessat, fit Charilus ille</hi>... Chérile
+<pb n="69"/>
+mauvais poète qu’Alexandre récompensa largement ponr des vers
+médiocres, composés à sa louange. Voyez l’épître tre du livre II,
+vers 232 et suiv. : </p>
+						<ab>
+							<seg>Gratus Alexandro regi Magno fuit ille
+Chœrilus, incultis qui versibus et male natie
+Rettulit acceptes, regale nomisma, Philippos</seg>
+						</ab>
+						<p>s.-B. Rousseau a fait allusion à ce passage, dans les vers sui-
+vants : </p>
+						<ab>
+							<seg>C’est ainsi qu’au milieu des palmes les plus belles.
+Le vainqueur généreux du Grauique et d’Arbelles
+Cultivait les talents, honorait le savoir,
+El, de Chérile même excusant la manie,
+Au défaut du génie.
+Récompensait en lui le désir d’en avoir.
+(Livre XVIII, ode II, au prince Eugène.)</seg>
+						</ab>
+						<p>Page 48. — 1. <hi rend="italic">Sardo</hi> cum <hi rend="italic">melle papaver.</hi> On mêlait avec du miel
+la graine de pavot blanc rôtie mais le miel de Sardaigne était
+extrêmement amer. La même plante qui lui donnait cette amertume
+désagréable, produisait sur les lèvres une contraction nerveuse qui
+se manifestait par un sourire convulsif. C’est de là qu’est venue
+l’expression proverbiale de <hi rend="italic">rire sardonique.</hi></p>
+						<p>— 2. <hi rend="italic">Census equestrem</hi> summam <hi rend="italic">nummorum.</hi> Pour être admis-
+sible dans l’ordre des Chevaliers, au temps d’Horace, il fallait
+posséder quatre cent mille sesterces (79,500 fr.). Voyez l’épître Ire
+du liv. Ier, vers 57 : </p>
+						<ab>
+							<seg>Si quadringentis sex septem millia desunt,
+Plebs eris....</seg>
+						</ab>
+						<p>Page 50. — 1. <hi rend="italic">In Metii descendat judicis aures....</hi> Métius Tarp,
+ami d’Horace, excellent juge en poésie, est le même dont il est
+question au vers 38 de la satire X du livre Ier : </p>
+						<ab>
+							<seg>Hæc ego ludo,
+Quæ nec in æde sonent certantia, judice Tarpa,
+Nec redeant iterum aique iterum spectanda theatris.</seg>
+						</ab>
+						<p>— 2. <hi rend="italic">Nonumque prematur in annum...</hi> Ce conseil, dirons-nous avec
+M. Walckenaër, de garder <hi rend="italic">pendant neuf ans</hi> toute composition litté-
+raire, quelle qu’elle soit, n’a pas été compris par les commentateurs.—
+On l’a considéré comme un précepte général, tandis qu’au contraire
+ce n’est qu’un conseil donné au jeune Pison, alors âgé de dix-sept
+ou dix-huit ans, tout au plus. Nous croyons donc qu’Horace a voulu
+dire simplement qu’on ne devait pas se produire en public, comme
+auteur, avant vingt-quatre ou vingt-cinq ans, et qu’on devait garder
+ce qu’on avait composé avant cet âge, comme des fruits précoces
+dont on attend la maturité. Horace avait d’ailleurs suivi lui-même
+ce précepte, en ne laissant rien paraître, avant cet âge, des vers
+grecs qu’il dit avoir composés dans sa première jeunesse, concur-
+(??)cmment, sans doute, avec quelques odes latines.</p>
+						<pb n="70"/>
+						<p>Page 52. — 1. <hi rend="italic">Nunc satis est dixisse.</hi> An lieu de <hi rend="italic">nunc,</hi> quelques
+éditions disent <hi rend="italic">nec.</hi> Des deux manières, l’intention satirique est par-
+faitement sensible. Nunc est dans les meilleurs manuscrits.</p>
+						<p>Page 54. — 1. <hi rend="italic">Ut, qui conducti plorant in funere.</hi> Allusion à cet
+usage antique, bien connu, d’avoir aux funérailles des pleureurs
+à gages <hi rend="italic">(conducti).</hi> Cet usage a disparu en France, mais il (??)’y
+était maintenu jusque dans les dernières années.</p>
+						<p>Page 56. — 1. <hi rend="italic">Quintilio si quid recitares.</hi> Quintilius Vania, poète
+distingué, en l’honneur de qui a été composée l’ode XX du livre Ier : </p>
+						<ab>
+							<seg>Quis desiderio sit pudor aut modus
+Tam cari capitis?</seg>
+						</ab>
+						<p>ode adressée à Virgile.</p>
+						<p>— 2. <hi rend="italic">Et male formatas incudi reddere versus.</hi> Sidoine Apollinaire,
+an v<hi rend="superscript">e</hi> siècle, a lu <hi rend="italic">formatos,</hi> et non pas <hi rend="italic">tornatos</hi> : « <hi rend="italic">Horatiana</hi> incude»
+« formates <hi rend="italic">asclepiadeos,</hi>» dit-il, épit. IX, 13. Ainsi ont lu évidem-
+ment Acron et Porphyrion, les plus anciens commentateurs d’Ho-
+race « <hi rend="italic">Ferramentum male ductum</hi> redditur incudi, <hi rend="italic">et bene ibi</hi> for-
+« matur. » (A<hi rend="smallcap">cron</hi>.) — « <hi rend="italic">Ferramentum</hi> male formatum redditur in-
+« cudi, <hi rend="italic">ut ibi</hi> formetur. » (P<hi rend="smallcap">orphyrion.</hi>)</p>
+						<p>On le voit donc, le mot <hi rend="italic">formare</hi> est l’expression technique et
+usuelle pour dire <hi rend="italic">forger le fer sur l’enclume.</hi> Bien que la leçon <hi rend="italic">for-
+matos</hi> ne toit pas donnée par les manuscrits, nous l’avons préférée
+à <hi rend="italic">tornatos,</hi> qui en diffère bien peu matériellement, et qui nous semble
+un peu barbare. Nous ajouterons que dix-sept éditeurs ou critiques
+ont adopté cette leçon nouvelle, entre autres, Guyet, Cuningham,
+Sanadom, Poinsinet de Sivry, Ménage et Daru.</p>
+						<p>— 3. <hi rend="italic">Vir bonus et prudens,</hi> etc. On fera bien de comparer ce por-
+trait d’un <hi rend="italic">ami prudent et éclairé</hi> à celui <hi rend="italic">du critique impartial</hi> trace
+par le poète dans l’Epître à Florus (la seconde du livre II), vers
+109 à 125. Nous rapprocherons surtout les traits suivants : </p>
+						<ab>
+							<seg>Audebit, quæcumque parum splendoris habebunt,
+Et sine pondéré erunt, et honore indigna ferentur,
+Verba movere loco, quamvis invita recedant....
+Luxuriantia compescet; nimis aspera sano
+Lœvabit cultu; virtute carentia tollet....</seg>
+						</ab>
+						<p>On sait que Boileau a réuni en un seul tableau ces deux por-
+traits si habilement indiqués par Horace. C’est peut-être le cas
+d’exposer ici l’opinion, encore peu débattue, et partant assez neuve,
+que les deux premières Epîtres du second livre forment, avec l’<hi rend="italic">Épttre
+aux Pisons,</hi> un <hi rend="italic">Art poétique</hi> assez complet dans l’ensemble, quoique
+composé de trois éléments bien distincts. L’analyse succincte de ces
+deux épîtres adressées, la première, à Auguste, et la seconde, à Jules
+Florus, prouvera ce que nous avançons. Dans l’Epître à Auguste,
+laquelle peut, relativement à la question qui nous occupe, se di-
+viser en trois parties, le poète établit d’abord une comparaison entre
+les auteurs anciens et les modernes; — ensuite, il montre que la
+<pb n="71"/>
+nouveauté est mère des beaux-arts, des belles-lettres, et surtout de
+la poésie; — enfin, dans la troisième partie, il traite de la poésie
+dramatique et de la difficulté de réussir au théâtre. Il y a une qua-
+trième partie, mais qui s’adresse particulièrement à Auguste — il
+est de l’intérêt d’un prince d’exciter l’émulation des poëtes, car la
+poésie contribue, aussi sûrement que le bronze lui-même, à éter
+niser la gloire des grands hommes : </p>
+						<ab>
+							<seg>Nec magis expressi vultus per ahenea signa,
+Quam per vatis opus, mores animique virorum
+Clarorum apparent.
+(Vers 248 et suivants.)</seg>
+						</ab>
+						<p>Dans l’Epître à Florus, beaucoup plus familière, et entremêlée d’his-
+toriettes racontées comme raconte Horace, le poète nous déclare,
+en vers charmants, qu’il ne veut plus faire de vers, et qu’il est fa-
+tigué du métier de poëte, à cause de la vanité, des intrigues mes-
+quines et de l’incapacité de ses confrères. A cette boutade satirique
+et mordante, qui rappelle assez les derniers vers de l’<hi rend="italic">Art poétique</hi>,
+Horace ajoute, eu passant, et sans avoir l’air d’y toucher, comme
+nous dirions, quelques préceptes d’une haute raison. Cette question
+qu’il a traitée plus d’une fois, la difficulté de bien écrire, lui a
+inspiré les vers que nous citons plus haut, et qui ont, avec le pas
+sage de l’<hi rend="italic">Art poétique,</hi> objet de cette note, une analogie frappante,
+incontestable.</p>
+						<p>On sait, d’ailleurs, que <hi rend="italic">l’Épître aux Pitons</hi> est postérieure aux
+deux précédentes. Ainsi, il est naturel, il est permis, au moins, de
+penser que le poëte, en composant cette fameuse épître, la plus
+longue de celles qu’il a laissées, songeait à réunir et à compléter
+ce qu’il avait déjà dit antérieurement sur <hi rend="italic">l’Art d’écrire.</hi> On remar-
+quera facilement que, dans aucune de ces trois pièces, Horace n’a
+voulu astreindre à un plan systématique sa muse vagabonde, son
+style familier, son allure pleine de liberté et de caprice. Mais, dans
+toutes les trois aussi, nous retrouvons, avec M. Walckenaër, la même
+idée élevée du vrai poëte, le même sentiment de la haute utilité et de
+la noble mission de la poësie tout cela, exposé sans prétention
+par un homme de goût qui cause avec entraînement, avec verve,
+mais qui n’a garde de se donner l’attitude imposante d’un profes-
+seur qui enseigne, ou d’un législateur qui régente.</p>
+						<p>Coucluons. — Si l’<hi rend="italic">Ép</hi>î<hi rend="italic">lre aux Pisons,</hi> considérée dès son apparition
+comme une œuvre à part, et citée deux fois déjà par Quintilien sont
+le nom d’Art <hi rend="italic">poétique,</hi> est an morceau plus sérieux, pins spécial,
+plus didactique, en un mot, que l’Epître à Auguste, et, surtout,
+que l’Epître à Florus; si, contre la manière habituelle d’Horace, elle
+renferme plus de principes de l’art considéré en lui-même que de
+maximes de moralité; si, enfin, parmi tant d’allusions malignes
+dirigées contre les anciens, et tant de traits satiriques à l’adresse
+des poëtes ridicules de son temps, il n’a pas dit un seul mot sur sa
+personne, sur ses antécédents, sur sa jeunesse. comme il le fait avec
+<pb n="72"/>
+tant de grâce dans l’Épître à Florus il n’en demeure pas moine
+établi que ces trois épîtres sont intimement liées entre elles, d’abord
+par l’identité du sujet, par la ressemblance souvent frappante des-
+détails; et, ensuite, qu’elles concourent au même but, qu’elless
+commentent, s’éclairent et se complètent l’une par l’autre.</p>
+						<p>Cette <hi rend="italic">préméditation</hi> de la part d’Horace, si fortement préoccupé
+(dit M. Walckenaër) des mêmes pensées, qu’il éprouvait le vif
+besoin de les exprimer, cette préméditation nous semble donc suffi-
+samment démontrée. Nous aurions pu exposer cette opinion dans les
+notes des deux épîtres <hi rend="italic">à Auguste</hi> et <hi rend="italic">à Florus;</hi> mais nous avons préféré
+la traiter ici complètement, à propos de <hi rend="italic">l’Épître aux Pisons,</hi> dont les
+deux précédentes ne sont en réalité que des parties accessoires, bien
+qu’elles soient, l’une et l’autre, d’une date antérieure.</p>
+						<p>L’Epître <hi rend="italic">à Fiorus</hi> est de 743, l’Epître d <hi rend="italic">Auguste</hi> de 744, enfin,
+l’<hi rend="italic">Épître aux Pisons</hi>, de 745. Ainsi que nous l’avons dit, Horace
+avait cinquante-quatre ans, quand il écrivait la première; cinquante
+cinq ans, lors de la seconde, et cinquante-six ans à l’époque de la
+troisième. Peut-être même celle-ci ne fut-elle pas achevée par le
+poëte du moins, on croit généralement qu’elle ne fut publiée qu’aprèa
+sa mort.</p>
+						<p>Page 58. — 1. <hi rend="italic">Morbus regius.</hi> Ce n’est pas l’épilepsie, maisla jaunisse.
+On l’appelait morbus <hi rend="italic">regivs,</hi> d’après Celse, parce qu’on ordonnait au
+malade de ne s’occuper que de choses agréables, de se livrer à toute
+sorte de distractions, de voyager ou de voir beaucoup de monde.</p>
+						<p>— 2. <hi rend="italic">Hic dum,</hi> sublimis, versus ructatur. J’aime mieux lire su-
+blimis se rapportant au poëte, que <hi rend="italic">sublimes</hi> se rapportant à <hi rend="italic">ver
+sus;</hi> l’image est bien (??),us vive, et rappelle plus naturellement l’idée
+qui suit <hi rend="italic">si veluti merulis intentus decidit aureps.</hi></p>
+						<p>— 3. Qui <hi rend="italic">sois an prudens hue se projecerit?</hi> Il est évident qu’il y a
+ici une négation sous-entendue c’est la négation incluse dans le
+verbe nolit du vers suivant (<hi rend="italic">atque servari nolit</hi>), qui réagit sur la
+première partie de la proposition.</p>
+						<p>Page 60. — 1. <hi rend="italic">An triste bidental moverit incestus. Bidental</hi> est la
+place même où la foudre était tombée on y élevait un petit autel
+expiatoire, sur lequel on immolait des brebis (<hi rend="italic">bidentes</hi>), d’où le mot
+bi<hi rend="italic">dental.</hi></p>
+					</div>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>

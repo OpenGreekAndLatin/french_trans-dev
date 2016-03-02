@@ -1,0 +1,3183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>ODES D’ANACRÉON DE TÉOS</title>
+				<sponsor>University of Leipzig</sponsor>
+				<funder>European Social Fund Saxony</funder>
+				<principal>Gregory Crane</principal>
+				<meeting/>
+				<respStmt>
+					<persName xml:id="DDD">Digital Divide Data</persName>
+					<resp>Corrected and encoded the text</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Greta Franzini</persName>
+					<resp>Project Manager (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Frederik Baumgardt</persName>
+					<resp>Technical Manager (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Simona Stoyanova</persName>
+					<resp>Project Assistant (University of Leipzig)</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Bruce Robertson</persName>
+					<resp>Technical Advisor</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>University of Leipzig</authority>
+				<idno type="filename">TO BE ADDED BY LEIPZIG</idno>
+				<availability>
+					<p>Available under a Creative Commons Attribution-ShareAlike 4.0 International License</p>
+				</availability>
+				<date>2014</date>
+				<publisher>University of Leipzig</publisher>
+				<pubPlace>Germany</pubPlace>
+			</publicationStmt>
+			<sourceDesc>
+				<listBibl xml:lang="fr">
+					<biblStruct>
+						<monogr>
+							<title>ODES D’ANACRÉON DE TÉOS</title>
+							<editor>
+								<persName>
+									<name xml:lang="fr">PAR L. PIVET</name>
+								</persName>
+							</editor>
+							<author ref="urn:tmp">PAR L. PIVET</author>
+							<imprint>
+								<pubPlace>L’ART DU LIVRE</pubPlace>
+								<publisher>F. LEBÈGUE, ÉDITEUR 95, Boulevard St-Michel, Paris.</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="grc">Greek</language>
+				<language ident="fr">French</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2014-12-16" who="dwp"/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="bibliography">
+				<listBibl>
+					<bibl/>
+				</listBibl>
+			</div>
+<div type="commentary" subtype="other">
+				<pb n="5"/>
+				<head>
+					<title>NOTICE SUR ANACRÉON</title>
+				</head>
+				<p><hi rend="italic">Suivant la chronologie, Anacréon
+					vient après Alcée et Sapho; il est le
+					véritable successeur des poètes les-
+					biens. Lui aussi est un chantre de
+					l’amour, mais avec une élégance plus
+					mondaine, et chez qui l’esprit supplée
+					parfois à la passion. Poète ionien,
+					c’est dans le dialecte ionien et non
+					dans le dialecte éolien qu’il compose
+					ses gracieuses poésies.</hi></p>
+	<p><hi rend="italic">Né à Téos vers le milieu du VI</hi><hi rend="superscript">e</hi>
+				<hi rend="italic">siècle, Anacréon par suite de l’atta-
+					que du satrape perse Harpage contre
+					l’Ionie en 545, aurait d’après Suidas</hi>
+					<pb n="6"/>
+					<hi rend="italic">émigré à Ahdère, colonie de Téos,
+						c’est à cette époque que doit se placer
+						(si toutefois le récit de Suidas est
+						conforme à la réalité) son activité
+						guerrière qui ne lui fait guère honneur
+						(fragments 28 et 29 de Bergk). Il n’y
+						a rien chez Anacréon, du soldat de
+						profession ni du mercenaire aventu-
+						reux : c’est un poète de cour, un ami
+						du plaisir, qui a passé un demi-siècle
+						à se couronner de roses, à chanter
+						l’amour et le vin, et qui, ayant gardé
+						jusqu’à la fin cette belle humeur fo-
+						lâtre, est resté dans la mémoire des
+						hommes comme le type même de la
+						légèreté aimable et brillante.</hi></p>
+				<p><hi rend="italic">Plus tard, nous le trouvons avec
+					Ibycus à la cour du puissant tyran
+					de Samos, Polycrate qui imposa aux
+					Samiens une dure servitude.</hi></p>
+				<p><hi rend="italic">Polycrate qui fonda une marine et
+					développa l’industrie de Samos, était
+					un aventurier sans scrupules, doué</hi>
+					<pb n="7"/>
+					<hi rend="italic">d’un goût raffiné : quelque chose
+						comme un prince italien de la Re-
+						naissance.</hi></p>
+				<p><hi rend="italic">Dans ce monde très brillant, mais
+					peu moral, Anacréon se trouvait
+					parfaitement à l’aise. Il était l’âme
+					des fêtes données par le tyran; ses
+					chansons étaient composées pour cette
+					cour élégante.</hi></p>
+				<p><hi rend="italic">Le poète de Téos — Teius poeta
+					dit Horace — paraît avoir été l’ami
+					et le confident de Polycrate, prêtant
+					son art à l’expression des sentiments
+					de son protecteur plutôt qu’aux siens
+					propres; dans certaines pièces il ne
+					semble amoureux que par procura-
+					tion. Elien l’en loue, parce que les
+					amours de Polycrate étaient souvent
+					répréhensibles : l’excuse est bizarre.
+					Il semble que le principal mérite
+					moral d’Anacréon (si l’on peut parler
+					à ce propos de mérite moral) ait été
+					d’abord dans sa haine pour la per-</hi>
+					<pb n="8"/>
+					<hi rend="italic">suasion qui s’achète à prix d’argent,
+						ensuite et surtout dans son goût de la
+						beauté, qui l’éloignait de certaines
+						bassesses et lui faisait rechercher en
+						tout une mesure élégante.</hi></p>
+				<p><hi rend="italic">A la suite de la chute du tyran,
+					Hipparque emmena Anacréon à
+					Athènes, et, quand Hipparque fut
+					tombé à son tour en 514, notre poète
+					paraît avoir accepté l’invitation d’E-
+					chékrate, dynaste de Thessalie. Il
+					atteignit un âge avancé, on le repré-
+					sentait comme un vieillard qui ai-
+					mait la vie, les plaisirs du vin et de
+					l’amour.</hi></p>
+				<p><hi rend="italic">Les œuvres d’Anacréon formaient,
+					à l’époque alexandrine, cinq livres.
+					Nous n’en avons plus que des frag-
+					ments fort courts, provenant pres-
+					que tous de chansons d’amour et
+					de chansons de table. Il avait pour-
+					tant composé aussi des élégies, des
+					épigrammes, et peut-être quelques</hi>
+					<pb n="9"/>
+					<hi rend="italic">hymnes. Mais l’inspiration de tous
+						ces poèmes, sans excepter les hym-
+						nes, était assez semblable à celle des
+						odes : les hymnes devaient être des-
+						tinés à des fêtes plus mondaines
+						que religieuses, et manquer de gra-
+						vité, comme on en peut juger par les
+						hymnes en l’honneur d’Artémis et de
+						Dionysos.</hi></p>
+				<p><hi rend="italic">Anacréon est un poète de l’amour</hi>;
+					<hi rend="italic">il en parle non avec la fougue d’Alcée,
+						ni avec la passion brûlante de Sapho,
+						mais avec une passion plus réglée,
+						avec une sagesse tout épicurienne; il
+						aime la joie</hi>, <hi rend="italic">ennemie des querelles
+							violentes.</hi></p>
+				<p><hi rend="italic">Il disait de lui-même — fragment
+					45 —</hi> « <hi rend="italic">mes chants sont doux et dou-
+						ces mes paroles</hi> ». <hi rend="italic">Il avait raison. La
+							douceur de ses chants rappelle Sa-
+							pho, avec laquelle, on le comparaît
+							quelquefois. Ce qui domine chez
+							lui, est une sorte de prosaïsme gra-</hi>
+					<pb n="10"/>
+					<hi rend="italic">cieux. L’allure générale de sa phrase
+						a la souplesse, l’élégance aisée, vive,
+						légère, où se reconnaît d’ordinaire la
+						race à laquelle il appartenait.</hi></p>
+				<p><hi rend="italic">Cependant des railleries, des sa-
+					tires, se mêlaient parfois dans les
+					poèmes d’Anacréon à l’éloge du plai-
+					sir : le poète savait à l’occasion déco-
+					cher des traits acérés : l’épigramme
+					contre Artémon — fragment 21</hi> — <hi rend="italic">en
+						est la preuve, mais ces moqueries
+						étaient exceptionnelles.</hi></p>
+				<p><hi rend="italic">On l’oublie trop souvent, Anacréon
+					a été jeune, c’est à la cour de Poly-
+					crate qu’il a composé ses plus jolies
+					chansons.</hi></p>
+				<p><hi rend="italic">Si la postérité</hi> se <hi rend="italic">le représente
+					comme un vieillard, cela vient des
+					fausses pièces anacréontiques, petite
+					collection de poèmes dont il n’est
+					nullement l’auteur, mais qui ont été
+					composées à l’époque alexandrine ou
+					à l’époque romaine, par des amateurs</hi>
+					<pb n="11"/>
+					<hi rend="italic">de sa manière, beaux esprits que ce
+						pastiche amusait.</hi></p>
+				<p><hi rend="italic">L’une d’entre-elles est citée tout au
+					long, dans Aulu Gelle,</hi> Nuits Attiques
+					<hi rend="italic">19, 9. L’auteur de cette illusion est
+						le premier éditeur des</hi> Anacréontiques.
+					<hi rend="italic">Ces petites pièces furent découvertes
+						et publiées par Henri Estienne en
+						1554 d’après un manuscrit qu’on n’a
+						pu identifier avec certitude. Les diffé-
+						rences de caractère et de style de ces
+						poésies d’avec les qualités que nous
+						reconnaissons aux fragments authen-
+						tiques d’Anacréon auraient dû éveil-
+						ler la défiance des lecteurs. Dès la
+						première édition d’Henri Estienne,
+						seul Robortello protesta, mais sa voix
+						resta sans écho. La paternité de ces
+						opuscules étant bien acquise à Ana-
+						créon; même en 1864 Ambroise
+						Firmin Didot y croyait encore; le
+						succès de ces anacréontiques eut un
+						retentissement considérable.</hi></p>
+				<pb n="12"/>
+				<p><hi rend="italic">Depuis Ronsard dont les imitations
+					furent souvent heureuses, aucun poète
+					n’a été plus traduit, plus imité, en
+					France que le faux Anacréon.</hi></p>
+				<p><hi rend="italic">Il le méritait dans une certaine me-
+					sure, l’art hellénistique n’est pas à
+					dédaigner comme le dit avec justesse
+					le « philosophe » Joubert, la lie même
+					de la littérature des grecs, dans sa
+					vieillesse, offre un résidu délicat. Les
+					odelettes de</hi> l’Amour mouillé, <hi rend="italic">de la
+					</hi>Cigale <hi rend="italic">ont vraiment du charme, et la
+						pièce qui met en œuvre le motif popu-
+						laire si connu :</hi> « <hi rend="italic">je voudrais être le
+							miroir pour que ton regard s’attachât
+							sur moi; je voudrais être l’eau pour
+							baigner tes membres, etc.», ce joli
+							thème amoureux, même dans une ode
+							apocryphe, garde son prix.</hi></p>
+				<p><hi rend="italic">Elles ne peuvent toutefois nous em-
+					pêcher de souhaiter que les sables de
+					l’Égypte qui nous ont rendu Bacchy-
+					lide et Hérondas, nous restituent un</hi>
+					<pb n="13"/>
+					<hi rend="italic">jour l’œuvre complète d’Anacréon
+						qu’ont connue et éditée les grands
+						critiques d’Alexandrie. On aurait la
+						même émotion artistique que l’on
+						éprouve quand, après avoir vu les
+						amours mignards de la</hi> Casa dei Vettii
+					à <hi rend="italic">Pompei, on se trouve devant le Faune
+						ivre ou le Faune dansant de l’incom-
+						parable musée de Naples.</hi></p>
+				<p><hi rend="italic">Mais en attendant qu’un coup de
+					pioche heureux dans un cimetière de
+					crocodiles égyptiens nous donne, en
+					totalité ou en partie, le véritable Ana-
+					créon, il ne faut pas faire fi des
+					imitations dont le poète de Téos a
+					été l’objet chez les poètes français
+					et étrangers. On s’attend dans une
+					édition d’Anacréon (même apocryphe)
+					à voir les traductions et les imitations
+					de Remi Belleau, de Ronsard et de
+					La Fontaine qui sont dans toutes les
+					mémoires. (Il n’y a pas jusqu’aux
+					anachronismes voulus de Ronsard</hi>
+					<pb n="14"/>
+					<hi rend="italic">qui ne soient pleins de saveur et de
+						charme).</hi></p>
+				<p><hi rend="italic">On les trouvera donc ici à la suite
+					de cette traduction; nous avons pensé
+					que les lecteurs de ce petit volume
+					ne nous sauraient pas mauvais gré
+					d’avoir sous les yeux quelques-uns
+					des joyaux dont peut s’enorgueillir
+					la littérature.</hi></p>
+				<p><hi rend="italic">H. L.</hi></p>
+				</div>
+<div type="edition" subtype="volume" xml:space="preserve">
+<div type="textpart" subtype="book" n="1">
+		<pb n="15"/>
+		<head><title>LA LYRE DU POÈTE</title></head>
+		<pb n="17"/>
+		<head>
+		<title>LA LYRE DU POÈTE</title>
+		</head>
+<p>JE VEUX DIRE LES ATRIDES,
+JE VEUX CHANTER CADMOS,
+MAIS LES CORDES DE MA
+LYRE NE RÉSONNENT QUE
+D’ACCENTS D’AMOUR. J’AI
+CHANGE LES CORDES, PUIS LA
+LYRE TOUT ENTIÈRE, MAIS
+TANDIS QUE JE CÉLÉBRAIS LES
+TRAVAUX D’HÉRACLÈS, MA LYRE
+INDOCILE NE FAISAIT RÉSONNER
+EN RÉPONSE QUE LES AMOURS.</p>
+<p>ADIEU DONC POUR LA VIE,
+HÉROS, CAR MA LYRE NE CHAN-
+TE PLUS QUE LES AMOURS.</p>
+<div type="textpart" subtype="chapter" n="1">
+					<pb n="19"/>
+					<head>
+						<title>PREMIÈRE PARTIE</title>
+					</head>
+					<pb n="21"/>
+						<head>
+							<title>ÉROS
+DIEU DE L’AMOUR</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>INVOCATION</title>
+							</head>
+							<p>Je veux chanter le délicat Éros, ce
+dieu plein de force, aux couronnes
+tressées de mille fleurs, c’est le maître
+des dieux, c’est lui le dompteur des
+mortels.</p>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title> II
+L’ÉROS ENCHAINÉ</title>
+							</head>
+							<p>Les Muses ont enchaîné Eros avec
+des guirlandes de fleurs et l’ont
+livré aux mains de la Beauté. Aujour-
+d’hui Cythérée le cherche de tous
+<pb n="22"/>
+côtés, portant une rançon pour le dé-
+livrer. Mais c’est en vain qu’on lui ôte-
+rait ses chaînes, Éros ne s’en ira pas,
+il restera : il a appris à servir.</p>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>III
+L’ÉROS PIQUÉ AU DOIGT</title>
+							</head>
+							<p>Un jour, Éros ne vit pas une abeille
+endormie dans une touffe de roses;
+elle le piqua à un doigt de la main. De
+douleur, il jette un cri, court vers la
+belle Cythérée qu’il embrasse :</p>
+							<p>« Je suis perdu, ma mère, je suis per-
+du! dit-il, je me meurs; un petit ser-
+pent m’a mordu : il a des ailes et les
+laboureurs le nomment abeille. »</p>
+							<p>Cypris lui répond :</p>
+							<p>ce Si l’aiguillon d’une abeille fait du
+mal, Éros, juge combien doivent souf-
+frir tous ceux que tu frappes de tes
+flèches. »</p>
+							<pb n="23"/>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>IV
+L’ÉROS VAINQUEUR</title>
+							</head>
+							<p>Je veux, je veux aimer. Éros naguère
+m’y invita; mais, irréfléchi que je
+fus, je ne me laissai point persuader.
+Alors le dieu saisit son arc et son car-
+quois d’or, et me convia au combat.</p>
+							<p>Moi, comme Achille, je mis une
+cuirasse sur mes épaules, je m’armai
+d’une lance et d’un bouclier, et j’enga-
+geai la lutte avec Éros. Il me décocha
+des flèches, je m’enfuis. Mais il les
+épuisa toutes et s’irrita; alors se lan-
+çant lui-même comme un trait, il péné-
+tra au milieu de mon cœur et me
+désarma.</p>
+							<p>C’est en vain que je porte un bou-
+clier : à quoi bon combattre au dehors,
+quand l’ennemi est dans les murs?</p>
+							<pb n="24"/>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>L’ÉROS DE CIRE</title>
+							</head>
+							<p>Un jeune homme cherchait à vendre
+un Éros en cire; je m’approche et
+lui dis :</p>
+							<p>« Combien veux-tu me vendre cet
+Eros, œuvre de tes mains? »</p>
+							<p>En dialecte dorien, il me répli-
+qua :</p>
+							<p>« Prends-le pour ce qu’il te plaira;
+s’il faut tout te dire, sache que je ne
+suis pas mouleur en cire, mais je ne
+veux plus habiter avec Éros qui ne
+recule devant rien.</p>
+							<p>« Donne-le moi donc, oui, donne-le
+moi pour une drachme, ce charmant
+compagnon!</p>
+							<p>Et toi, Eros, embrase-moi à l’ins-
+tant même, sinon je te fais fondre au
+feu »...</p>
+							<pb n="25"/>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>VI
+L’ÉROS MOUILLÉ</title>
+							</head>
+							<p>Naguère au milieu d’une nuit, à
+l’heure où l’Ourse se tourne près
+de la main du Bouvier, et que, vaincus
+par la fatigue, les mortels reposent,
+Éros survenant heurta le verrou de ma
+porte.</p>
+							<p>« Qui frappe si fort, m’écriai-je, qui
+vient ainsi troubler mes songes? »</p>
+							<p>Mais Éros :</p>
+							<p>« Ouvre, dit-il, je suis un petit en-
+fant; n’aie pas peur. Je suis tout
+mouillé, et dans cette nuit sans lune,
+je me suis égaré. »</p>
+							<p>A ces mots, je me sens ému de
+pitié. J’allume soudain ma lampe, j’ou-
+vre et je vois un petit enfant qui por-
+tait un arc, des ailes et un carquois. Je
+le fais asseoir devant le foyer, je ré-
+<pb n="26"/>
+chauffe ses petites mains dans les
+miennes et j’exprime l’eau de sa che-
+velure humide. Mais à peine est-il re-
+mis du froid;</p>
+							<p>« Allons, dit-il, essayons cet arc;
+voyons si la corde, qu’a mouillée la
+pluie, est bonne encore! »</p>
+							<p>Il le tend et me perce au milieu
+du cœur; je sens comme la piqûre
+d’un taon; et lui de sauter d’aise et,
+riant aux éclats, de dire :</p>
+							<p>« Mon hôte, réjouis-toi avec moi,
+car mon arc est en bon état; mais c’est
+ton cœur qui est malade! »</p>
+						</div>
+						<div type="textpart" subtype="section" n="7">
+							<head>
+								<title>VII
+L’ÉROS COUREUR</title>
+							</head>
+							<p>Éros m’a frappé rudement d’une tige
+de jacinthe, et m’a ordonné de le
+suivre; et moi de courir sur ses pas à
+travers les torrents rapides, les fourrés
+<pb n="27"/>
+et les précipices. La sueur m’accablait, et
+déjà j’avais l’âme sur les lèvres; j’al-
+lais expirer, quand Éros, m’effleurant
+le visage de ses ailes délicates me dit :</p>
+							<p>« Va, tu n’as pas la force d’aimer! »</p>
+						</div>
+						<div type="textpart" subtype="section" n="8">
+							<head>
+								<title>VIII
+L’ÉROS RENAISSANT</title>
+							</head>
+							<p>Aimable hirondelle, chaque année, à
+ton retour, tu tresses ton nid en
+la belle saison; et l’hiver venu, tu dis-
+parais sur les rives du Nil, ou vers
+Memphis.</p>
+							<p>Mais en mon cœur, c’est Éros qui, en
+tous temps, tresse son nid : c’est tan-
+tôt un nouveau-né qui déjà se revêt de
+plumes, tantôt un petit encore dans la
+coquille, ou bien un autre, éclos à
+demi. Ce n’est qu’un cri continuel de
+petits qui ouvrent le bec. Les plus
+grands nourrissent les petits; sont-ils
+<pb n="28"/>
+élevés, ils en enfantent d’autres à leur
+tour. Que faire? Je ne puis cependant
+mettre hors de mon cœur tous ces
+Éros.</p>
+						</div>
+						<div type="textpart" subtype="section" n="9">
+							<head>
+								<title>IX
+SONGE</title>
+							</head>
+							<p>En songe je m’imaginais courir, mes
+épaules avaient des ailes. Éros, ses
+jolis pieds chargés de plomb, se mit à
+ma poursuite et m’atteignit. Que veut
+dire ce songe? Je pense que, pris aux
+filets de nombreux amours, si j’ai pu
+échapper à beaucoup d’autres, je dois
+être lié par un seul.</p>
+						</div>
+						<div type="textpart" subtype="section" n="10">
+							<head>
+								<title>X
+LES FLÈCHES D’ÉROS</title>
+							</head>
+							<p>Dans les antres enflammés de Lem-
+nos, l’époux de Cythérée forgeait
+avec du fer les flèches des Éros. Cypris
+<pb n="29"/>
+en trempait la pointe dans un doux
+miel, mais Éros y mêlait du fiel.</p>
+							<p>Un jour, Arès, de retour des com-
+bats, en brandissant sa forte lance, se
+moquait de ces traits si légers; mais
+Eros :</p>
+							<p>« Celui-ci est pesant, dit-il, fais-en
+l’épreuve, tu en jugeras. »</p>
+							<p>Arès reçoit le trait et Cypris sourit.</p>
+							<p>« Qu’il est lourd, s’écrie Arès en gé-
+missant, ôte-le. »</p>
+							<p>« Non, garde-le, lui répartit Éros ».</p>
+						</div>
+						<div type="textpart" subtype="section" n="11">
+							<head>
+								<title>XI
+LES AMANTS</title>
+							</head>
+							<p>Les chevaux ont sur la hanche une
+marque au fer rouge; on reconnaît
+les Parthes à leurs tiares; moi, si je
+vois des amants, je les reconnais aus-
+sitôt, car ils ont dans l’âme un signe à
+peine visible.</p>
+							<pb n="30"/>
+						</div>
+						<div type="textpart" subtype="section" n="12">
+							<head>
+								<title>XII
+L’ARGENT</title>	
+							</head>
+							<p>Il est pénible de ne pas aimer, il est
+pénible d’aimer; mais ce qui est plus
+pénible que tout, c’est d’échouer quand
+on aime. En amour la naissance n’est
+rien; la sagesse, la conduite, sont dé-
+daignées : on ne regarde que l’argent.</p>
+							<p>Périsse le premier qui aima l’argent!
+A cause de lui, plus de frères, à cause
+de lui, plus de parents. Il est la source
+des guerres et des meurtres; mais le
+pis, c’est que de lui vient notre ruine,
+pauvres amants que nous sommes.</p>
+						</div>
+						<div type="textpart" subtype="section" n="13">
+							<head>
+								<title>XIII
+L’OR</title>
+							</head>
+							<p>L’or, ce transfuge aux pieds rapides
+comme le vent, fuit loin de moi;
+toujours il m’échappe et je renonce à
+<pb n="31"/>
+le poursuivre : à quoi bon chercher à
+atteindre un ennemi? Lorsque je me
+suis éloigné du fugitif, aussitôt je livre
+aux vents tous les chagrins de mon
+cœur; je prends alors ma lyre et je
+chante Éros.</p>
+							<p>Mais quand ma raison a été bien ins-
+truite à le dédaigner, soudain le fuy-
+ard revient me solliciter, traînant à
+sa suite tous les soucis et leur triste
+ivresse, et me force d’abandonner ma
+lyre au doux son!</p>
+							<p>Perfide, or perfide, c’est en vain que
+tes ruses cherchent à me séduire;
+mieux que l’or, les cordes de ma lyre,
+écoute-moi, chantent le désir.</p>
+							<p>Toi, tu n’as su mettre dans le cœur
+des hommes que l’amour de la ruse et
+de l’envie.</p>
+							<pb n="32"/>
+						</div>
+						<div type="textpart" subtype="section" n="14">
+							<head>
+								<title>XIV
+LES DÉFAITES</title>
+							</head>
+							<p>Toi tu chantes la guerre de Thèbes,
+un autre les combats des Phry-
+giens; moi je chante mes défaites.</p>
+							<p>Ni cavalerie, ni infanterie, ni flotte
+ne m’ont pris, mais c’est une armée
+d’espèce nouvelle, qui lance des traits
+par les yeux.</p>
+						</div>
+						<div type="textpart" subtype="section" n="15">
+							<head>
+								<title>XV
+FRAGMENTS</title>
+							</head>
+							<p>O maître, toi avec qui le dompteur
+Éros, les Nymphes aux yeux d’un
+bleu sombre et Aphrodite au teint de
+roses aiment à folâtrer, toi qui parcours
+les sommets des montagnes élevées, je
+t’en supplie à genoux, sois-moi propice,
+exauce ma prière. Donne à Cléobule
+un favorable conseil : fais, ô Diony-
+<pb n="33"/>
+sos, qu’il condescende à mon amour.</p>
+							<p>Éros voyant ma barbe grisonnante,
+ouvre ses ailes dorées et s’enfuit.</p>
+							<p>Éros comme un bûcheron, m’a frappé
+de sa grande hache, et m’a jeté dans
+l’eau furieuse d’un torrent enflé par
+l’hiver.</p>
+							<p>Allons, de l’eau, du vin, jeune enfant;
+apporte-nous aussi des couronnes de
+fleurs; apporte vite, car je vais enga-
+ger la lutte contre Éros.</p>
+						</div>
+					</div>
+	
+<div type="textpart" subtype="chapter" n="2">
+					<pb n="35"/>
+					<head>
+						<title>DEUXIÈME PARTIE</title>
+					</head>
+					
+					<pb n="37"/>	
+						<head>
+							<title>BACCHOS
+DIEU DU VIN</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>XVI
+HYMNE A BACCHOS</title>
+							</head>
+							<p>La joie sur le front, buvons du vin
+et chantons Bacchos l’inventeur de
+la danse, Bacchos l’ami des chants et
+des chœurs, Bacchos le compagnon
+d’Eros et l’amant de Cythère.</p>
+							<p>Il est le père de l’ivresse, la grâce
+est sa fille; c’est lui qui calme la tris-
+tesse, c’est lui qui endort le chagrin.
+Quand des enfants en leur tendre fleur,
+m’apportent une coupe pleine d’un
+breuvage que l’eau a tempéré, la som-
+bre inquiétude s’enfuit sur l’aile des
+vents chargés de tempêtes.</p>
+							<p>Prenons cette coupe et chassons les
+<pb n="38"/>
+soucis. Que gagnerais-tu à vouloir être
+la proie des chagrins? Que savons-
+nous de l’avenir? La vie des mortels
+est incertaine : aussi je veux m’enivrer
+et danser; arrosé de parfums, je
+veux folâtrer avec les belles. Libre à
+qui voudra de s’absorber dans les sou-
+cis; nous, la joie au front, buvons du
+vin et chantons Bacchos!</p>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title>XVII
+QUAND JE BOIS DU VIN</title>
+							</head>
+							<p>Quand je bois du vin, alors le cœur
+épanoui de joie, je commence par
+chanter les Muses.</p>
+							<p>Quand je bois du vin, les soucis s’é-
+loignent de moi et les pensées inquiètes
+s’envolent sur l’aile des vents qui ré-
+sonnent sur la mer.</p>
+							<p>Quand je bois du vin, Bacchos, joy-
+eux, qui donne toute liberté aux jeux,
+m’agite, ivre, dans les airs parfumés
+<pb n="39"/>
+de fleurs.</p>
+							<p>Quand je bois du vin, je couronne
+mon front de guirlandes de fleurs tres-
+sées de mes mains et je célèbre le
+calme d’une vie douce.</p>
+							<p>Quand je bois du vin, je répands sur
+mon corps d’odorantes essences et je
+presse dans mes bras une jeune fille
+en chantant Cypris.</p>
+							<p>Quand je bois du vin, ma raison
+sombre au fond des coupes arrondies
+et je prends plaisir à me mêler au
+chœur des jeunes gens.</p>
+							<p>Quand je bois du vin, je puis dire
+que ce m’est un gain véritable, le seul
+que j’emporterai avec moi, puisqu’il me
+faudra mourir comme les autres!</p>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>XVIII
+BUVONS!</title>
+							</head>
+							<p>La terre noire boit l’eau, les arbres
+boivent la terre, la mer boit l’air,
+<pb n="40"/>
+le soleil boit la mer et la lune boit le
+soleil; pourquoi donc, amis, me que-
+reller quand moi aussi je veux boire?</p>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>XIX
+RÉSOLUTION</title>
+							</head>
+							<p>Né mortel et condamné à suivre le
+sentier battu de la vie, je sais le
+chemin que j’ai fait, mais j’ignore ce
+qu’il m’en reste à parcourir. Fuyez
+donc, tristes soucis! Qu’il n’y ait rien
+de commun entre vous et moi! Avant
+que le terme fatal n’arrive, je veux
+jouer, rire et danser avec le beau
+Lyæos.</p>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>XX
+LES SOUCIS DU POÈTE</title>
+							</head>
+							<p>Quand je bois du vin, mes soucis
+sommeillent. Loin de moi les gé-
+missements, les peines et les inquiétu-
+<pb n="41"/>
+des! Il me faudra mourir, bon gré,
+mal gré : pourquoi dans la vie prendre
+la mauvaise route? Buvons donc la
+liqueur du beau Lyæos : quand je bois,
+mes soucis sommeillent.</p>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>XXI
+VERSEZ, FEMMES, VERSEZ....</title>
+							</head>
+							<p>Versez, femmes, versez, que je boive
+d’un trait la boisson de Bromios!</p>
+							<p>J’ai bu et je soupire, tant la chaleur
+déjà m’accable. Donnez-moi des fleurs,
+des couronnes pour en ceindre ma
+tête; mon front les brûle. Mais, ô mon
+cœur, du feu des Éros, comment puis-
+je te défendre?</p>
+						</div>
+						<div type="textpart" subtype="section" n="7">
+							<head>
+								<title>XXII
+LE DÉLIRE</title>
+							</head>
+							<p>Attis, à moitié femme, appelait dit-
+on, jadis à grands cris sur les mon-
+<pb n="42"/>
+tagnes la belle Cybèle et en perdit la
+raison. Et ceux qui boivent sur les
+hauteurs escarpées de Claros l’onde
+prophétique, consacrée à Phoïbos cou-
+ronné de lauriers, sont saisis de délire
+et poussent des clameurs frénétiques.</p>
+							<p>Pour moi, rassasié de parfums, de la
+liqueur de Lyæos et des baisers de ma
+maîtresse, je veux, je veux délirer.</p>
+						</div>
+						<div type="textpart" subtype="section" n="8">
+							<head>
+								<title>XXIII
+L’IVRESSE</title>
+							</head>
+							<p>Sitôt que Bacchos est descendu en
+mon sein, mes soucis s’endorment.
+Alors je crois posséder les trésors de
+Croïsos et j’entonne mes plus beaux
+chants. Couché mollement et couronné
+de lierre, en esprit je foule aux pieds
+toutes les affaires du monde.</p>
+							<p>Armez-vous, si cela vous plaît; moi,
+je bois. Apporte-moi une coupe, jeune
+enfant; car il vaut bien mieux tomber
+<pb n="43"/>
+dompté par l’ivresse que par la mort.</p>
+						</div>
+						<div type="textpart" subtype="section" n="9">
+							<head>
+								<title>XXIV
+JE VEUX PERDRE LA RAISON...</title>
+							</head>
+							<p>Par les Dieux, laisse-moi boire, boire
+d’un trait! Je veux, oui, je veux
+perdre la raison. Alcméon jadis, ainsi
+qu’Oreste aux pieds blancs, après avoir
+tué leur mère, furent pris de délire. Et
+moi, qui n’ai tué personne, je veux, oui,
+je veux, m’enivrer de vin vermeil et
+délirer aussi!</p>
+							<p>Jadis Héraclès, agitant le terrible
+carquois et l’arc Iphitos, fut pris de
+démence; jadis Ajax, en fureur, se-
+couait l’épée d’Hector contre son bou-
+clier. Pour moi, une coupe à la main
+et une couronne de fleurs dans les
+cheveux, sans arc et sans épée, je veux,
+oui, je veux, perdre la raison.</p>
+							<pb n="44"/>
+						</div>
+						<div type="textpart" subtype="section" n="10">
+							<head>
+								<title>XXV
+LE RETOUR DE BACCHOS</title>
+							</head>
+							<p>Il est revenu, le dieu qui rend la jeu-
+nesse infatigable au travail, intrépide
+en amour, gracieuse à la danse; il ap-
+porte aux mortels son doux philtre, le
+breuvage qui dissipe le chagrin.</p>
+							<p>Bacchos protège le raisin, fils de la
+treille, encore prisonnier dans les grap-
+pes dont les sarments sont les gar-
+diens. Sitôt que la grappe sera cueillie,
+adieu les tristes maladies! Le corps
+restera robuste et l’esprit enjoué jus-
+qu’au retour du prochain automne.</p>
+						</div>
+						<div type="textpart" subtype="section" n="11">
+							<head>
+								<title>XXVI
+LA VENDANGE</title>
+							</head>
+							<p>Des jeunes gens et des jeunes filles,
+portent dans des corbeilles le noir
+raisin et le jettent sur le pressoir. Les
+<pb n="45"/>
+hommes foulent la grappe, font jaillir
+le vin de sa prison, et chantent d’une
+voix éclatante l’hymne sacré du dieu
+du pressoir, en regardant la liqueur
+naissante de Bacchos, qui bouillonne
+dans les tonneaux.</p>
+							<p>Quand il a bu, le vieillard danse d’un
+pied tremblant en agitant sa blanche
+chevelure; mais le jeune amoureux aux
+aguets se glisse par surprise près de
+la vierge accablée de sommeil, dont le
+beau corps repose à l’ombre du feuil-
+lage.</p>
+							<p>Obéissant aux désirs prématurés
+qu’éveille Éros, il la presse, mais en
+vain, de devancer l’heure de l’hymé-
+née; alors il la saisit malgré elle, car
+Bacchos dans l’ivresse use de licence
+avec la jeunesse.</p>
+							<pb n="46"/>
+						</div>
+						<div type="textpart" subtype="section" n="12">
+							<head>
+								<title>XXVII
+QU’IL FAUT BOIRE SANS EXCÈS!</title>
+							</head>
+							<p>Allons, enfant, apporte-moi la gran-
+de coupe, que je boive sans re-
+prendre haleine! Verses-y dix cyathes
+d’eau et cinq de vin, afin que je n’in-
+sulte personne en chantant Bacchos.</p>
+							<p>Allons, verse donc! Et gardons-nous
+des rixes et des clameurs d’un Scythe
+ivre; buvons en chantant de beaux
+hymnes.</p>
+						</div>
+						<div type="textpart" subtype="section" n="13">
+							<head>
+								<title>XXVIII
+LE FESTIN</title>
+							</head>
+							<p>Donnez-moi la lyre d’Homère, moins
+la corde du carnage; apportez-moi
+les coupes selon les règles des festins,
+apportez: j’y ferai le mélange voulu
+par les lois. Alors, ivre, comme je dan-
+serai, associant une sage fureur aux
+rythmes de la lyre! Je chanterai l’hym-
+<pb n="47"/>
+ne bachique. Donnez-moi la lyre d’Ho-
+mère, moins la corde du carnage.</p>
+						</div>
+						<div type="textpart" subtype="section" n="14">
+							<head>
+								<title>XXIX
+LE CONVIVE</title>
+							</head>
+							<p>Je n’aime pas le convive qui, une
+coupe pleine à la main, ne parle que
+de querelles et de la guerre qui fait
+couler les larmes; mais j’aime celui qui,
+unissant les dons charmants des Muses
+à ceux de Cypris, se livre à une aima-
+ble gaîté.</p>
+						</div>
+						<div type="textpart" subtype="section" n="15">
+							<head>
+								<title>XXX
+LA DANSE</title>
+							</head>
+							<p>Le fils de Zeus, Bacchos, Lyæos qui
+délivre l’esprit de soucis n’est pas
+plutôt descendu dans mes sens enivrés,
+que je danse, guidé par lui. Et l’aima-
+ble ivresse n’est point ma seule volup-
+té : au milieu des bruits et des chants,
+<pb n="48"/>
+Aphrodite fait aussi mes délices; et
+encore je veux danser.</p>
+						</div>
+						<div type="textpart" subtype="section" n="16">
+							<head>
+								<title>XXXI
+ÉROTIQUE</title>
+							</head>
+							<p>J’aime les danses de Bacchos, ami
+des 0jeux; j’aime à jouer de la lyre
+avec un jeune et beau convive; j’aime
+plus que tout, le front ceint d’une cou-
+ronne d’hyacinthes, folâtrer avec de
+jeunes vierges.</p>
+							<p>Mon cœur ne connaît pas la haine;
+je ne sais ce qu’est l’envie mordante;
+j’évite de lancer les traits légers d’une
+langue caustique. Je hais, dans les fes-
+tins licencieux, les combats que pro-
+voque le vin.</p>
+							<p>Entouré de jeunes filles semblables
+à la fleur nouvelle, dansant au son de la
+lyre, puissé-je couler ainsi une paisible
+existence!</p>
+							<pb n="49"/>
+						</div>
+						<div type="textpart" subtype="section" n="17">
+							<head>
+								<title>XXXII
+L’HEURE PRÉSENTE</title>
+							</head>
+							<p>Je me soucie peu de Gygès, roi de
+Sardes; l’envie ne s’est point em-
+parée de mon cœur; je ne suis point
+jaloux des princes : tout mon soin,
+c’est d’inonder ma barbe de parfums,
+c’est de couronner mon front de roses,
+c’est de jouir du présent.</p>
+							<p>Eh! qui connaît le lendemain? lant
+que l’heure est sereine, bois, joue aux
+dés, offre des libations à Lyæos, de
+peur que ne survienne la maladie, qui
+te dise : « il ne faut pas que tu boives ».</p>
+						</div>
+						<div type="textpart" subtype="section" n="18">
+							<head>
+								<title>XXXIII
+FRAGMENTS</title>
+							</head>
+							<p>Quand bien même on m’offrirait la
+corne d’Amalthée et cent cinquante
+ans de vie, je ne voudrais pas régner
+dans Tartesse.</p>
+							<pb n="50"/>
+						</div>
+	</div>
+						<div type="textpart" subtype="section" n="19">
+							<head>
+								<title>XXXIV
+FRAGMENTS</title>
+							</head>
+							<p>Nos fronts ceints de couronnes de
+persil, consacrons à Bacchos ce
+jour de joie et de fête.</p>
+							<p>Héliconias, un thyrse dans la main,
+près d’elle Xanthippe et Glaucé s’avan-
+cent pour la danse. Elles descendent de
+la montagne et portent à Bacchos du
+lierre, des grappes de raisin, et un jeu-
+ne chevreau bien engraissé.</p>
+							</div>
+
+				
+			<div type="textpart" subtype="chapter" n="3">
+					<pb n="51"/>
+					<head>
+						<title>TROISIÈME PARTIE</title>
+					</head>
+					
+					<pb n="53"/>
+						<head>
+							<title>LES JEUNES FILLES</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>XXXV PORTRAIT</title>
+							</head>
+							<p>Allons, toi le meilleur des peintres,
+le maître de cet art qui fleurit à
+Rhodes, peins comme je vais te la tra-
+cer, ma maîtresse absente.</p>
+							<p>Peins d’abord sa molle et noire che-
+velure, et si la cire le permet, qu’il s’en
+exhale des parfums; peins un front
+d’ivoire sous les cheveux brillants com-
+me la pourpre, qui tombent le long
+de ses joues.</p>
+							<p>Ne sépare point trop ses sourcils,
+mais garde toi aussi de les confondre;
+reproduis telle qu’elle est leur jonction
+<pb n="54"/>
+insensible et leur noire courbure. Que
+son regard soit de flamme, que ses yeux
+soient azurés comme ceux de Pallas
+et tendres à la fois comme ceux de
+Cythérée.</p>
+							<p>Son nez et ses joues, peins-les d’un
+mélange de roses et de lait; que ses
+lèvres soient celles de la séduction,
+qu’elles provoquent le baiser; que sous
+son menton délicat, autour de son cou
+de marbre blanc, viennent folâtrer
+toutes les Grâces.</p>
+							<p>Enfin, pare-la d’une robe purpurine,
+qui révèle quelques attraits, indices
+d’un beau corps.</p>
+							<p>C’est tout, je la vois! O cire, tu vas
+parler!</p>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title>XXXVI
+SOUHAITS</title>
+							</head>
+							<p>Jadis sur les hauteurs de la Phrygie,
+la fille de Tantale fut changée en
+<pb n="55"/>
+rocher; et jadis la fille de Pandion,
+sous la forme d’une hirondelle, s’envola
+dans les airs. Et moi, que ne puis-je
+être un miroir, afin que sans cesse tu
+me regardes! Que ne suis-je une tunique,
+afin que toujours tu me portes sur toi!</p>
+							<p>Je veux devenir l’eau pour laver ton
+corps et myrrhe pour te parfumer, ô
+femme.</p>
+							<p>Puissé-je être la bandelette dont tu
+soutiens tes seins, la perle de ton cou,
+ou encore l’une de tes sandales, pour
+que tu me foules de tes pieds.</p>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>XXXVII
+MES AMOURS</title>
+							</head>
+							<p>Si tu peux compter les feuilles des
+arbres, si tu sais le nombre des flots
+dans la vaste mer, tu pourrais alors
+énumérer toutes mes amours.</p>
+							<p>D’abord pour Athènes, mets vingt
+amours, et quinze autres encore; à Co-
+<pb n="56"/>
+rinthe compte-les par légions, car cette
+ville est dans l’Achaïe, où les femmes
+sont belles!</p>
+							<p>Pour Lesbos, l’Ionie, la Carie et Rho-
+des, marque deux mille amours. Que
+dis-tu? Tu radotes. Je ne t’ai rien dit
+encore de la Syrie, rien des délices
+de Canope, rien de la Crête, cette île
+où tout abonde, et où Eros parcourt
+les villes en célébrant ses mystères.</p>
+							<p>Voudrais-tu y ajouter encore toutes
+les amours de mon cœur par delà
+Gadès, la Bactriane et les Indes?</p>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>XXXVIII
+SUR UNE JEUNE FILLE</title>
+							</head>
+							<p>Cavale de Thrace, pourquoi ces re-
+gards obliques et cette fuite rapide?
+Me prends-tu pour un cavalier mal-
+habile?</p>
+							<p>Sache-le donc, je puis te brider à
+<pb n="57"/>
+merveille, et les rênes en main, te faire
+tourner autour du stade.</p>
+							<p>Tu pars dans les prairies; légère et
+bondissante; c’est que tu n’as pas trou-
+vé un cavalier pour te dompter.</p>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>XXXIX
+SONGE</title>
+							</head>
+							<p>Une nuit que tout joyeux de l’ivresse
+que donne Lyæos, je sommeillais
+sur des tapis de pourpre, il me sembla
+que, sur la pointe des pieds, je m’adon-
+nais à une course rapide avec de fo-
+lâtres jeunes vierges. Mais des adoles-
+cents, plus délicats que Lyæos, me dé-
+cochaient de mordantes railleries au
+sujet de ces belles jeunes filles!</p>
+							<p>Et comme je voulais les embrasser,
+tout disparut, jeunes gens et jeunes
+filles, et mon songe avec eux. Seul
+alors et malheureux, j’aurais voulu dor-
+mir encore.</p>
+							<pb n="58"/>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>XL
+LE PLAISIR</title>
+							</head>
+							<p>Quel plaisir d’aller pas à pas sur
+l’herbe ondoyante des prairies que
+rafraîchit Zéphyre de sa fine et suave
+haleine! Quel plaisir de contempler
+ces ceps chéris de Bacchos, et de se
+glisser sous leurs pampres en tenant
+enlacée dans ses bras une tendre jeune
+fille respirant Cypris tout entière!</p>
+						</div>
+						<div type="textpart" subtype="section" n="7">
+							<head>
+								<title>XLI
+LA BEAUTÉ</title>
+							</head>
+							<p>La Nature donna des cornes aux tau-
+reaux, le sabot aux chevaux, la vi-
+tesse aux lièvres, aux lions une gueule
+profonde armée de dents, aux poissons
+des nageoires, aux oiseaux des ailes, aux
+hommes l’intelligence. Elle n’avait plus
+rien pour les femmes. Que leur donna-
+<pb n="59"/>
+t-elle donc? La beauté, la beauté pour
+toute défense, pour toute armure; celle
+qui est belle triomphe et du fer et
+du feu.</p>
+						</div>
+						<div type="textpart" subtype="section" n="8">
+							<head>
+								<title>XLII
+MAINTENANT JE CHANTE</title>
+							</head>
+							<p>J’ai dîné d’un petit morceau d’itrion,
+puis j’ai bu tout un cade de vin;
+maintenant je chante sur la pectis en
+l’honneur de la tendre jeune fille qui
+m’est chère.</p>
+							<p>Elle est telle que le faon, encore à la
+mamelle, qui, abandonné dans la forêt
+par sa mère à la longue ramure, est
+frappé d’effroi.</p>
+						</div>
+						<div type="textpart" subtype="section" n="9">
+							<head>
+								<title>XLIII
+FRAGMENTS</title>
+							</head>
+							<p>Quelle aimable jeune fille t’a tourné
+l’esprit et t’a charmé au point de te
+<pb n="60"/>
+faire danser aux sons de la flûte à trois
+trous?</p>
+							<p>J’aime à me livrer avec toi à la vo-
+lupté, tes gestes sont si gracieux!</p>
+							<p>Éros, à la chevelure d’or, me jette
+une balle couleur de pourpre et m’in-
+vite à jouer avec une jeune fille de
+Lesbos, aux sandales brodées; mais
+celle-ci me reproche la blancheur de
+mes cheveux, et se tourne, bouche
+bée, vers un autre.</p>
+			</div>
+					</div>
+				
+			<div type="textpart" subtype="chapter" n="4">
+					<pb n="61"/>
+					<head>
+						<title>QUATRIÈME PARTIE</title>
+					</head>
+					<pb n="63"/>
+						<head>
+							<title>BATHYLLE</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>XLIV
+PORTRAIT</title>
+							</head>
+							<p>Peins-moi Bathylle, mon compagnon,
+tel que je vais te le tracer.</p>
+							<p>Donne-lui des cheveux brillants, noirs
+à leur naissance, et de la couleur du
+soleil aux extrémités. Puis, rassemblant
+leurs boucles négligées, laisse-les tomber
+librement. Que ses sourcils, d’un bleu
+plus foncé que la peau des dragons,
+couronnent son front tendre et frais
+comme la rosée. Que son œil noir soit
+fier, mais tempéré du calme de la mer;
+mets-y quelque chose d’Arès et quelque
+chose de la belle Cythérée, de sorte que
+<pb n="64"/>
+son regard vous tienne suspendu entre
+la crainte et l’espérance.</p>
+							<p>Fais-lui des joues de rose; que l’on
+y voie comme le duvet d’un fruit, et
+revêts-les, si tu le peux, de l’incarnat
+de la Pudeur. Quant à sa lèvre, je ne
+sais encore comment ton art pourra la
+rendre, délicate et pleine de la Persua-
+sion. Pour l’ensemble fais que la cire
+y parle par son silence même.</p>
+							<p>Que son front soit large, que son cou
+d’ivoire surpasse celui d’Adonis. Don-
+ne-lui la poitrine et les mains d’Hermès,
+les cuisses de Pollux, le ventre de
+Dionysos. Au-dessus de ses cuisses
+délicates qui recèlent la flamme peins
+sa puberté naïve qui appelle déjà la
+reine de Paphos. Mais ton art jaloux
+ne pourra montrer les contours de son
+dos, et c’est ce que Bathylle a de mieux.
+Que dire de ses pieds?</p>
+							<p>Reçois donc pour ton œuvre le prix
+que tu demandes. Prends cet Apollon et
+<pb n="65"/>
+fais-en Bathylle; et si un jour tu vas à
+Samos, peins Phœbos d’après Bathylle.</p>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title>XLV
+LA COLOMBE</title>
+							</head>
+							<p>D’où viens-tu, aimable colombe, d’où
+as-tu pris ton vol? Où sont nés ces
+parfums si suaves que tu exhales en tra-
+versant les airs, et qui se répandent
+autour de toi? Mais quel est le soin qui
+t’occupe?</p>
+							<p>Anacréon m’envoie vers un enfant,
+vers Bathylle, aujourd’hui le souve-
+rain, le tyran de tous les cœurs : C’est
+Cythérée qui m’a vendue pour une
+petite chanson. Je sers Anacréon : vois
+ces lettres qu’il m’a confiées; il m’a dit
+que, sitôt revenue, il me rendrait la li-
+berté. Mais s’il m’affranchit, je resterai
+esclave auprès de lui. Car à quoi bon
+voler sur les montagnes et dans les
+plaines, me poser sur les arbres et
+<pb n="66"/>
+manger quelques graines sauvages, moi
+qui aujourd’hui me nourris du pain que
+j’enlève aux mains d’Anacréon lui- 
+même? Le vin où il a trempé ses lèvres,
+il me le donne à boire; et quand j’ai bu,
+je danse, et je couvre mon vieux maître
+de mes ailes. Puis, je me couche et m’en-
+dors sur sa lyre. Tu sais tout, va-t’en
+étranger, tu m’as rendue plus babillar-
+de même qu’une corneille.</p>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>XLVI
+LA COUPE</title>
+							</head>
+							<p>Héphaïstos, cisèle-moi cet argent;
+fais-m’en, non une armure com-
+plète (que m’importent les combats?)
+mais une large coupe, aussi profonde
+qu’il te sera possible. Ne grave sur ses
+contours ni les astres, ni le Chariot, ni
+l’odieux Orion (qu’ai-je à faire des
+Pléiades et du beau Bouvier?) mais des
+vignes d’où pend la grappe et des
+<pb n="67"/>
+Ménades qui vendangent; que j’y voie
+un pressoir où foulent le raisin les sa-
+tyres rieurs, les Eros en or, la folâtre
+Cythérée ainsi que le beau Lyœos, Èros
+et Bathylle.</p>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>XLVII
+A UNE HIRONDELLE</title>
+							</head>
+							<p>Que veux-tu, que veux-tu que je te
+fasse, babillarde hirondelle? Veux-
+tu que mes ciseaux coupent tes ailes
+légères, ou mieux, à l’instar de Térée,
+faut-il que je t’arrache la langue du fond
+du gosier? Pourquoi ton babil dès la
+pointe du jour m’a-t-il ravi mes songes
+charmants, et Bathylle avec eux?</p>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>XLVIII
+LA SIESTE</title>
+							</head>
+							<p>Assieds-toi, Bathylle, sous cet om-
+brage. Le bel arbre! Comme ses
+<pb n="68"/>
+rameaux agitent mollement leur délica-
+te chevelure! La voix persuasive d’une
+source coulant à son pied nous appelle.
+Qui donc à l’aspect de ces lieux enchan-
+teurs pourrait passer auprès d’eux sans
+s’y arrêter?</p>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>XLIX
+FRAGMENT</title>
+							</head>
+							<p>Obéi enfant au regard de vierge, je
+te cherche et tu ne bouges pas; tu
+ignores que tu tiens dans tes mains les
+rênes de mon âme.</p>
+					</div>
+				</div>
+			<div type="textpart" subtype="chapter" n="5">
+					<pb n="69"/>
+					<head>
+						<title>CINQUIÈME PARTIE</title>
+					</head>
+					<pb n="71"/>
+						<head>
+							<title>LA
+VIEILLESSE</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>L
+IL FAUT JOUIR DE LA VIE</title>
+							</head>
+							<p>Pourquoi veux-tu m’enseigner les rè-
+gles et les sophismes des rhéteurs?
+Qu’ai-je besoin de tous ces discours qui
+ne servent à rien? Apprends-moi plu-
+tôt à boire la douce liqueur de Lyæos;
+apprends-moi plutôt à folâtrer avec
+Aphrodite aux tresses d’or.</p>
+							<p>Des cheveux blancs couronnent ma
+tête. Donne-moi de l’eau, verse du vin,
+jeune enfant; engourdis les soucis de
+mon âme. Bientôt j’aurai cessé de vivre,
+et tu couvriras ma tête d’un voile : les
+morts n’ont plus de désirs!</p>
+							<pb n="72"/>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title>LI
+INVOCATION A ÉROS</title>
+							</head>
+							<p>Couché sur de tendres feuilles de
+myrte et de lotus, je veux boire à
+longs traits. Éros, attache ta tunique
+sur ton épaule avec un lien de papyrus,
+et verse-moi un vin pur.</p>
+							<p>Ainsi que la roue d’un char, la vie
+tourne sur elle-même et court. Une fois
+couchés dans la tombe, de nos osse-
+ments dissous ne restera qu’un peu de
+poussière. Que sert de parfumer une
+pierre, que sert de répandre sur la
+terre de vaines libations?</p>
+							<p>Ah! parfume-moi plutôt de ces es-
+sences tandis que je vis encore; cou-
+ronne mon front de roses, et appelle
+près de moi mon amie. Avant d’aller
+sous terre danser avec les morts, je
+veux, Éros, mettre en fuite les soucis.</p>
+							<pb n="73"/>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>LII
+L’ART DE VIEILLIR</title>
+							</head>
+							<p>Les femmes me disent : « Anacréon,
+tu es vieux : prends un miroir, vois,
+tu n’as plus de cheveux, regarde comme
+ton front est chauve! » Pour moi, je ne
+sais si j’ai encore des cheveux ou s’ils
+s’en sont allés : tout ce que je sais, c’est
+que plus un viellard approche du terme
+fatal, plus il lui sied de se jouer au
+sein des plaisirs.</p>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>LIII
+LE FESTIN DES VIEILLARDS</title>
+							</head>
+							<p>Tous, le front ceint d’une couronne
+de roses, enivrons-nous avec un
+doux sourire. Une jeune fille aux pieds
+délicats, porte à la main un thyrse
+tressé de lierre frémissant et danse au
+rythme de la lyre. Près d’elle, un jeune
+<pb n="74"/>
+homme à la molle chevelure, à l’haleine
+parfumée, laisse couler de ses lèvres
+une voix mélodieuse, qui se mêle aux
+accords de la pectis. Éros, aux cheveux
+d’or, accourt avec le beau Lyæos et la
+belle Cythérée : il se plaît à visiter les
+festins, chers aux vieillards.</p>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>LIV
+LE VIEILLARD DANSANT</title>
+							</head>
+							<p>Je suis vieux, il est vrai, mais je bois
+plus que les jeunes; et s’il me faut
+danser, je danserai dans le cercle en
+imitant Silène.</p>
+							<p>Avec une outre pour sceptre, je me
+soucie peu d’une tige de férule. Que
+celui qui veut lutter avec moi se pré-
+sente et combatte.</p>
+							<p>Enfant, apporte ma coupe; que le
+miel y tempère le vin noir! Je suis
+vieux, il est vrai; mais je bois plus que
+les jeunes.</p>
+							<pb n="75"/>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>LV
+SUR UN VIEILLARD</title>
+							</head>
+							<p>J’aime un joyeux vieillard, j’aime un
+jeune homme épris de la danse;
+mais un vieillard, lorsqu’il danse, n’est
+vieux que par ses cheveux blancs, son
+cœur est jeune encore.</p>
+						</div>
+						<div type="textpart" subtype="section" n="7">
+							<head>
+								<title>LVI
+LE VIEILLARD
+ET LES JEUNES GENS</title>
+							</head>
+							<p>Lorsque je me vois entouré de jeunes
+gens, ma jeunesse reparaît; alors
+tout vieux que je suis, j’ai des ailes
+pour la danse.</p>
+							<p>Attends-moi, Cybèle, donne-moi des
+fleurs, je veux m’en couronner. Loin
+de moi, blanche vieillesse; jeune, je
+danserai avec les jeunes gens.</p>
+							<p>Apportez-moi le jus de l’automne,
+et vous serez témoins de la force d’un
+<pb n="76"/>
+vieillard qui sait parler, qui sait boire
+et délirer avec grâce.</p>
+						</div>
+						<div type="textpart" subtype="section" n="8">
+							<head>
+								<title>LVII
+LA CRAINTE DE LA MORT</title>
+							</head>
+							<p>Déjà sont toutes blanches ma tête et
+mes tempes; déjà est bien loin de
+moi l’aimable jeunesse; mes dents ont
+vieilli. Peu de temps, en cette vie qui
+est douce, me reste encore.</p>
+							<p>Aussi, fréquemment, la crainte du
+Tartare me fait sangloter. La profonde
+demeure de l’Hadès est épouvantable,
+il est pénible d’y descendre, car celui
+qui y a pénétré n’est pas près d’en
+remonter.</p>
+						</div>
+						<div type="textpart" subtype="section" n="9">
+							<head>
+								<title>LVIII
+LA VANITÉ DE L’OR</title>
+							</head>
+							<p>Si l’or pouvait prolonger la vie,
+avec quelle sollicitude je garderais
+<pb n="77"/>
+ce que j’en possède : quand viendrait la
+Mort, elle en prendrait quelque peu et
+s’éloignerait! Mais s’il n’est pas donné
+aux mortels de racheter leur vie, pour-
+quoi pousser des soupirs? Pourquoi
+gémir en vain? Puisque la mort est iné-
+vitable; à quoi l’or me sert-il? Oh!
+j’aime bien mieux, dans la société de
+mes amis, boire le doux nectar, puis
+sur une couche moelleuse sacrifier à
+Aphrodite...</p>
+						</div>
+						<div type="textpart" subtype="section" n="10">
+							<head>
+								<title>LIX
+LES CHEVEUX BLANCS</title>
+							</head>
+							<p>Que ma blanche chevelure ne te
+mette pas en fuite, ô ma maîtresse;
+parce que tu es dans la fleur de ta
+jeune saison, ne dédaigne pas mon
+amour. Vois, dans une couronne,
+comme le lys blanc sied bien enlacé à
+la rose!</p>
+							<pb n="78"/>
+						</div>
+						<div type="textpart" subtype="section" n="11">
+							<head>
+								<title>LX
+FRAGMENT</title>
+							</head>
+							<p>Puissé-je mourir, car je ne vois pas
+d’autres remèdes à mes souffrances!</p>
+							</div>
+				</div>
+			<div type="textpart" subtype="chapter" n="6">
+					<pb n="79"/>
+					<head>
+						<title>SIXIÈME PARTIE</title>
+					</head>
+				<pb n="81"/>
+						<head>
+							<title>BUCOLIQUES ÉPIGRAMMES INSCRIPTIONS</title>
+						</head>
+						<div type="textpart" subtype="section" n="1">
+							<head>
+								<title>LXI
+LE PRINTEMPS</title>
+							</head>
+							<p>Vois comme au retour du printemps
+les Grâces font éclore les roses;
+vois comme se calment et s’apaisent les
+flots de la mer; vois comme plongent
+les canards, comme voyagent les grues.</p>
+							<p>Le soleil brille dans toute sa pu-
+reté; l’ombre des nuées se met en
+mouvement et les travaux des mortels
+brillent de tout leur éclat. La terre
+voit les fruits se lever de son sein; le
+bourgeon de l’olivier commence à sor-
+tir; le cep cher à Bacchos se couronne
+de pampres et de jeunes branches et
+les fruits en boutons fleurissent.</p>
+							<pb n="82"/>
+						</div>
+						<div type="textpart" subtype="section" n="2">
+							<head>
+								<title>LXII
+LA ROSE</title>
+							</head>
+							<p>Le printemps a repris sa couronne
+de fleurs; je vais chanter la tendre
+rose, compagne qui inspire les chants.</p>
+							<p>La rose est l’haleine des Dieux, le
+charme des mortels, la parure des
+Grâces dans la belle saison, le jouet des
+Éros fleuris et d’Aphrodite. Chère à
+nos mythes, elle est la fleur agréable
+aux Muses. Il est doux dans ses touffes
+épineuses d’éprouver ses rigueurs; il
+est doux à celui qui la cueille d’échauf-
+fer dans ses mains délicates cette fleur
+d’Éros. Dans les banquets, les fêtes de
+Dionysos, que serait-ce sans la rose?</p>
+							<p>L’Aurore a des doigts de rose, les
+Nymphes des bras de rose et Aphro-
+dite est appelée par les poètes la déesse
+au teint de rose. Elle est agréable,
+même au sot; elle écarte les maladies,
+<pb n="83"/>
+elle protège la tombe des morts et
+triomphe du temps.</p>
+							<p>La vieillesse de la rose est encore
+pleine de charmes, car elle conserve
+les parfums de sa jeunesse. Allons, ra-
+contons sa naissance.</p>
+							<p>Quand la mer azurée eut enfanté de
+l’écume de ses flots, Cythérée ruisse-
+lante de rosée, quand Zeus eut fait
+jaillir de son cerveau Athèna, cette
+déesse redoutable de l’Olympe, qui se
+plaît au bruit des armes, la terre fit
+fleurir de son sein la jeune pousse de
+l’admirable rose. Merveilleuse création.</p>
+							<p>Pour qu’elle fût rose tout à fait, la
+troupe des heureux immortels la trem-
+pa dans le nectar; alors, du milieu des
+épines s’éleva, superbe, cette fleur éter-
+nelle de Lyæos.</p>
+							<pb n="84"/>
+						</div>
+						<div type="textpart" subtype="section" n="3">
+							<head>
+								<title>LXIII
+L’OFFRANDE A BACCHOS</title>
+							</head>
+							<p>Mêlons à Bacchos la rose, chère aux
+Éros; couronnons nos tempes de
+la rose aux belles feuilles, buvons et
+rions gaiement. Rose, la première des
+fleurs! rose, amour du printemps!
+roses, les délices mêmes des Dieux!
+roses, dont le fils de Cythérée entoure
+sa belle chevelure lorsqu’il danse avec
+les Grâces!</p>
+							<p>Couronnez-moi donc : paré de guir-
+landes de roses, la lyre à la main, ô
+Bacchos, je danserai autour de tes
+autels avec une jeune fille à la gorge
+arrondie.</p>
+						</div>
+						<div type="textpart" subtype="section" n="4">
+							<head>
+								<title>LXIV
+LA CIGALE</title>
+							</head>
+							<p>Que tu es heureuse, ô cigale, toi qui,
+sur la cime des arbres, après avoir
+<pb n="85"/>
+bu un peu de rosée, chantes comme
+une reine! Tout ce que tu vois dans
+les champs, tout ce que produisent les
+forêts, tout cela est à toi.</p>
+							<p>Amie du laboureur, tu ne nuis à
+personne; honorée des mortels, tu es
+l’aimable messagère de l’été. Les Muses
+te chérissent; tu es aimée de Phoibos
+lui-même, c’est lui qui te fit don de ta
+voix mélodieuse.</p>
+							<p>La vieillesse ne t’épuise pas. Sage
+fille de la terre, éprise des chants, à
+l’abri de tous les maux, toi dont la
+chair n’a pas de sang, tu es presque
+semblable aux dieux!</p>
+						</div>
+						<div type="textpart" subtype="section" n="5">
+							<head>
+								<title>LXV
+SUR ARTÉMON</title>
+							</head>
+							<p>Cet Artémon, dont le nom est ré-
+pandu en tous lieux, est l’objet
+des soins de la blonde Eurypyle, lui
+qui naguère revêtu d’un vêtement gros-
+<pb n="86"/>
+sier, avait la tête sanglée dans un étroit
+capuchon, avec des boucles d’oreille
+en bois et, sur les flancs, une simple
+peau de bœuf, enveloppe récemment
+lavée d’un méchant bouclier; oui cet
+Artémon, ce misérable fréquentait les
+marchandes de pain, les prostituées, et
+vivait d’expédients.</p>
+							<p>Maintes fois il fut attaché par le cou
+au poteau, maintes fois il fut étendu
+sur la roue, maintes fois, sans cheveux
+ni barbe il eut le dos rayé par le fouet
+de cuir.</p>
+							<p>Aujourd’hui le fils de Cycé monte
+sur un char; il met à ses oreilles des
+anneaux d’or et porte une ombrelle
+d’ivoire comme les femmes.</p>
+						</div>
+						<div type="textpart" subtype="section" n="6">
+							<head>
+								<title>LXVI SUR UN TABLEAU
+REPRÉSENTANT EUROPE</title>
+							</head>
+							<p>Ce taureau, enfant, me semble être
+Zeus, car il porte sur son dos une
+<pb n="87"/>
+Sidonienne et traverse la vaste mer en
+fendant les vagues de ses pieds. Non,
+jamais aucun taureau ne s’échappa du
+troupeau pour nager ainsi en pleine
+mer. Ce ne peut être que Zeus!</p>
+						</div>
+						<div type="textpart" subtype="section" n="7">
+							<head>
+								<title>LXVII
+SUR UNE COUPE CISELEE</title>
+							</head>
+							<p>Artiste habile, cisèle une coupe gra-
+cieuse, image du printemps;
+d’abord représente la saison qui nous
+apporte les agréables roses. Etends
+l’argent sous ton burin et fais-moi un
+vase charmant. Je te conseille de ne
+graver dessus ni initiations, ni sujets
+étrangers, ni scènes tragiques, mais
+plutôt le rejeton de Zeus, Bacchos
+Evios ainsi que Cypris l’initiatrice qui
+applaudit à l’hymen. Cisèle les Éros
+sans armes, les grâces riantes, à l’om-
+bre d’une vigne aux larges pampres,
+aux grappes superbes, au cep chevelu.
+<pb n="88"/>
+Joins-y de beaux jeunes gens; que
+Phoibos folâtre avec eux.</p>
+						</div>
+						<div type="textpart" subtype="section" n="8">
+							<head>
+								<title>LXVIII
+SUR UN DISQUE
+REPRÉSENTANT APHRODITE</title>
+							</head>
+							<p>Qui burina la mer sur ce disque?
+Quel est celui dont l’art inspiré y
+versa les flots de la liquide plaine?
+Quel est celui dont le génie, élevé à
+l’égal des Dieux, grava au-dessus de la
+surface des ondes la blanche et tendre
+Cypris, mère des Immortels?</p>
+							<p>Il la montre nue; et ce qu’il n’est pas
+permis de voir, il le couvre seulement
+du voile des flots. Telle une algue blan-
+che, que balance une onde calme, elle
+flotte, et portant son corps en avant,
+elle fend l’onde tumultueuse. Sous son
+cou délicat, au-dessus de sa gorge rosée,
+l’eau profonde se sépare : au milieu du
+<pb n="89"/>
+sillon dans la transparence azurée de
+la mer paisible, Cypris brille comme
+un lis entouré de violettes.</p>
+							<p>Près d’elle on voit représentés sur
+l’argent des dauphins, portant sur leur
+dos Éros et le Désir qui se rient de la
+perfidie des mortels. Enfin le chœur
+arrondi des poissons plonge dans les
+ondes, et se joue autour du corps de la
+déesse de Paphos, afin quelle nage
+en souriant.</p>
+						</div>
+						<div type="textpart" subtype="section" n="9">
+							<head>
+								<title>LXIX
+A UN PEINTRE</title>
+							</head>
+							<p>Allons, le plus habile des peintres,
+écoute une Muse lyrique : peins
+d’abord les cités où régnent le rire et
+la joie, puis les Bacchantes amies des
+jeux avec leurs doubles flûtes, et si le
+permet la cire, peins-nous aussi les lois
+des amants.</p>
+							<pb n="90"/>
+						</div>
+						<div type="textpart" subtype="section" n="10">
+							<head>
+								<title>LXX
+SUR ARTÉMIS</title>
+							</head>
+							<p>Je t’implore, toi qui perces les cerfs
+de tes traits, blonde fille de Zeus,
+Artémis, ô reine des hôtes sauvages
+des bois, toi qui, sur les bords du Léthé
+aux ondes tournoyantes, jettes un re-
+gard bienveillant sur une cité d’hommes
+intrépides, car tu ne nourris pas de
+grossiers citoyens.</p>
+						</div>
+						<div type="textpart" subtype="section" n="11">
+							<head>
+								<title>LXXI
+INSCRIPTIONS</title>
+							</head>
+							<p>Praxidice a fait cette robe, mais c’est
+Dyséris qui en imagina le tissu, car
+elles ont mis en commun leur talent.</p>
+							<p>L’enjoué Mégistès, depuis dix mois,
+porte une couronne d’osier et boit le
+vin nouveau aussi doux que le miel.</p>
+							<p>En reconnaissance de ces aimables
+<pb n="91"/>
+dons, ô fils de Maïa, accorde des jours
+sereins à Tellis, et fais qu’il jouisse
+durant sa vie d’un sort heureux parmi
+les habitants épris d’une stricte justice
+du dème Evônymeia.</p>
+							<p>Priez le héraut des Dieux d’être favo-
+rable à Timonax, lui qui m’éleva à
+Hermès, dieu puissant, pour l’orne-
+ment de ce charmant vestibule.</p>
+							<p>J’admets au gymnase celui des ci-
+toyens et des étrangers qui le désire.</p>
+						</div>
+						<div type="textpart" subtype="section" n="12">
+							<head>
+								<title>LXXII
+ÉPITAPHES</title>
+							</head>
+							<p>Toute la ville d’Abdère est venue
+pousser des cris autour du bûcher
+du valeureux Agathon, mort pour la
+cité. Jamais le dieu que réjouit le sang,
+Arés, dans l’horrible tourbillon d’une
+bataille, ne ravit la lumière à un jeune
+guerrier pareil à lui.</p>
+							<pb n="92"/>
+							<p>Toi aussi, Cléonoride, le désir de
+revoir la terre natale t’a ravi le jour,
+alors que tu affrontais en hiver les tem-
+pêtes du Notos.</p>
+							<p>Une saison perfide t’a retenu sur
+les flots, et la vague écumante a sub-
+mergé ton aimable jeunesse.</p>
+							<p>O Aristocleidès, le plus brave d’entre
+mes amis, je te pleure. Tu mourus à
+la fleur de tes années, mais tu as sauvé
+ta patrie de la servitude.</p>
+							<p>Timocrite, si vaillant dans les com-
+bats, gît dans ce tombeau; ce ne sont
+pas les braves qu’Arés épargne, ce sont
+les lâches.</p>
+					</div>
+				</div>
+			<div type="textpart" subtype="chapter" n="7">
+					<pb n="93"/>
+					<head>
+						<title>LA TOMBE DU POÈTE</title>
+					</head>
+					
+						<pb n="95"/>
+						<head>
+							<title>LA TOMBE DU POÈTE</title>
+						</head>
+						<p>ANACRÉON, QU’AUTOUR DE TA
+TOMBE LE LIERRE ENLACE
+SES QUADRUPLES GRAPPES; QUE
+FLEURISSENT LES TENDRES
+FEUILLES DES PRÉS COULEUR
+DE POURPRE; QUE DES SOURCES
+D’UN LAIT ÉCLATANT DE BLAN-
+CHEUR JAILLISSENT DE LA TERRE,
+ET QUE LE VIN ÉPANCHE SON
+DOUX PARFUM, AFIN QUE TA
+CENDRE ET TES OS SE RÉJOUIS-
+SENT, S’IL EST POUR LES MORTS
+QUELQUE JOIE, O CHER POÈTE,
+QUI AS AIMÉ TENDREMENT LA
+LYRE AMIE, QUI AS TRAVERSÉ
+L’OCÉAN DE LA VIE AVEC LE
+CHANT ET L’AMOUR!</p>
+						<p><hi rend="italic">(Antipater de Sidon).</hi></p>
+</div>
+			
+			<div type="textpart" subtype="chapter" n="8">
+					<pb n="97"/>
+					<head>
+						<title>IMITATIONS D’ANACRÉON</title>
+					</head>
+				<pb n="99"/>
+						<head>
+						<title>LA LYRE DU POÈTE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Volontiers je chanterois</l>
+		<l>Les faits guerriers de nos rois,</l>
+		<l>Mais ma lyre ne s’accorde</l>
+		<l>Qu’à mignarder une corde</l>
+		<l>Pour l’Amour tant seulement.</l>
+		<l>En essay dernierement</l>
+		<l>Je changé cordes et lyre,</l>
+		<l>Et ja commençois à dire</l>
+		<l>D’un haut stile la grandeur</l>
+		<l>D’Hercule, et de son labeur :</l>
+		<l>Mais tousjours elle fredonne</l>
+		<l>L’amour qu’elle contresonne,</l>
+		<l>Comme celle qui tousjours</l>
+		<l>Ne veut chanter que d’Amours.</l>
+		<l>Adieu Mars, adieu ton ire,</l>
+		<l>Puisque mon lut ne veut dire</l>
+		<l>Que les Amours desormais,</l>
+		<l>Adieu Princes pour jamais.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="100"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="9">
+						<head>
+							<title>L’AMOUR PRISONNIER
+DES MUSES</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Les Muses lierent un jour</l>
+		<l>De chaisnes de roses Amour,</l>
+		<l>Et, pour le garder, le donnèrent</l>
+		<l>Aux Graces et à la Beauté,</l>
+		<l>Qui, voyant sa desloyauté,</l>
+		<l>Sur Parnasse l’emprisonnerent.</l>
+		<l>Si tost que Venus l’entendit,</l>
+		<l>Son beau ceston elle vendit</l>
+		<l>A Vulcan pour la delivrance</l>
+		<l>De son enfant, et tout soudain,</l>
+		<l>Ayant l’argent dedans la main,</l>
+		<l>Fit aux Muses la reverence :</l>
+		<l>« Muses, deesses des chansons,</l>
+		<l>Quand il faudrait quatre rançons</l>
+		<l>Pour mon enfant, je les apporte;</l>
+		<l>Delivrez mon fils prisonnier. »</l>
+		<l>Mais les Muses l’ont fait lier</l>
+		<l>D’une autre chaisne bien plus forte.</l>
+		<pb n="101"/>
+		<l>Courage donques, amoureux,</l>
+		<l>Vous ne serez plus langoureux;</l>
+		<l>Amour est au bout de ses ruses;</l>
+		<l>Plus n’oseroit ce faux garçon</l>
+		<l>Vous refuser quelque chanson,</l>
+		<l>Puisqu’il est prisonnier des Muses.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="10">
+						<head>
+							<title>L’AMOUR PIQUÉ PAR UNE
+ABEILLE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Le petit enfant Amour</l>
+		<l>Cueilloit des fleurs à l’entour</l>
+		<l>D’une ruche où les avettes</l>
+		<l>Font leurs petites logettes.</l>
+		<l>Comme il les alloit cueillant,</l>
+		<l>Une avette sommeillant</l>
+		<l>Dans le fond d’une fleurette,</l>
+		<l>Luy piqua la main tendrette.</l>
+		<l>Si tost que piqué se vit,</l>
+		<l>Ah! je suis perdu, ce dit;</l>
+		<pb n="102"/>
+		<l>Et s’en courant vers sa mere,</l>
+		<l>Luy monstra sa playe amere :</l>
+		<l>Ma mere, voyez ma main,</l>
+		<l>Ce disoit Amour tout plein</l>
+		<l>De pleurs, voyez quelle enflure</l>
+		<l>M’a fait une esgratignure!</l>
+		<l>Alors Venus se sourit,</l>
+		<l>Et en le baisant le prit,</l>
+		<l>Puis sa main luy a souflée,</l>
+		<l>Pour guarir sa plaie enflée.</l>
+		<l>Qui t’a, dy-moy, faux garçon,</l>
+		<l>Blessé de telle façon?</l>
+		<l>Sont-ce mes grâces riantes</l>
+		<l>De leurs aiguilles poignantes?</l>
+		<l>Nenny, c’est un serpenteau,</l>
+		<l>Qui vole au printemps nouveau</l>
+		<l>Avecques deux ailerettes</l>
+		<l>Ça et là sur les fleurettes.</l>
+		<pb n="103"/>
+		<l>Ah! vrayment je le cognois,</l>
+		<l>Dit Venus les villageois</l>
+		<l>De la montagne d’Hymette</l>
+		<l>Le surnomment Mélissette.</l>
+		<l>Si doncques un animal</l>
+		<l>Si petit fait tant de mal,</l>
+		<l>Quand son halesne espoinçonne</l>
+		<l>La main de quelque personne,</l>
+		<l>Combien fais-tu de douleurs</l>
+		<l>Au prix de luy, dans les coeurs</l>
+		<l>De ceux contre qui tu jettes</l>
+		<l>Tes homicides sagettes?</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="11">
+						<head>
+							<title>D’UNE IMAGE D’AMOUR
+FAIT EN CIRE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Un jeune enfant portoit vendre</l>
+		<l>Amour fait de cire tendre :</l>
+		<l>Je luy demande combien</l>
+		<l>Pour payement il voudroit bien</l>
+		<pb n="104"/>
+		<l>Recevoir de son ouvrage :</l>
+		<l>« Je n’en veux pas davantage,</l>
+		<l>Dist-il, quand tu le prendras</l>
+		<l>De moy, que ce que voudras.</l>
+		<l>Seulement je te veux dire</l>
+		<l>Que je n’ouvre point en cire,</l>
+		<l>Et qu’habiter je ne veux</l>
+		<l>Avec Amour outrageux</l>
+		<l>Et jaloux de toute chose. »</l>
+		<l>« Or, sus il faut qu’il se repose</l>
+		<l>Geste nuict avecques moy :</l>
+		<l>Pren cela, contente-toy.</l>
+		<l>Mais si faut-il que ta flame</l>
+		<l>Soudain me reschaufe l’ame,</l>
+		<l>Amour, ou bien peu à peu</l>
+		<l>Je te fondray pres du feu. »</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="12">
+						<head>
+							<title>L’AMOUR MOUILLÉ</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>J’étois couché mollement</l>
+		<l>Et, contre mon ordinaire,</l>
+		<l>Je dormois tranquillement,</l>
+		<pb n="105"/>
+		<l>Quand un enfant s’en vint faire</l>
+		<l>A ma porte quelque bruit.</l>
+		<l>Il pleuvoit fort cette nuit :</l>
+		<l>Le vent, le froid et l’orage,</l>
+		<l>Contre l’enfant faisoient rage.</l>
+		<l>« Ouvrez, dit-il, je suis nu. »</l>
+		<l>Moi charitable et bon homme,</l>
+		<l>J’ouvre au pauvre morfondu,</l>
+		<l>Et m’enquiers comme il se nomme.</l>
+		<l>« Je te le dirai tantôt,</l>
+		<l>Repartit-il : car il faut</l>
+		<l>Qu’auparavant je m’essuie. »</l>
+		<l>J’allume aussitôt du feu.</l>
+		<l>Il regarde si la pluie</l>
+		<l>N’a point gâté quelque peu</l>
+		<l>Un arc dont je me méfie.</l>
+		<l>Je m’approche toutefois,</l>
+		<l>Et de l’enfant prens les doigts,</l>
+		<l>Les réchauffe; et dans moi-même</l>
+		<l>Je dis : « Pourquoi craindre tant?</l>
+		<l>Que peut-il? c’est un enfant :</l>
+		<l>Ma couardise est extrême</l>
+		<l>D’avoir eu le moindre effroi;</l>
+		<pb n="106"/>
+		<l>Que seroit-ce si chez moi</l>
+		<l>J’avois reçu Polyphème? »</l>
+		<l>L’enfant, d’un air enjoué,</l>
+		<l>Ayant un peu secoué</l>
+		<l>Les pièces de son armure</l>
+		<l>Et sa blonde chevelure,</l>
+		<l>Prend un trait, un trait vainqueur,</l>
+		<l>Qu’il me lance au fond du cœur.</l>
+		<l>« Voilà, dit-il, pour ta peine.</l>
+		<l>Souviens-toi bien de Clymène,</l>
+		<l>Et de l’Amour, c’est mon nom.</l>
+		<l> Ah! je vous connois, lui dis-je,</l>
+		<l>Ingrat et cruel garçon</l>
+		<l>Faut-il que qui vous oblige</l>
+		<l>Soit traité de la façon! »</l>
+		<l>Amour fit une gambade,</l>
+		<l>Et le petit scélérat</l>
+		<l>Me dit : « Pauvre camarade,</l>
+		<l>Mon arc est en bon état,</l>
+		<l>Mais ton cœur est bien malade. »</l>
+		<l>LA FONTAINE</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="107"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="13">
+						<head>
+							<title>L’ARONDELLE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Si tost que tu sens arriver</l>
+		<l>La froide saison de l’hyver,</l>
+		<l>En septembre, chère arondelle,</l>
+		<l>Tu t’en voles bien loin de nous;</l>
+		<l>Puis tu reviens, quand le temps doux,</l>
+		<l>Au mois d’Avril se renouvelle.</l>
+		<l>Mais Amour, oyseau comme toy,</l>
+		<l>Ne s’enfuit jamais de chez moy :</l>
+		<l>Tousjours mon hoste je le trouve;</l>
+		<l>Il se niche en mon cœur tousjours,</l>
+		<l>Et pond mille petits Amours</l>
+		<l>Qu’au fond de ma poitrine il couve.</l>
+		<l>L’un a des ailerons au flanc,</l>
+		<l>L’autre de duvet est tout blanc,</l>
+		<l>Et l’autre ne fait que d’éclore;</l>
+		<l>L’un de la coque a demy sort,</l>
+		<l>Et l’autre en becquette le bord,</l>
+		<l>Et l’autre est dedans l’oeuf encore.</l>
+		<pb n="108"/>
+		<l>J’entends, soit de jour, soit de nuit</l>
+		<l>De ces petits Amours le bruit,</l>
+		<l>Béans pour avoir la béchée</l>
+		<l>Qui sont nourris par les plus grans,</l>
+		<l>Et grands devenus, tous les ans</l>
+		<l>Me couvent une autre nichée.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="14">
+						<head>
+							<title>LES FLECHES D’AMOUR</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Le mari de la Cyprienne,</l>
+		<l>Dedans la forge Lemnienne,</l>
+		<l>De fin acier forgeoit un jour</l>
+		<l>Des fleches pour l’enfant Amour :</l>
+		<l>Puis aussi tost Venus la belle</l>
+		<l>En trempoit la pointe cruelle</l>
+		<l>L’une après l’autre de doux miel,</l>
+		<l>Mais Amour les mouilloit de fiel :</l>
+		<l>Quand Mars revenant des alarmes,</l>
+		<l>Branlant une grand’hache d’armes,</l>
+		<l>En se mocquant les efforçoit :</l>
+		<l>Lors Amour qui les amorçoit :</l>
+		<l>« Je te supply (dist-il), essaye</l>
+		<pb n="109"/>
+		<l>Si celle-cy feroit bien playe,</l>
+		<l>Et s’elle a bonne pesanteur</l>
+		<l>Pour traverser un brave cœur. »</l>
+		<l>Venus sourit et l’enfant tire,</l>
+		<l>Mars la receut, puis il soupire,</l>
+		<l>Disant : « Ell’ poise, oste-la moy. »</l>
+		<l>Lors Amour luy dist : « C’est pour toy.»</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="15">
+						<head>
+							<title>QUE C’EST GRAND MALHEUR
+D’AIMER ET DE N’AIMER POINT</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Celuy qui n’ayme est malheureux</l>
+		<l>Et malheureux est l’amoureux;</l>
+		<l>Mais la misere la plus grande</l>
+		<l>C’est quand l’amant (après avoir</l>
+		<l>En bien servant fait son devoir)</l>
+		<l>Ne peut avoir ce qu’il demande.</l>
+		<l>La race en amours ne sert rien,</l>
+		<l>Ne beauté; grace ne maintien;</l>
+		<l>Sans honneur la Muse gist morte;</l>
+		<l>Les amoureuses du jourd’huy</l>
+		<pb n="110"/>
+		<l>En se vendant aiment celuy</l>
+		<l>Qui le plus d’argent leur apporte.</l>
+		<l>Puisse mourir meschantement</l>
+		<l>Qui l’or ayma premièrement!</l>
+		<l>Par luy le frere n’est pas frere,</l>
+		<l>Par luy le pere n’est pas seur,</l>
+		<l>Par luy la sœur n’est pas la sœur,</l>
+		<l>Et la mere n’est pas la mere.</l>
+		<l>Par luy la guerre et le discord,</l>
+		<l>Par luy les glaives et la mort,</l>
+		<l>Par luy viennent mille tristesses,</l>
+		<l>Et, qui pis est, nous recevons</l>
+		<l>La mort par luy, nous qui vivons</l>
+		<l>Amoureux d’avares maistresses.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="16">
+						<head>
+							<title>QU’IL NE VEUT CHANTER
+QUE DE S’AMIE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>L’un dit la prise des Murailles</l>
+		<l>De Thebe, et l’autre les batailles</l>
+		<pb n="111"/>
+		<l>De Troye; mais j’ay entrepris</l>
+		<l>De dire comme je fus pris.</l>
+		<l>Ni nef, pieton, ni chevalier</l>
+		<l>Ne m’ont point rendu prisonnier.</l>
+		<l>Qui donc a perdu ma franchise?</l>
+		<l>Un nouveau scadron furieux</l>
+		<l>D’amoureaux armé des beaux yeux</l>
+		<l>De ma Dame, a causé ma prise.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="17">
+						<head>
+							<title>HYMNE A BACCHUS</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Beuvons gaillards de ce bon vin,</l>
+		<l>Et chantons un hymne divin</l>
+		<l>A ce bon Pere porte-lance,</l>
+		<l>A ce bon Bacchus trouve-dance :</l>
+		<l>C’est luy qui porte aide et faveur</l>
+		<l>A cil qui chante en son honneur,</l>
+		<l>C’est luy qui de façon resemble</l>
+		<l>A l’Amour, l’amoureux ensemble,</l>
+		<l>Le mignon et le favorit</l>
+		<l>De Venus qui tousjours luy rit.</l>
+		<l>Par luy nous vint la cognoissance</l>
+		<pb n="112"/>
+		<l>De boire, et par luy prit naissance</l>
+		<l>La grâce, et par luy les douleurs,</l>
+		<l>Et par luy s’estanchent les pleurs :</l>
+		<l>Car si tost qu’une jeune troupe,</l>
+		<l>Disposte, nous donne une coupe,</l>
+		<l>Nos maux, nos ennuis et tourmens,</l>
+		<l>S’envolent compagnons des vents.</l>
+		<l>Ça donc ce verre, et que je noyé</l>
+		<l>Le soing qui de nous fait sa proye.</l>
+		<l>Dieux, que nous sert de lamenter,</l>
+		<l>Puis que la vie est incertaine,</l>
+		<l>Aux vivans et chose trop vaine</l>
+		<l>De se promettre le futur?</l>
+		<l>De boire et danser c’est mon heur,</l>
+		<l>Et dans le giron de ma dame</l>
+		<l>Appaiser l’ardeur de ma flame.</l>
+		<l>Que les hommes s’attristent tous</l>
+		<l>Tant qu’ils voudront, quant est de nous,</l>
+		<l>Beuvons gaillards de ce bon vin,</l>
+		<l>Et chantons un hymne divin</l>
+		<l>A ce bon Pere porte-lance,</l>
+		<l>A ce bon Bacchus trouve-dance.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="113"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="18">
+						<head>
+							<title>DU PLAISIR DE BOIRE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Quand je boy de ce bon vin,</l>
+		<l>Soudain je sens ma poitrine</l>
+		<l>Qui veut commencer un hymne</l>
+		<l>Aux Muses, troupeau divin :</l>
+		<l>Tous mes ennuis et mes maux,</l>
+		<l>£t mes plaintes langoureuses,</l>
+		<l>Par les rides poissonneuses</l>
+		<l>S’escoulent au fond des eaux.</l>
+		<l>Tout aussi tost ce bon Dieu,</l>
+		<l>Par les haleines souflantes</l>
+		<l>Des doux Zéphyrs, odorantes,</l>
+		<l>Me ravist quand j’ay bien beu :</l>
+		<l>J’ourdis un chapeau de fleurs,</l>
+		<l>Et sur mon chef je le plante,</l>
+		<l>Puis sur ma lyre je chante</l>
+		<l>De la vie les douceurs.</l>
+		<pb n="114"/>
+		<l>De parfums et d’odeurs plein,</l>
+		<l>Je chante ma Cytheree,</l>
+		<l>Tenant mon cœur, ma sucree,</l>
+		<l>Estroitement dans mon sein.</l>
+		<l>J’aime les filles alors,</l>
+		<l>Et sous la largeur d’un verre</l>
+		<l>Tous mes ennuis je deserre,</l>
+		<l>Et loing je les pousse hors.</l>
+		<l>Quand je boy, c’est le seul gain</l>
+		<l>Que je prétends de la vie,</l>
+		<l>Puis qu a tous elle est ravie</l>
+		<l>Par la Parque si soudain.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="19">
+						<head>
+							<title>QU’IL FAUT BOIRE
+PAR NÉCESSITÉ</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>La terre les eaux va boivant,</l>
+		<l>L’arbre la boit par sa racine,</l>
+		<l>La mer éparse boit le vent,</l>
+		<l>Et le soleil boit la marine;</l>
+		<pb n="115"/>
+		<l>Le soleil est beu de la lune;</l>
+		<l>Tout boit, soit en haut ou en bas :</l>
+		<l>Suivant ceste règle commune,</l>
+		<l>Pourquoi donc ne boirons-nous pas?</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="20">
+						<head>
+							<title>DE VIVRE GAYEMENT</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Je suis né pour prendre fin,</l>
+		<l>Et pour faire le chemin</l>
+		<l>De ce trop soudain voyage :</l>
+		<l>Je cognois combien j’ay dâge,</l>
+		<l>Mais, las! je ne dois sçavoir</l>
+		<l>Les ans que je puis avoir.</l>
+		<l>Loin de moy fuyez tristesse,</l>
+		<l>Fuyez ennuis et detresse,</l>
+		<l>Loin de moy fuyez vous tous,</l>
+		<l>Je n’ay que faire avec vous!</l>
+		<l>Pendant que vif je soupire,</l>
+		<l>Je veux dancer, je veux rire,</l>
+		<l>Ayant tousjours compagnon</l>
+		<l>Le bon Bacchus mon mignon.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="116"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="21">
+						<head>
+							<title>QU’IL VEUT
+FOLASTREMENT BOIRE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Atys l’effeminé,</l>
+		<l>De rage espoinçonné</l>
+		<l>Hurle avecques Cybelle,</l>
+		<l>Et s’eschauffe après elle :</l>
+		<l>Et ceux-là qui ont beu</l>
+		<l>Seulement un bien peu</l>
+		<l>De l’eau du Cler parlante,</l>
+		<l>D’une fureur piquante</l>
+		<l>Du Dieu porte-laurier</l>
+		<l>Commencent à crier :</l>
+		<l>Et moy plein du bon Pere,</l>
+		<l>Et des jeux de Cythere,</l>
+		<l>Et de parfum, je veux</l>
+		<l>Devenir furieux.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="22">
+						<head>
+							<title>L’IVRESSE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Aussi tost mon esmoy</l>
+		<l>S’endort, que dedans moy,</l>
+		<l>Dedans moy est entree</l>
+		<pb n="117"/>
+		<l>Ceste liqueur sacree :</l>
+		<l>Gaillard je veux chanter,</l>
+		<l>Et riche me vanter</l>
+		<l>Degaler en puissance</l>
+		<l>De Crœse la chevance.</l>
+		<l>Tout à plat je m’estens</l>
+		<l>Sur le ventre, et je prens</l>
+		<l>Un tortis de lierre,</l>
+		<l>Puis le soing qui me serre,</l>
+		<l>Pour ne l’avoir jamais,</l>
+		<l>Sous le pié je le mets.</l>
+		<l>S’arme, qui a vouloir</l>
+		<l>S’armer, pour le devoir</l>
+		<l>D’acheter une gloire,</l>
+		<l>Quant à moy je veux boire :</l>
+		<l>Sus donc, page, soudain</l>
+		<l>Donne ce verre plein,</l>
+		<l>Mieux vaut se coucher yvre</l>
+		<l>Que mort sans plus revivre.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="118"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="23">
+						<head>
+							<title>LA DANSE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Bacchus, race de Jupiter,</l>
+		<l>Le deli-soing, le chasse-peine,</l>
+		<l>Si tost qu’ay la poitrine pleine</l>
+		<l>De luy, il m’apprend à sauter :</l>
+		<l>Ce qu’en plaisir me fait passer</l>
+		<l>Le fil des ans : puis ma mignonne</l>
+		<l>Quand je suis las, plaisir me donne,</l>
+		<l>Et puis je retourne dancer.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="24">
+						<head>
+							<title>COMME IL VEUT VIVRE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>J’aime la dance et le jeu</l>
+		<l>Du bon Denys, ce bon Dieu :</l>
+		<l>J’aime avec une jeunesse,</l>
+		<l>Sous ma lyre chanteresse,</l>
+		<l>Aux doux accens de ma vois,</l>
+		<l>Boire de ce vin gregeois :</l>
+		<l>Mais ce que plus je desire,</l>
+		<l>C’est de chanter et de rire,</l>
+		<l>D’œillets ayant le chapeau,</l>
+		<pb n="119"/>
+		<l>Avec un jeune troupeau.</l>
+		<l>Je ne porte envie aucune</l>
+		<l>Dedans mon cœur, ny rancune,</l>
+		<l>J’évité les traits légers</l>
+		<l>Des hommes trop langagers :</l>
+		<l>Plus que mort je hay le trouble,</l>
+		<l>Qui tous jours séparé et trouble,</l>
+		<l>Par faits et propos mutins,</l>
+		<l>Le doux honneur des festins.</l>
+		<l>Passon donc nos jours tranquilles</l>
+		<l>Avec un troupeau de filles,</l>
+		<l>Dançans sous les chants mignons</l>
+		<l>De ma lyre et de mes sons.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="25">
+						<head>
+							<title>L’HEURE PRÉSENTE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Du grand Turc je n’ay souci</l>
+		<l>Ny de l’Empereur aussi :</l>
+		<l>L’or n’attire point ma vie :</l>
+		<l>Aux Roys je ne porte envie :</l>
+		<l>J’ay soucy tant seulement</l>
+		<l>D’oindre mon poil d’oignement :</l>
+		<pb n="120"/>
+		<l>J’ay soucy qu’une couronne</l>
+		<l>De fleurs ma teste environne :</l>
+		<l>Le soin de ce jour me point :</l>
+		<l>Du demain, je n’en ay point :</l>
+		<l>Et qui sçauroit bien cognoistre</l>
+		<l>Si un lendemain doit estre?</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="26">
+						<head>
+							<title>SOUHAITS</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Plusieurs, de leurs corps desnuez</l>
+		<l>Se sont veus en diverse terre</l>
+		<l>Miraculeusement muez,</l>
+		<l>L’un en serpent et l’autre en pierre.</l>
+		<l>L’un en fleur, l’autre en arbrisseau,</l>
+		<l>L’un en loup, l’autre en colombelle;</l>
+		<l>L’un se vid changer en ruisseau,</l>
+		<l>Et l’autre devint arondelle.</l>
+		<l>Mais je voudrois estre miroir</l>
+		<l>Afin que tousjours tu me visses,</l>
+		<pb n="121"/>
+		<l>Chemise je voudrois me voir,</l>
+		<l>Afin que tousjours tu me prisses.</l>
+		<l>Volontiers eau je deviendrois,</l>
+		<l>Afin que ton corps je lavasse;</l>
+		<l>Estre du parfum je voudrois,</l>
+		<l>Afin que je te parfumasse.</l>
+		<l>Je voudrois estre le riban</l>
+		<l>Qui serre ta belle poitrine;</l>
+		<l>Je voudrois estre le carquan</l>
+		<l>Qui orne ta gorge yvoirine.</l>
+		<l>Je voudrois estre tout autour</l>
+		<l>Le coral qui tes lèvres touche,</l>
+		<l>Afin de baiser nuict et jour</l>
+		<l>Tes belles lèvres et ta bouche.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="122"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="27">
+						<head>
+							<title>SONGE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Dessus un tapis de soye</l>
+		<l>D’un dous sommeil me paissant,</l>
+		<l>Il me sembloit que j’estoye</l>
+		<l>Des fillettes pourchassant,</l>
+		<l>Courant apres de vitesse :</l>
+		<l>Mais une pronte jeunesse</l>
+		<l>De garçons me devançoit,</l>
+		<l>Et pour elles me tançoit.</l>
+		<l>Puis si tost que de leur bouche</l>
+		<l>En sommeillant je m’approuche</l>
+		<l>Pour les baiser, je les voy</l>
+		<l>S’escarter soudain de moy.</l>
+		<l>Ainsi pipé de mensonge</l>
+		<l>Je me r’endors sur mon songe,</l>
+		<l>Pour assoupir mon esmoy.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="123"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="28">
+						<head>
+							<title>LA FAÇON
+D’UN VASE D’ARGENT</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Vulcan, fay-moy d’argent fin</l>
+		<l>Non pas un harnois, à fin</l>
+		<l>De me trouver aux batailles,</l>
+		<l>Je ne veux ny dard ny mailles,</l>
+		<l>N’escaille, ny corcelet,</l>
+		<l>Mais un gentil gobelet,</l>
+		<l>Un gobelet à double anse,</l>
+		<l>Creux au fond, large la panse :</l>
+		<l>Et puis me grave à l’entour</l>
+		<l>Non des astres le retour,</l>
+		<l>Ny leur charrette courriere,</l>
+		<l>Ny l’estoile poussiniere,</l>
+		<l>Ny d’Orion le cruel</l>
+		<l>L’orage continuel :</l>
+		<l>Qu’ay-je à faire des Hyades,</l>
+		<l>Du Bouvier ou des Pléiades?</l>
+		<l>Taille-moy dessus le bor,</l>
+		<l>Une vigne aux raisins d’or,</l>
+		<pb n="124"/>
+		<l>Et d’or un Bacchus qui pile</l>
+		<l>Avec Amour et Bathyle,</l>
+		<l>Patinans en un tonneau</l>
+		<l>A beaux piez le vin nouveau.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="29">
+						<head>
+							<title>L’ARONDELLE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Tay-toy, babillarde arondelle</l>
+		<l>Ou bien je plumeray ton aile,</l>
+		<l>Si je l’empoigne, et d’un Cousteau</l>
+		<l>Je te couperay ta languette,</l>
+		<l>Qui matin sans repos caquette</l>
+		<l>Et m’estourdit tout le cerveau.</l>
+		<l>Je te preste ma cheminee</l>
+		<l>Pour chanter toute la journée,</l>
+		<l>De soir, de nuict quand tu voudras;</l>
+		<l>Mais au matin ne me resveille,</l>
+		<l>Et ne m’oste quand je sommeille,</l>
+		<l>Ma Cassandre d’entre les bras.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="125"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="30">
+						<head>
+							<title>LA SIESTE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Fay-moy près ce jouvenceau</l>
+		<l>Un ombrageux arbrisseau,</l>
+		<l>Afin que sa tresse blonde</l>
+		<l>Soit au branle vagabonde</l>
+		<l>De ses rameaux tendrelets :</l>
+		<l>Fay près de luy crespelets</l>
+		<l>Les replis d’une fontaine</l>
+		<l>Doux-coulant parmy la plaine.</l>
+		<l>Voyant cest heureux pourpris,</l>
+		<l>Dieux! qui n’en seroit espris?</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="31">
+						<head>
+							<title>IL FAUT JOUIR</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Hé pourquoy m’apprens-tu l’usage</l>
+		<l>Du jargon rhetoricien?</l>
+		<l>Hé que nous sert tant de langage</l>
+		<l>Qui ne nous profite de rien?</l>
+		<l>Appren-moy gouster la liqueur</l>
+		<l>De ce bon Pere qui m’agree,</l>
+		<pb n="126"/>
+		<l>Et avec Venus la doree</l>
+		<l>Appren-moy d’egayer mon cœur.</l>
+		<l>Je grisonne : Page, de l’eau,</l>
+		<l>Du vin que j’endorme mon ame.</l>
+		<l>Bien tost je seray sous la lame :</l>
+		<l>Que desire un mort au tombeau?</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="32">
+						<head>
+							<title>A CORYDON</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Pour boire, dessus l’herbe tendre,</l>
+		<l>Je veux sous un laurier m’estendre,</l>
+		<l>Et veux qu’Amour, d’un petit brin</l>
+		<l>Ou de lin ou de cheneviere</l>
+		<l>Trousse au flanc sa robe legere,</l>
+		<l>Et my-nud me verse du vin.</l>
+		<l>L’incertaine vie de l’homme</l>
+		<l>De jour en jour se roule, comme</l>
+		<l>Aux rives se roulent les flots,</l>
+		<l>Et, après nostre heure derniere,</l>
+		<l>Rien de nous ne reste en la biere</l>
+		<l>Que je ne sçay quels petits os.</l>
+		<pb n="127"/>
+		<l>Je ne veux, selon la coustume,</l>
+		<l>Que d’encens ma tombe on parfume,</l>
+		<l>Ni qu’on y verse des odeurs :</l>
+		<l>Mais, tandis que je suis en vie,</l>
+		<l>J’ay de me parfumer envie</l>
+		<l>Et de me couronner de fleurs.</l>
+		<l>Corydon, va quérir ma mie :</l>
+		<l>Avant que la Parque blesmie</l>
+		<l>M’envoye aux éternelles nuits,</l>
+		<l>Je veux, avec la tasse pleine</l>
+		<l>Et avec elle, ester la peine</l>
+		<l>De mes misérables ennuis.</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="33">
+						<head>
+							<title>EXCUSE DE SA VIEILLESSE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Les femmes disent : « Tu es vieux,</l>
+		<l>Anacreon : pour le voir mieux</l>
+		<l>Pren ce miroûer, et voy ta face,</l>
+		<l>Voy tes cheveux, qui de leur place</l>
+		<l>Sont tombez, restant seulement</l>
+		<l>Un front pelé totalement. »</l>
+		<pb n="128"/>
+		<l>Or quant à moy, je ne sçay pas</l>
+		<l>Si mes cheveux tombez en bas</l>
+		<l>Soyent ou non : mais je sçay fort bien</l>
+		<l>Que le vieillard ne doit en rien</l>
+		<l>Perdre un seul poinct de son plaisir,</l>
+		<l>Mais plus tost haster le désir</l>
+		<l>Qu’il a d’y faire son effort,</l>
+		<l>D’autant qu’il est près de la mort.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="34">
+						<head>
+							<title>QU’IL FAUT DANGER
+ET BOIRE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Beuvons, et que chacun tortille</l>
+		<l>Pour soy, d’une façon gentille,</l>
+		<l>De roses un beau chapelet :</l>
+		<l>La fille portant le lierre,</l>
+		<l>Fredonnant dessus sa guiterre,</l>
+		<l>Dance d’un pied mignardelet :</l>
+		<l>Puis qu’un jeune garson accorde</l>
+		<l>Aux douces voix sa douce corde,</l>
+		<pb n="129"/>
+		<l>Poussant des sons les plus mignards.</l>
+		<l>Vienne Amour ayant d’or la tresse,</l>
+		<l>Bacchus et Venus la deesse,</l>
+		<l>Aux festins aimez des vieillards.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="35">
+						<head>
+							<title>QU’IL BOIT MIEUX</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Je suis vieil, et si boy mieux</l>
+		<l>Que la gaillarde jeunesse :</l>
+		<l>J’ay, si je suis en liesse</l>
+		<l>Pour sceptre un flacon vineux,</l>
+		<l>Le tyrse rien ne vaut,</l>
+		<l>Et si quelcun veut s’esbatre,</l>
+		<l>Aille guerrier pour combatre</l>
+		<l>Dans un camp, il ne m’en chaut.</l>
+		<l>Donne-moy de ce vin doux,</l>
+		<l>Garçon, dedans ce grand verre,</l>
+		<l>A fin que sautelant j’erre</l>
+		<l>Comme un Silen devant tous.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="130"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="36">
+						<head>
+							<title>DE SOY MESME</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Aussi tost que je tiens propos</l>
+		<l>Seulet avecques ma maistresse,</l>
+		<l>Aussi tost j’entre en allaigresse,</l>
+		<l>Et vieillard je danse dispos.</l>
+		<l>Cybelle demeure avec nous,</l>
+		<l>De roses que l’on me couronne,</l>
+		<l>Loing de moy, vieillesse grisonne</l>
+		<l>Dieu, je rajeunis entre vous!</l>
+		<l>Donnez-moi de ceste liqueur,</l>
+		<l>De ceste liqueur pressuree</l>
+		<l>Du grain de la vigne pampree,</l>
+		<l>Pour voir un vieillard de bon cœur,</l>
+		<l>Un vieillard encore bien appris</l>
+		<l>De bien parler et de bien boire,</l>
+		<l>Et qui de fureur et de gloire</l>
+		<l>Encor quelquefois est épris.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="131"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="37">
+						<head>
+							<title>ODE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>J’aime la gaillarde vieillesse,</l>
+		<l>J’aime la folastre jeunesse :</l>
+		<l>Hé! le vieillard qui librement</l>
+		<l>Folastre en dançant jeunement,</l>
+		<l>Est-il pas de cheveux et d’âge</l>
+		<l>Grison et jeune de courage?</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="38">
+						<head>
+							<title>QUE LA RICHESSSE NE PEUT
+RIEN CONTRE LA MORT</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Si l’or et la richesse</l>
+		<l>Retardoyent la vistesse,</l>
+		<l>La vistesse et le cours</l>
+		<l>De nos beaux jours,</l>
+		<l>Je l’aurois en reserve,</l>
+		<l>Afin de rendre serve</l>
+		<l>La mort, tirant à soy</l>
+		<l>L’argent de moy.</l>
+		<pb n="132"/>
+		<l>Mais las! puis que la vie</l>
+		<l>A tous vivans ravie</l>
+		<l>Ne se peut retarder</l>
+		<l>Pour marchander,</l>
+		<l>Que me sert tant de plaintes,</l>
+		<l>Tant de larmes contraintes</l>
+		<l>Et sanglots ennuyeux</l>
+		<l>Pousser aux cieux?</l>
+		<l>Puis que la mort cruelle</l>
+		<l>Sans merci nous appelle,</l>
+		<l>Que nous serviroit or’</l>
+		<l>L’argent et l’or?</l>
+		<l>Avant que mort descendre</l>
+		<l>Là-bas, je veux despendre</l>
+		<l>Et rire, à table mis</l>
+		<l>De mes amis,</l>
+		<l>Tenant ma Cytheree</l>
+		<l>Mollement enserree,</l>
+		<pb n="133"/>
+		<l>Avant le mien trespas,</l>
+		<l>Entre mes bras.</l>
+		<l>RemiBELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="39">
+						<head>
+							<title>A SA MAISTRESSE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Pourtant si j’ay le poil grison,</l>
+		<l>Ne me dédaigné pas, maistresse,</l>
+		<l>Ores que tu sois en jeunesse,</l>
+		<l>Et en ta plus verte saison.</l>
+		<l>Voy-tu pas que les lis meslez</l>
+		<l>Avecques la rose vermeille,</l>
+		<l>Servent de grâce nompareille</l>
+		<l>Aux replis de tes chapelez?</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="40">
+						<head>
+							<title>LA ROSE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Verson ces roses en ce vin,</l>
+		<l>En ce bon vin verson ces roses,</l>
+		<l>Et boivon l’un à l’autre, afin</l>
+		<pb n="134"/>
+		<l>Qu’au cœur nos tristesses encloses</l>
+		<l>Prennent en boivant quelque fin.</l>
+		<l>La belle Rose du printemps,</l>
+		<l>Aubert, admoneste les hommes</l>
+		<l>Passer joyeusement le temps,</l>
+		<l>Et pendant que jeunes nous sommes</l>
+		<l>Esbatre la fleur de nos ans.</l>
+		<l>Car, ainsi qu’elle defleurit</l>
+		<l>A bas en une matinée,</l>
+		<l>Ainsi nostre âge se flétrit,</l>
+		<l>Las! et en moins d’une journée</l>
+		<l>Le printemps d’un homme périt.</l>
+		<l>Ne veis tu pas hier Brinon</l>
+		<l>Parlant et faisant bonne chere,</l>
+		<l>Lequel aujourd’hui n’est sinon</l>
+		<l>Qu’un peu de poudre en une biere,</l>
+		<l>Qui de lui n’a rien que le nom?</l>
+		<l>RONSARD</l>
+	</lg>
+							</seg>
+						</ab>
+						<pb n="135"/>
+					</div>
+					<div type="textpart" subtype="chapter" n="41">
+						<head>
+							<title>LA CIGALLE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Ha que nous t’estimons heureuse,</l>
+		<l>Gentille cigalle amoureuse!</l>
+		<l>Car aussi tost que tu as beu</l>
+		<l>Dessus les arbrisseaux un peu</l>
+		<l>De la rosee, aussi contente</l>
+		<l>Qu’est une princesse puissante,</l>
+		<l>Tu fais de ta doucette vois</l>
+		<l>Tressaillir les monts et les bois.</l>
+		<l>Tout ce qu’apporte la campagne,</l>
+		<l>Tout ce qu’apporte la montagne,</l>
+		<l>Est ton propre : au laboureur</l>
+		<l>Tu plais sur tout, car son labeur</l>
+		<l>N’offenses ny portes dommage</l>
+		<l>N’a luy, ny a son labourage.</l>
+		<l>Tout homme estime ta bonté,</l>
+		<l>Douce prophète de l’Esté!</l>
+		<l>La Muse t’aime, et t’aime aussi</l>
+		<l>Apollon, qui t’a fait ainsi</l>
+		<pb n="136"/>
+		<l>Doucement chanter : la vieillesse</l>
+		<l>Comme nous jamais ne te blesse.</l>
+		<l>O sage, o fille terre-née,</l>
+		<l>Aime-chanson, passionnée</l>
+		<l>Qui ne fus onc d’affection,</l>
+		<l>Franche de toute passion,</l>
+		<l>Sans estre de sang ny de chair,</l>
+		<l>Presque semblable à Jupiter.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+						</ab>
+					</div>
+					<div type="textpart" subtype="chapter" n="42">
+						<head>
+							<title>SUR UN TABLEAU DU RAVISSEMENT D’EUROPE</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Ce toreau qui porte en crope</l>
+		<l>La Sidonienne Europe,</l>
+		<l>Et qui passe la grand’mer,</l>
+		<l>Je croy que c’est Jupiter.</l>
+		<l>Voyez comme il coupe et sonde</l>
+		<l>Les flots de la mer profonde</l>
+		<l>De l’ongle, puis du troupeau</l>
+		<l>Jamais on ne vit toreau</l>
+		<pb n="137"/>
+		<l>Traverser l’humide espace,</l>
+		<l>Si ce n’est luy qui le passe.</l>
+		<l>Remi BELLEAU</l>
+	</lg>
+							</seg>
+							</ab>
+		</div>
+		<div type="textpart" subtype="chapter" n="43">
+						<head>
+							<title>LE TOMBEAU D’ANACRÉON</title>
+						</head>
+						<ab>
+							<seg type="fragment">
+	<lg>
+		<l>Ici, où la rose fleurit, où la vigne</l>
+		<l>s’enlace autour du laurier, où les co-</l>
+		<l>lombes s’appellent, où le grillon se</l>
+		<l>réjouit, quel est ce tombeau, où tous</l>
+		<l>les dieux ont semé avec grâce la parure</l>
+		<l>de la vie? Là repose Anacréon. Il a</l>
+		<l>joui du printemps, de l’été et de l’au-</l>
+		<l>tomne, l’heureux poète, et cette colline</l>
+		<l>enfin l’a préservé de l’hiver.</l>
+		<l>Goethe, poésies. Trad. Porchat</l>
+	</lg>
+							</seg>
+						</ab>
+				</div>
+			</div>
+	</div>
+			<div type="textpart" subtype="back">
+				<pb n="139"/>
+				<p>TABLE</p>
+				<p>PAGES</p>
+				<p>Notice sur Anacréon............. 5</p>
+				<p>LA LYRE DU POÈTE.......... 17</p>
+				<p>ÉROS DIEU DE L’AMOUR</p>
+				<p>Invocation.................... 21</p>
+				<p>L’Éros enchaîné............... 21</p>
+				<p>L’Éros piqué au doigt............ 22</p>
+				<p>L’Éros vainqueur.............. 23</p>
+				<p>L’Éros de cire............... 24</p>
+				<p>L’Éros mouillé............... 25</p>
+				<p>L’Éros coureur............... 26</p>
+				<p>L’Éros renaissant.............. 27</p>
+				<p>Songe.................... 28</p>
+				<p>Les flèches d’Éros.............. 28</p>
+				<p>Les amants................. 29</p>
+				<p>L’argent................... 30</p>
+				<p>L’or..................... 30</p>
+				<p>Les défaites................. 32</p>
+				<p>Fragments.................. 32</p>
+				<p>Fragments.................. 33</p>
+				<p>BACCHOS DIEU DU VIN</p>
+				<p>Hymne à Bacchos.............. 37</p>
+				<p>Quand je bois du vin............ 38</p>
+				<p>Buvons................... 39</p>
+				<p>Résolution.................. 40</p>
+				<p>Les soucis du poète............. 40</p>
+				<p>Versez, femmes, versez........... 41</p>
+				<pb n="140"/>
+				<p>Le délire.................. 41</p>
+				<p>L’ivresse.................. 42</p>
+				<p>Je veux perdre la raison........... 43</p>
+				<p>Le retour de Bacchos............ 44</p>
+				<p>La vendange................ 44</p>
+				<p>Qu’il faut boire sans excès.......... 46</p>
+				<p>Le festin................... 46</p>
+				<p>Le convive................. 47</p>
+				<p>La danse................... 47</p>
+				<p>Érotique................... 48</p>
+				<p>L’heure présente............... 49</p>
+				<p>Fragments.................. 49</p>
+				<p>Fragments................... 50</p>
+				<p>LES JEUNES FILLES</p>
+				<p>Portrait................... 53</p>
+				<p>Souhaits................... 54</p>
+				<p>Mes amours................. 55</p>
+				<p>Sur une jeune fille................ 56</p>
+				<p>Songe.................... 57</p>
+				<p>Le plaisir.................. 58</p>
+				<p>La beauté.................. 58</p>
+				<p>Maintenant je chante............ 59</p>
+				<p>Fragments.................. 59</p>
+				<p>Fragments.................. 60</p>
+				<p>BATHYLLE</p>
+				<p>Portrait................... 63</p>
+				<p>La colombe................. 65</p>
+				<p>La coupe.................. 66</p>
+				<p>A une hirondelle............. 67</p>
+				<p>La sieste................... 67</p>
+				<p>Fragment 68</p>
+				<pb n="141"/>
+				<p>LA VIEILLESSE</p>
+				<p>Il faut jouir de la vie............ 71</p>
+				<p>Invocation à Éros.............. 72</p>
+				<p>L’art de vieillir............... 73</p>
+				<p>Les festins des vieillards.......... 73</p>
+				<p>Le vieillard dansant............. 74</p>
+				<p>Sur un vieillard............... 75</p>
+				<p>Le vieillard et les jeunes gens........ 75</p>
+				<p>La crainte de la mort............ 76</p>
+				<p>La vanité de l’or.............. 76</p>
+				<p>Les cheveux blancs.............. 77</p>
+				<p>Fragments.................. 78</p>
+				<p>BUCOLIQUES</p>
+				<p>Le printemps................ 81</p>
+				<p>La rose................... 82</p>
+				<p>L’offrande à Bacchos............. 84</p>
+				<p>La cigale.................. 84</p>
+				<p>Sur Artémon................ 85</p>
+				<p>Sur un tableau représentant Europe..... 86</p>
+				<p>Sur une coupe ciselée............ 87</p>
+				<p>Sur un disque représentant Aphrodite.... 88</p>
+				<p>A un peintre................ 89</p>
+				<p>Sur Artémis................. 90</p>
+				<p>Inscriptions................. 90</p>
+				<p>Epitaphes.................. 91</p>
+				<p>La tombe du poète............. 95</p>
+				<p>IMITATIONS D’ANACRÉON</p>
+				<p>La lyre du poète.............. 99</p>
+				<p>L’amour prisonnier des muses........ 100</p>
+				<p>L’amour piqué par une abeille........ 101</p>
+				<p>D’une image d’Amonr fait en cire...... 103</p>
+				<pb n="142"/>
+				<p>L’Amour mouillé.............. 104</p>
+				<p>L’arondelle................. 107</p>
+				<p>Les flèches d’Amour............. 108</p>
+				<p>Que c’est grand malheur d’aimer...... 109</p>
+				<p>Qu’il ne veut chanter que de s’amie..... 110</p>
+				<p>Hymne à Bacchus.............. 111</p>
+				<p>Du plaisir de boire............. 113</p>
+				<p>Qu’il faut boire par nécessité........ 114</p>
+				<p>De vivre gayement............. 115</p>
+				<p>Qu’il veut folastrement boire........ 116</p>
+				<p>L’ivresse.................. 116</p>
+				<p>La danse.................. 118</p>
+				<p>Comme il veut vivre............ 118</p>
+				<p>L’heure présente............... 119</p>
+				<p>Souhaits................... 120</p>
+				<p>Songe.................... 122</p>
+				<p>La façon d’un vase d’argent......... 123</p>
+				<p>L’arondelle................. 124</p>
+				<p>La sieste................... 125</p>
+				<p>Il faut jouir................. 125</p>
+				<p>A Corydon................. 126</p>
+				<p>Excuse de sa vieillesse........... 127</p>
+				<p>Qu’il faut dancer et boire.......... 128</p>
+				<p>Qu’il boit mieux............... 129</p>
+				<p>De soy mesme................ 130</p>
+				<p>Ode..................... 131</p>
+				<p>Que la richesse ne peut rien contre la mort 131</p>
+				<p>A sa maistresse............... 133</p>
+				<p>La rose................... 133</p>
+				<p>La cigalle.................. 135</p>
+				<p>Sur un tableau du ravissement d’Europe... 136</p>
+				<p>Le tombeau d’Anacréon........... 137</p>
+							</div>
+		</body>
+	</text>
+</TEI>
